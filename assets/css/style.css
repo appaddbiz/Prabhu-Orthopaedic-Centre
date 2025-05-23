@@ -4805,7 +4805,8 @@ ol.wp-block-rss {
   padding: 0 0 0 16px;
   margin-bottom: 11px;
   font-family: var(--body-font);
-  color: var(--body-color);
+  /* color: var(--body-color); */
+  color: white;
   display: block;
   max-width: 100%;
   width: -webkit-max-content;
@@ -4833,7 +4834,7 @@ ol.wp-block-rss {
   font-size: 0.9em;
   background-color: transparent;
   border: none;
-  color: inherit;
+  color: white;
 }
 
 .footer-widget.widget_meta a:hover,
@@ -4842,6 +4843,7 @@ ol.wp-block-rss {
 .footer-widget.widget_categories a:hover,
 .footer-widget.widget_nav_menu a:hover {
   background-color: transparent;
+  color: var(--theme-color);
   color: var(--theme-color);
 }
 
@@ -4862,7 +4864,8 @@ ol.wp-block-rss {
   height: auto;
   position: relative;
   background-color: transparent;
-  color: var(--body-color);
+  /* color: var(--body-color); */
+  color: white;
   line-height: 1;
 }
 
@@ -4925,7 +4928,7 @@ ol.wp-block-rss {
 }
 
 .th-widget-about .about-logo {
-  margin-bottom: 35px;
+  /* margin-bottom: 35px; */
 }
 
 .th-widget-about .about-text {
@@ -5973,7 +5976,8 @@ ol.wp-block-rss {
 }
 
 .footer-info i {
-  color: var(--theme-color);
+  /* color: var(--theme-color); */
+  color: white;
   min-width: 23px;
   margin-top: 6px;
 }
@@ -6397,7 +6401,8 @@ ol.wp-block-rss {
 
 .info-box_link {
   display: inline-block;
-  color: var(--body-color);
+  /* color: var(--body-color); */
+  color: white;
 }
 
 .info-box_link:hover {
