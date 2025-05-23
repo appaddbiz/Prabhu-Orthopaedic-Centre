@@ -3,13 +3,16 @@
   <head>
     <meta charset="utf-8" />
     <meta http-equiv="x-ua-compatible" content="ie=edge" />
-    <title>Mediax - Health & Medical HTML Template - Medical Clinic</title>
+    <title>Dr. Chetan Patil S – Orthopaedic Specialist</title>
     <meta name="author" content="Mediax" />
     <meta
       name="description"
-      content="Mediax - Health & Medical HTML Template"
+      content="Dr. Chetan Patil S – Orthopaedic Specialist"
     />
-    <meta name="keywords" content="Mediax - Health & Medical HTML Template" />
+    <meta
+      name="keywords"
+      content="Dr. Chetan Patil S – Orthopaedic Specialist"
+    />
     <meta name="robots" content="INDEX,FOLLOW" />
 
     <!-- Mobile Specific Metas -->
@@ -19,74 +22,38 @@
     />
 
     <!-- Favicons - Place favicon.ico in the root directory -->
-    <link
-      rel="apple-touch-icon"
-      sizes="57x57"
-      href="assets/img/favicons/apple-icon-57x57.png"
-    />
-    <link
-      rel="apple-touch-icon"
-      sizes="60x60"
-      href="assets/img/favicons/apple-icon-60x60.png"
-    />
-    <link
-      rel="apple-touch-icon"
-      sizes="72x72"
-      href="assets/img/favicons/apple-icon-72x72.png"
-    />
-    <link
-      rel="apple-touch-icon"
-      sizes="76x76"
-      href="assets/img/favicons/apple-icon-76x76.png"
-    />
-    <link
-      rel="apple-touch-icon"
-      sizes="114x114"
-      href="assets/img/favicons/apple-icon-114x114.png"
-    />
-    <link
-      rel="apple-touch-icon"
-      sizes="120x120"
-      href="assets/img/favicons/apple-icon-120x120.png"
-    />
-    <link
-      rel="apple-touch-icon"
-      sizes="144x144"
-      href="assets/img/favicons/apple-icon-144x144.png"
-    />
-    <link
-      rel="apple-touch-icon"
-      sizes="152x152"
-      href="assets/img/favicons/apple-icon-152x152.png"
-    />
-    <link
-      rel="apple-touch-icon"
-      sizes="180x180"
-      href="assets/img/favicons/apple-icon-180x180.png"
-    />
+    <link rel="apple-touch-icon" sizes="57x57" href="assets/logo/logo.png" />
+    <link rel="apple-touch-icon" sizes="60x60" href="assets/logo/logo.png" />
+    <link rel="apple-touch-icon" sizes="72x72" href="assets/logo/logo.png" />
+    <link rel="apple-touch-icon" sizes="76x76" href="assets/logo/logo.png" />
+    <link rel="apple-touch-icon" sizes="114x114" href="assets/logo/logo.png" />
+    <link rel="apple-touch-icon" sizes="120x120" href="assets/logo/logo.png" />
+    <link rel="apple-touch-icon" sizes="144x144" href="assets/logo/logo.png" />
+    <link rel="apple-touch-icon" sizes="152x152" href="assets/logo/logo.png" />
+    <link rel="apple-touch-icon" sizes="180x180" href="assets/logo/logo.png" />
     <link
       rel="icon"
       type="image/png"
       sizes="192x192"
-      href="assets/img/favicons/android-icon-192x192.png"
+      href="assets/logo/logo.png"
     />
     <link
       rel="icon"
       type="image/png"
       sizes="32x32"
-      href="assets/img/favicons/favicon-32x32.png"
+      href="assets/logo/logo.png"
     />
     <link
       rel="icon"
       type="image/png"
       sizes="96x96"
-      href="assets/img/favicons/favicon-96x96.png"
+      href="assets/logo/logo.png"
     />
     <link
       rel="icon"
       type="image/png"
       sizes="16x16"
-      href="assets/img/favicons/favicon-16x16.png"
+      href="assets/logo/favicon.png"
     />
     <link rel="manifest" href="assets/img/favicons/manifest.json" />
     <meta name="msapplication-TileColor" content="#ffffff" />
@@ -121,6 +88,25 @@
     <link rel="stylesheet" href="assets/css/jquery.datetimepicker.min.css" />
     <!-- Theme Custom CSS -->
     <link rel="stylesheet" href="assets/css/style.css" />
+
+    <style>
+      @media (min-width: 769px) {
+        .mobile-banner {
+          display: none;
+        }
+        .desk-banner {
+          margin-top: 100px;
+        }
+      }
+      @media (max-width: 768px) {
+        .desk-banner {
+          display: none;
+        }
+        .mobile-banner {
+          margin-top: 30px;
+        }
+      }
+    </style>
   </head>
 
   <body>
@@ -143,7 +129,7 @@
     <!--==============================
     Sidemenu
 ============================== -->
-    <div class="sidemenu-wrapper sidemenu-cart">
+    <!-- <div class="sidemenu-wrapper sidemenu-cart">
       <div class="sidemenu-content">
         <button class="closeButton sideMenuCls">
           <i class="far fa-times"></i>
@@ -259,11 +245,11 @@
           </div>
         </div>
       </div>
-    </div>
+    </div> -->
     <!--==============================
     Sidemenu
 ============================== -->
-    <div class="sidemenu-wrapper sidemenu-info">
+    <!-- <div class="sidemenu-wrapper sidemenu-info">
       <div class="sidemenu-content">
         <button class="closeButton sideMenuCls">
           <i class="far fa-times"></i>
@@ -352,7 +338,7 @@
         <input type="text" placeholder="What are you looking for?" />
         <button type="submit"><i class="fal fa-search"></i></button>
       </form>
-    </div>
+    </div> -->
     <!--==============================
     Mobile Menu
   ============================== -->
@@ -360,71 +346,79 @@
       <div class="th-menu-area text-center">
         <button class="th-menu-toggle"><i class="fal fa-times"></i></button>
         <div class="mobile-logo">
-          <a href="home-medical-clinic.html"
-            ><img src="assets/img/logo.svg" alt="Mediax"
+          <a href="/"
+            ><img src="assets/logo/logo.png" style="height: 120px" alt="Mediax"
           /></a>
         </div>
         <div class="th-mobile-menu">
           <ul>
+            <li>
+              <a href="/">Home</a>
+            </li>
+            <li><a href="#">About Doctor</a></li>
             <li class="menu-item-has-children">
-              <a href="home-medical-clinic.html">Home</a>
+              <a href="#">Orthopaedic Treatment br & Surgery </a>
               <ul class="sub-menu">
-                <li><a href="home-medical-clinic.html">Medical Clinic</a></li>
-                <li><a href="home-dental-care.html">Dental Care</a></li>
-                <li><a href="home-medical-shop.html">Medical Shop</a></li>
-                <li>
-                  <a href="home-ophthalmology.html">Home Ophthalmology</a>
+                <li><a href="#">Orthopaedic Trauma</a></li>
+                <li class="menu-item-has-children">
+                  <a href="#">Arthroplasty/Joint Replacement</a>
+                  <ul class="sub-menu">
+                    <li><a href="#">Hip Surgery</a></li>
+                    <li><a href="#">Knee Surgery</a></li>
+                    <li><a href="#">Shoulder Surgery</a></li>
+                    <li><a href="#">Ankles Surgery</a></li>
+                    <li><a href="#">Elbows Surgery</a></li>
+                    <li><a href="#">Wrists Surgery</a></li>
+                    <li><a href="#">Finger Surgery</a></li>
+                    <li><a href="#">Toes Surgery</a></li>
+                    <li><a href="#">Foot Surgery</a></li>
+                  </ul>
                 </li>
-                <li><a href="home-pediatrics.html">Home Pediatrics</a></li>
-                <li><a href="home-gynecology.html">Home Gynecology</a></li>
+                <li class="menu-item-has-children">
+                  <a href="#">Arthroscopy</a>
+                  <ul class="sub-menu">
+                    <li><a href="#">Elbow Arthroscopy</a></li>
+                    <li><a href="#">Foot and Ankle Arthroscopy</a></li>
+                    <li><a href="#">Hand and Wrist Arthroscopy</a></li>
+                    <li><a href="#">Hip Arthroscopy</a></li>
+                    <li><a href="#">Knee Arthroscopy</a></li>
+                    <li><a href="#">Shoulder Arthroscopy</a></li>
+                  </ul>
+                </li>
                 <li>
-                  <a href="home-aesthetic-dentistry.html"
-                    >Aesthetic Dentistry</a
+                  <a href="#">Sports Injury Treatments</a>
+                </li>
+                <li>
+                  <a href="#">Spine Treatments</a>
+                </li>
+              </ul>
+            </li>
+            <li class="menu-item-has-children">
+              <a href="#">Facility</a>
+              <ul class="sub-menu">
+                <li><a href="#">Expert Orthopaedic Consultation</a></li>
+                <li><a href="#">X-Ray Facility</a></li>
+                <li><a href="#">Physiotherapy</a></li>
+                <li>
+                  <a href="#"
+                    >Bone Marrow Concentrate Injection for Osteonecrosis/AVN</a
                   >
                 </li>
                 <li>
-                  <a href="home-medical-cosmetics.html">Medical Cosmetics</a>
+                  <a href="#"
+                    >Bone Marrow Concentrate Injection for Cartilage Defects</a
+                  >
                 </li>
-              </ul>
-            </li>
-            <li><a href="about.html">About Us</a></li>
-            <li class="menu-item-has-children">
-              <a href="#">Service</a>
-              <ul class="sub-menu">
-                <li><a href="service.html">Service</a></li>
-                <li><a href="service-details.html">Service Details</a></li>
-              </ul>
-            </li>
-            <li class="menu-item-has-children">
-              <a href="#">Pages</a>
-              <ul class="sub-menu">
-                <li class="menu-item-has-children">
-                  <a href="#">Shop</a>
-                  <ul class="sub-menu">
-                    <li><a href="shop.html">Shop</a></li>
-                    <li><a href="shop-details.html">Shop Details</a></li>
-                    <li><a href="cart.html">Cart Page</a></li>
-                    <li><a href="checkout.html">Checkout</a></li>
-                    <li><a href="wishlist.html">Wishlist</a></li>
-                  </ul>
-                </li>
-                <li><a href="team.html">Team</a></li>
-                <li><a href="team-details.html">Team Details</a></li>
-                <li><a href="appointment.html">Appointments</a></li>
-                <li><a href="faq.html">Faq Page</a></li>
-                <li><a href="pricing.html">Pricing Plan</a></li>
-                <li><a href="error.html">Error Page</a></li>
-              </ul>
-            </li>
-            <li class="menu-item-has-children">
-              <a href="#">Blog</a>
-              <ul class="sub-menu">
-                <li><a href="blog.html">Blog</a></li>
-                <li><a href="blog-details.html">Blog Details</a></li>
               </ul>
             </li>
             <li>
-              <a href="contact.html">Contact</a>
+              <a href="#">Gallery </a>
+            </li>
+            <li>
+              <a href="#">Testimonials</a>
+            </li>
+            <li>
+              <a href="#">Contact Us</a>
             </li>
           </ul>
         </div>
@@ -436,19 +430,23 @@
     <header class="th-header header-layout3">
       <div class="header-top">
         <div class="container-fluid">
-          <div
-            class="row justify-content-center justify-content-lg-between align-items-center gy-2"
-          >
+          <div class="row justify-content-between align-items-center gy-2">
             <div class="col-auto d-none d-lg-block">
               <div class="header-links">
                 <ul>
                   <li class="d-none d-sm-inline-block">
-                    <i class="fas fa-phone icon-btn"></i><b>Phone:</b>
-                    <a href="tel:+1636543569">+163-654-3569</a>
+                    <i class="fas fa-phone"></i><b>Phone:</b>
+                    <a style="color: white" href="tel:+919611109866"
+                      >+91 96111 09866</a
+                    >
                   </li>
                   <li class="d-none d-xxl-inline-block">
-                    <i class="fas fa-envelope icon-btn"></i><b>Email:</b>
-                    <a href="mailto:info@mediax.com">info@mediax.com</a>
+                    <i class="fas fa-envelope"></i><b>Email:</b>
+                    <a
+                      style="color: white"
+                      href="mailto:patil.chetan361@gmail.com"
+                      >patil.chetan361@gmail.com</a
+                    >
                   </li>
                 </ul>
               </div>
@@ -456,31 +454,6 @@
             <div class="col-auto">
               <div class="header-links">
                 <ul>
-                  <li class="d-none d-md-inline-block">
-                    <div class="dropdown-link">
-                      <a
-                        class="dropdown-toggle"
-                        href="#"
-                        role="button"
-                        id="dropdownMenuLink1"
-                        data-bs-toggle="dropdown"
-                        aria-expanded="true"
-                        ><img src="assets/img/icon/english.png" alt="icon" />
-                        English</a
-                      >
-                      <ul
-                        class="dropdown-menu"
-                        aria-labelledby="dropdownMenuLink1"
-                      >
-                        <li>
-                          <a href="#">German</a>
-                          <a href="#">French</a>
-                          <a href="#">Italian</a>
-                          <a href="#">Latvian</a>
-                        </li>
-                      </ul>
-                    </div>
-                  </li>
                   <li>
                     <div class="social-links">
                       <span class="social-title">Follow Us On: </span>
@@ -533,14 +506,59 @@
                     <li class="menu-item-has-children">
                       <a href="#">Orthopaedic Treatment & Surgery </a>
                       <ul class="sub-menu">
-                        <li><a href="#">Service</a></li>
+                        <li><a href="#">Orthopaedic Trauma</a></li>
+                        <li class="menu-item-has-children">
+                          <a href="#">Arthroplasty/Joint Replacement</a>
+                          <ul class="sub-menu">
+                            <li><a href="#">Hip Surgery</a></li>
+                            <li><a href="#">Knee Surgery</a></li>
+                            <li><a href="#">Shoulder Surgery</a></li>
+                            <li><a href="#">Ankles Surgery</a></li>
+                            <li><a href="#">Elbows Surgery</a></li>
+                            <li><a href="#">Wrists Surgery</a></li>
+                            <li><a href="#">Finger Surgery</a></li>
+                            <li><a href="#">Toes Surgery</a></li>
+                            <li><a href="#">Foot Surgery</a></li>
+                          </ul>
+                        </li>
+                        <li class="menu-item-has-children">
+                          <a href="#">Arthroscopy</a>
+                          <ul class="sub-menu">
+                            <li><a href="#">Elbow Arthroscopy</a></li>
+                            <li><a href="#">Foot and Ankle Arthroscopy</a></li>
+                            <li><a href="#">Hand and Wrist Arthroscopy</a></li>
+                            <li><a href="#">Hip Arthroscopy</a></li>
+                            <li><a href="#">Knee Arthroscopy</a></li>
+                            <li><a href="#">Shoulder Arthroscopy</a></li>
+                          </ul>
+                        </li>
                         <li>
-                          <a href="#">Service Details</a>
+                          <a href="#">Sports Injury Treatments</a>
+                        </li>
+                        <li>
+                          <a href="#">Spine Treatments</a>
                         </li>
                       </ul>
                     </li>
-                    <li>
+                    <li class="menu-item-has-children">
                       <a href="#">Facility</a>
+                      <ul class="sub-menu">
+                        <li><a href="#">Expert Orthopaedic Consultation</a></li>
+                        <li><a href="#">X-Ray Facility</a></li>
+                        <li><a href="#">Physiotherapy</a></li>
+                        <li>
+                          <a href="#"
+                            >Bone Marrow Concentrate Injection for
+                            Osteonecrosis/AVN</a
+                          >
+                        </li>
+                        <li>
+                          <a href="#"
+                            >Bone Marrow Concentrate Injection for Cartilage
+                            Defects</a
+                          >
+                        </li>
+                      </ul>
                     </li>
                     <li>
                       <a href="#">Gallery </a>
@@ -556,9 +574,9 @@
               </div>
               <div class="col-auto">
                 <div class="header-button">
-                  <!-- <a href="appointment.html" class="th-btn style4"
+                  <a href="appointment.html" class="th-btn style4"
                     >Appointment Now</a
-                  > -->
+                  >
                   <!-- <button
                     type="button"
                     class="icon-btn sideMenuInfo d-none d-xl-inline-block"
@@ -582,52 +600,124 @@
 Hero Area
 ==============================-->
     <div
-      class="th-hero-wrapper hero-2"
-      id="hero"
-      data-bg-src="assets/img/hero/hero_bg_2_1.jpg"
+      id="carouselExampleControls"
+      class="carousel slide"
+      data-bs-ride="carousel"
+      style="max-width: 1800px; margin: 0 auto"
     >
-      <div class="hero-inner">
-        <div class="container">
-          <div class="hero-style2">
-            <span class="sub-title"
-              ><img src="assets/img/theme-img/title_icon.svg" alt="shape" />24/7
-              Emergency Service</span
-            >
-            <h1 class="hero-title2">
-              <span class="title1"
-                >Caring for <span class="line-text">Health</span></span
-              >
-              <span class="title2">Caring for You</span>
-            </h1>
-            <p class="hero-text">
-              A brief statement outlining the purpose and mission of the clinic.
-              This can include the commitment to patient care, community health.
-            </p>
-            <div class="btn-group justify-content-center">
-              <a href="about.html" class="th-btn">Discover More</a>
-              <a href="service.html" class="th-btn style4">See All Services</a>
+      <div class="carousel-inner">
+        <div class="carousel-item active">
+          <div>
+            <div class="desk-banner">
+              <img
+                src="assets/banners/Surgical Excellence, Compassionate Care. (1).webp"
+                class="d-block w-100"
+                alt="..."
+              />
+            </div>
+            <div class="mobile-banner">
+              <img
+                src="assets/banners/mobile-4 (1).webp"
+                class="d-block w-100"
+                alt="..."
+              />
             </div>
           </div>
         </div>
-        <div class="hero-img">
-          <img src="assets/img/hero/hero_2_1.png" alt="Image" />
+        <div class="carousel-item">
+          <div>
+            <div class="desk-banner">
+              <img
+                src="assets/banners/Arthroscopy (1).webp"
+                class="d-block w-100"
+                alt="..."
+              />
+            </div>
+            <div class="mobile-banner">
+              <img
+                src="assets/banners/mobile-3 (3).webp"
+                class="d-block w-100"
+                alt="..."
+              />
+            </div>
+          </div>
         </div>
-        <div class="hero-shape1">
-          <img src="assets/img/hero/hero_shape_2_1.svg" alt="shape" />
+        <div class="carousel-item">
+          <div>
+            <div class="desk-banner">
+              <img
+                src="assets/banners/Joint Replacement.webp"
+                class="d-block w-100"
+                alt="..."
+              />
+            </div>
+            <div class="mobile-banner">
+              <img
+                src="assets/banners/mobile-2 (4).webp"
+                class="d-block w-100"
+                alt="..."
+              />
+            </div>
+          </div>
         </div>
-        <div class="hero-shape2">
-          <img src="assets/img/hero/hero_shape_2_2.svg" alt="shape" />
+
+        <div class="carousel-item">
+          <div>
+            <div class="desk-banner">
+              <img
+                src="assets/banners/Trauma.webp"
+                class="d-block w-100"
+                alt="..."
+              />
+            </div>
+            <div class="mobile-banner">
+              <img
+                src="assets/banners/mobile-1 (6).webp"
+                class="d-block w-100"
+                alt="..."
+              />
+            </div>
+          </div>
         </div>
-        <div class="hero-shape3">
-          <img src="assets/img/hero/hero_shape_2_3.svg" alt="shape" />
-        </div>
-        <div class="hero-shape4">
-          <img src="assets/img/hero/hero_shape_2_4.svg" alt="shape" />
-        </div>
-        <div class="hero-shape5">
-          <img src="assets/img/hero/hero_shape_2_5.svg" alt="shape" />
+        <div class="carousel-item">
+          <div>
+            <div class="desk-banner">
+              <img
+                src="assets/banners/Sports Injury Treatment.webp"
+                class="d-block w-100"
+                alt="..."
+              />
+            </div>
+            <div class="mobile-banner">
+              <img
+                src="assets/banners/mobile (9).webp"
+                class="d-block w-100"
+                alt="..."
+              />
+            </div>
+          </div>
         </div>
       </div>
+      <button
+        class="carousel-control-prev"
+        style="background-color: transparent; border: 0px"
+        type="button"
+        data-bs-target="#carouselExampleControls"
+        data-bs-slide="prev"
+      >
+        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Previous</span>
+      </button>
+      <button
+        class="carousel-control-next"
+        type="button"
+        style="background-color: transparent; border: 0px"
+        data-bs-target="#carouselExampleControls"
+        data-bs-slide="next"
+      >
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Next</span>
+      </button>
     </div>
     <!--======== / Hero Section ========-->
 
@@ -638,12 +728,12 @@ About Area
       <div class="container">
         <div class="row">
           <div class="col-xl-6 mb-30 mb-xl-0">
-             <div class="text-center about-doct-mobile">
+            <div class="text-center about-doct-mobile">
               <span class="sub-title">About the Doctor</span>
               <h2 class="sec-title">
                 Meet Dr. Chetan Patil S – Orthopaedic Specialist
               </h2>
-             </div>
+            </div>
             <div class="img-box6">
               <div class="img1 text-center">
                 <img
@@ -663,8 +753,11 @@ About Area
                   alt="About"
                 />
               </div>
-              <div class="project-counter about-mobile" style="margin-bottom: -70px">
-                <h3 class="box-number">
+              <div
+                class="project-counter about-mobile"
+                style="margin-bottom: -70px"
+              >
+                <h3 class="box-number text-white">
                   <span class="counter-number">10</span>+
                 </h3>
                 <h4 class="box-title">Years of Experience</h4>
@@ -675,11 +768,11 @@ About Area
             <div class="title-area mb-4">
               <div class="about-doct-desk">
                 <span class="sub-title">About the Doctor</span>
-              <h2 class="sec-title" style="font-size: 40px">
-                Meet Dr. Chetan Patil S – Orthopaedic Specialist
-              </h2>
+                <h2 class="sec-title" style="font-size: 40px">
+                  Meet Dr. Chetan Patil S – Orthopaedic Specialist
+                </h2>
               </div>
-              <p class="sec-text" style="text-align: justify;">
+              <p class="sec-text" style="text-align: justify">
                 Dr. Chetan Patil S is an experienced orthopaedic surgeon with a
                 strong background in arthroscopy, joint replacement, and trauma
                 care. Trained in premier institutions in India and Germany, he
@@ -716,7 +809,9 @@ About Area
             </div>
             <div class="justify-content-between">
               <a href="#" class="th-btn text-white">About Doctor</a>
-              <a href="#" class="th-btn style4 about-mobile">Book An Appointment</a>
+              <a href="#" class="th-btn style4 about-mobile"
+                >Book An Appointment</a
+              >
             </div>
           </div>
         </div>
@@ -731,37 +826,37 @@ About Area
       <div class="container">
         <div class="counter-card-wrap">
           <div class="counter-card">
-            <h2 class="box-number" style="color: white;">
+            <h2 class="box-number" style="color: white">
               <span class="number"
                 ><span class="counter-number">10</span>+</span
               >
             </h2>
-            <p class="box-text" style="color: white;">Years of Experience</p>
+            <p class="box-text" style="color: white">Years of Experience</p>
           </div>
           <div class="divider"></div>
           <div class="counter-card">
-            <h2 class="box-number" style="color: white;">
+            <h2 class="box-number" style="color: white">
               <span class="number"
                 ><span class="counter-number">5000</span>+</span
               >
             </h2>
-            <p class="box-text" style="color: white;">Surgeries Performed</p>
+            <p class="box-text" style="color: white">Surgeries Performed</p>
           </div>
           <div class="divider"></div>
           <div class="counter-card">
-            <h2 class="box-number" style="color: white;">
+            <h2 class="box-number" style="color: white">
               <span class="number"
                 ><span class="counter-number">3000</span>+</span
               >
             </h2>
-            <p class="box-text" style="color: white;">Happy Patients</p>
+            <p class="box-text" style="color: white">Happy Patients</p>
           </div>
           <div class="divider"></div>
           <div class="counter-card">
-            <h2 class="box-number" style="color: white;">
+            <h2 class="box-number" style="color: white">
               <span class="number"><span class="counter-number">4</span></span>
             </h2>
-            <p class="box-text" style="color: white;">Fellowships Completed</p>
+            <p class="box-text" style="color: white">Fellowships Completed</p>
           </div>
         </div>
       </div>
@@ -770,15 +865,12 @@ About Area
     <!--==============================
 Service Area  
 ==============================-->
-    <section class="overflow-hidden bg-smoke space" id="service-sec" >
-      <div class="container" style="margin-top: 100px;">
+    <section class="overflow-hidden bg-smoke space" id="service-sec">
+      <div class="container" style="margin-top: 100px">
         <div class="row justify-content-center">
           <div class="col-lg-6 col-md-8">
             <div class="title-area text-center">
-              <span class="sub-title"
-                >Our
-                Orthopaedic Treatment & Surgery</span
-              >
+              <span class="sub-title">Our Orthopaedic Treatment & Surgery</span>
               <h3 class="sec-title">Comprehensive Care, Expertly Delivered</h3>
             </div>
           </div>
@@ -804,7 +896,10 @@ Service Area
                 <img src="assets/img/bg/service_card_bg.png" alt="Service" />
               </div>
               <div class="box-icon">
-                <img src="assets/flat-icons/Orthopaedic-Trauma.png" alt="Icon" />
+                <img
+                  src="assets/flat-icons/Orthopaedic-Trauma.png"
+                  alt="Icon"
+                />
               </div>
               <h3 class="box-title">
                 <a href="#">Orthopaedic Trauma</a>
@@ -833,7 +928,7 @@ Service Area
                 <img src="assets/img/bg/service_card_bg.png" alt="Service" />
               </div>
               <div class="box-icon">
-                <img src="assets/flat-icons/Joint-Replacement.png"  alt="Icon" />
+                <img src="assets/flat-icons/Joint-Replacement.png" alt="Icon" />
               </div>
               <h3 class="box-title">
                 <a href="#">Joint Replacement</a>
@@ -1018,7 +1113,9 @@ Service Area
           </div>
         </div>
         <div class="mt-5 pt-2 text-center">
-           <a href="#" class="th-btn btn-sm style4 ">View All Orthopaedic Treatments & Surgeries</a>
+          <a href="#" class="th-btn btn-sm style4"
+            >View All Orthopaedic Treatments & Surgeries</a
+          >
         </div>
       </div>
     </section>
@@ -1090,7 +1187,11 @@ Feature Area
                 <div class="eye-feature">
                   <div class="icon-wrap">
                     <div class="box-icon">
-                      <img src="assets/flat-icons/fellowship.png" style="height: 40px;" alt="icon" />
+                      <img
+                        src="assets/flat-icons/fellowship.png"
+                        style="height: 40px"
+                        alt="icon"
+                      />
                     </div>
                     <div class="box-number">01</div>
                   </div>
@@ -1103,7 +1204,11 @@ Feature Area
                 <div class="eye-feature">
                   <div class="icon-wrap">
                     <div class="box-icon">
-                      <img src="assets/flat-icons/Orthopaedic Surgeon.png" style="height: 40px;" alt="icon" />
+                      <img
+                        src="assets/flat-icons/Orthopaedic Surgeon.png"
+                        style="height: 40px"
+                        alt="icon"
+                      />
                     </div>
                     <div class="box-number">02</div>
                   </div>
@@ -1116,7 +1221,11 @@ Feature Area
                 <div class="eye-feature">
                   <div class="icon-wrap">
                     <div class="box-icon">
-                      <img src="assets/flat-icons/Experience.png" style="height: 40px;" alt="icon" />
+                      <img
+                        src="assets/flat-icons/Experience.png"
+                        style="height: 40px"
+                        alt="icon"
+                      />
                     </div>
                     <div class="box-number">03</div>
                   </div>
@@ -1129,7 +1238,11 @@ Feature Area
                 <div class="eye-feature">
                   <div class="icon-wrap">
                     <div class="box-icon">
-                      <img src="assets/flat-icons/patient-care.png" style="height: 40px;" alt="icon" />
+                      <img
+                        src="assets/flat-icons/patient-care.png"
+                        style="height: 40px"
+                        alt="icon"
+                      />
                     </div>
                     <div class="box-number">04</div>
                   </div>
@@ -1302,7 +1415,11 @@ Appointment Area
                       />
                     </div>
                     <div class="box-icon">
-                      <img src="assets/flat-icons/Orthopaedic Consultation.png" style="height: 50px;" alt="Icon" />
+                      <img
+                        src="assets/flat-icons/Orthopaedic Consultation.png"
+                        style="height: 50px"
+                        alt="Icon"
+                      />
                     </div>
                   </div>
                   <div class="box-content">
@@ -1337,7 +1454,11 @@ Appointment Area
                       />
                     </div>
                     <div class="box-icon">
-                      <img src="assets/flat-icons/x-rays.png" style="height: 50px;" alt="Icon" />
+                      <img
+                        src="assets/flat-icons/x-rays.png"
+                        style="height: 50px"
+                        alt="Icon"
+                      />
                     </div>
                   </div>
                   <div class="box-content">
@@ -1372,7 +1493,11 @@ Appointment Area
                       />
                     </div>
                     <div class="box-icon">
-                      <img src="assets/flat-icons/Physiotherapy.png" style="height: 50px;" alt="Icon" />
+                      <img
+                        src="assets/flat-icons/Physiotherapy.png"
+                        style="height: 50px"
+                        alt="Icon"
+                      />
                     </div>
                   </div>
                   <div class="box-content">
@@ -1406,7 +1531,11 @@ Appointment Area
                       />
                     </div>
                     <div class="box-icon">
-                      <img src="assets/flat-icons/marrow.png" style="height: 50px;" alt="Icon" />
+                      <img
+                        src="assets/flat-icons/marrow.png"
+                        style="height: 50px"
+                        alt="Icon"
+                      />
                     </div>
                   </div>
                   <div class="box-content">
@@ -1444,7 +1573,11 @@ Appointment Area
                       />
                     </div>
                     <div class="box-icon">
-                      <img src="assets/flat-icons/cartilage.png" style="height: 50px;" alt="Icon" />
+                      <img
+                        src="assets/flat-icons/cartilage.png"
+                        style="height: 50px"
+                        alt="Icon"
+                      />
                     </div>
                   </div>
                   <div class="box-content">
@@ -1479,17 +1612,17 @@ Appointment Area
           </button>
         </div>
         <div class="col-md-auto about-doct-mobile mt-5 mb-0">
-            <div class="sec-btn">
-              <a href="#" class="th-btn text-white">View More Facilities</a>
-            </div>
+          <div class="sec-btn">
+            <a href="#" class="th-btn text-white">View More Facilities</a>
           </div>
+        </div>
       </div>
     </section>
 
     <!--==============================
 Process Area  
 ==============================-->
-    <section class="space" data-bg-src="" style="background-color: #f8f9fd;">
+    <section class="space" data-bg-src="" style="background-color: #f8f9fd">
       <div class="container">
         <div class="title-area text-center">
           <span class="sub-title">
@@ -1587,9 +1720,7 @@ Testimonial Area
     <section class="space" id="testi-sec">
       <div class="container">
         <div class="title-area text-center">
-          <span class="sub-title"
-            >Testimonials</span
-          >
+          <span class="sub-title">Testimonials</span>
           <h2 class="sec-title">Real Stories, Real Recovery, Real Results</h2>
         </div>
         <div
@@ -1608,15 +1739,38 @@ Testimonial Area
                   ><i class="fa-sharp fa-solid fa-star"></i>
                 </div>
                 <div class="box-quote">
-                  <img src="assets/testimonials/google.png" style="height: 40px;" alt="Icon" />
+                  <img
+                    src="assets/testimonials/google.png"
+                    style="height: 40px"
+                    alt="Icon"
+                  />
                 </div>
-                 <p class="box-text" style="height: 150px;overflow-y: scroll;">
-                  "One of the best and finest Ortho surgeon I have ever met in my life. He is having very good ortho knowledge/specialist experienced in his topic and very good person, he always talks to patient very politely with smile always. When I met with accident with Ulna bone fracture and Shoulder bone dislocation ( long back ) he treated me in all possible best ways and result was awesome than any other top surgeon in Manipal. Also, he did surgery to my father on 2/3 Femur bone fracture where it was near to impossible to do surgery at the age of 77 years due to weak bones and he explained me in detail how he is going to do that surgery and succeeded. His confidence level is very high on his subject .
-                  Believe me he is the best Doctor in the town.
-                  Today ( 16-06-2023) I was trying to reach his number which I have in mobile contact list to take appointment for my daughter collar bone treatment, but number didn’t go though, so I checked online and trying to reconfirm his mobile number but luckily, he hasn't changed his mobile number since then.
-                  Meanwhile, unfortunately to my surprise I saw some negative comments about him , gross ,!!!! Please don’t spoil Doctor names like this No doctor is bad, or money minded, for some cases he must do the tests for better treatment , it’s my turn to say my good experience with Dr Prabhu Sir.. even though I remembered you after long time.
-                  Dr. Prabhu sir……You are simply awesome Doctor ......subject matter expert of ORTHO !!!!
-                  meeting you soon !!!."
+                <p class="box-text" style="height: 150px; overflow-y: scroll">
+                  "One of the best and finest Ortho surgeon I have ever met in
+                  my life. He is having very good ortho knowledge/specialist
+                  experienced in his topic and very good person, he always talks
+                  to patient very politely with smile always. When I met with
+                  accident with Ulna bone fracture and Shoulder bone dislocation
+                  ( long back ) he treated me in all possible best ways and
+                  result was awesome than any other top surgeon in Manipal.
+                  Also, he did surgery to my father on 2/3 Femur bone fracture
+                  where it was near to impossible to do surgery at the age of 77
+                  years due to weak bones and he explained me in detail how he
+                  is going to do that surgery and succeeded. His confidence
+                  level is very high on his subject . Believe me he is the best
+                  Doctor in the town. Today ( 16-06-2023) I was trying to reach
+                  his number which I have in mobile contact list to take
+                  appointment for my daughter collar bone treatment, but number
+                  didn’t go though, so I checked online and trying to reconfirm
+                  his mobile number but luckily, he hasn't changed his mobile
+                  number since then. Meanwhile, unfortunately to my surprise I
+                  saw some negative comments about him , gross ,!!!! Please
+                  don’t spoil Doctor names like this No doctor is bad, or money
+                  minded, for some cases he must do the tests for better
+                  treatment , it’s my turn to say my good experience with Dr
+                  Prabhu Sir.. even though I remembered you after long time. Dr.
+                  Prabhu sir……You are simply awesome Doctor ......subject matter
+                  expert of ORTHO !!!! meeting you soon !!!."
                 </p>
                 <div class="box-profile">
                   <div class="box-img">
@@ -1641,17 +1795,44 @@ Testimonial Area
                   ><i class="fa-sharp fa-solid fa-star"></i>
                 </div>
                 <div class="box-quote">
-                  <img src="assets/testimonials/google.png" style="height: 40px;" alt="Icon" />
+                  <img
+                    src="assets/testimonials/google.png"
+                    style="height: 40px"
+                    alt="Icon"
+                  />
                 </div>
-                 <p class="box-text" style="height: 150px;overflow-y: scroll;">
-                  "My mother was suffering from severe knee pain due to osteoarthritis for years and Dr Prabhu recommended a total knee replacement around 4 years back. Due to her fear of surgery and some stories that she heard about failures in TKR cases, she decided not to undergo surgery. Her knee pain worsened to an extent wherein walking a few steps to visit the rest room became an ordeal. Finally she agreed and underwent a total knee replacement in Nov 22. Dr Prabhu performed the surgery and it was a successful one. Post surgery, the excellent care by Dr Prabhu and the physiotherapist, Dr Vara Prasad, has put my mom back on her feet!! It is 2 months now post surgery. My mother already feels she has a new lease of life and freedom. I waited for 2 months after the surgery to post a truthful review. The only regret I have is if my mother had agreed to undergo the TKR 5 years ago when Dr Prabhu had first recommended, she need not have suffered so much and lived a painful life of limited mobility. She is reclaiming her lost quality of life gradually. The last and the most encouraging aspect of this story is, my 70 year old mother is diabetic, hypertensive and slightly ovetweight!! If the TKR has succeeded for her, it should work on anyone too. So for all those who contemplate for a long time, please go ahead and reclaim your life. Do not wait for long and lose precious time and years with poorer quality of life due to a bad knee needing a replacement. Dr Prabhu has been my family Ortho' for nearly 20 years. Thank God for him and may God bless him and his team."
+                <p class="box-text" style="height: 150px; overflow-y: scroll">
+                  "My mother was suffering from severe knee pain due to
+                  osteoarthritis for years and Dr Prabhu recommended a total
+                  knee replacement around 4 years back. Due to her fear of
+                  surgery and some stories that she heard about failures in TKR
+                  cases, she decided not to undergo surgery. Her knee pain
+                  worsened to an extent wherein walking a few steps to visit the
+                  rest room became an ordeal. Finally she agreed and underwent a
+                  total knee replacement in Nov 22. Dr Prabhu performed the
+                  surgery and it was a successful one. Post surgery, the
+                  excellent care by Dr Prabhu and the physiotherapist, Dr Vara
+                  Prasad, has put my mom back on her feet!! It is 2 months now
+                  post surgery. My mother already feels she has a new lease of
+                  life and freedom. I waited for 2 months after the surgery to
+                  post a truthful review. The only regret I have is if my mother
+                  had agreed to undergo the TKR 5 years ago when Dr Prabhu had
+                  first recommended, she need not have suffered so much and
+                  lived a painful life of limited mobility. She is reclaiming
+                  her lost quality of life gradually. The last and the most
+                  encouraging aspect of this story is, my 70 year old mother is
+                  diabetic, hypertensive and slightly ovetweight!! If the TKR
+                  has succeeded for her, it should work on anyone too. So for
+                  all those who contemplate for a long time, please go ahead and
+                  reclaim your life. Do not wait for long and lose precious time
+                  and years with poorer quality of life due to a bad knee
+                  needing a replacement. Dr Prabhu has been my family Ortho' for
+                  nearly 20 years. Thank God for him and may God bless him and
+                  his team."
                 </p>
                 <div class="box-profile">
                   <div class="box-img">
-                    <img
-                      src="assets/testimonials/k k.png"
-                      alt="Avater"
-                    />
+                    <img src="assets/testimonials/k k.png" alt="Avater" />
                   </div>
                   <div class="box-content">
                     <h3 class="box-title">k k</h3>
@@ -1669,10 +1850,20 @@ Testimonial Area
                   ><i class="fa-sharp fa-solid fa-star"></i>
                 </div>
                 <div class="box-quote">
-                  <img src="assets/testimonials/google.png" style="height: 40px;" alt="Icon" />
+                  <img
+                    src="assets/testimonials/google.png"
+                    style="height: 40px"
+                    alt="Icon"
+                  />
                 </div>
-                <p class="box-text" style="height: 150px;overflow-y: scroll;">
-               "Dr. Chetan Patil S is a highly professional and friendly orthopedic doctor. He listens patiently, explains the diagnosis clearly, and ensures the treatment plan is well understood. His approachable nature makes it easy to discuss concerns, and he genuinely cares about his patients' well-being. I highly recommend him for anyone seeking quality orthopedic care!"
+                <p class="box-text" style="height: 150px; overflow-y: scroll">
+                  "Dr. Chetan Patil S is a highly professional and friendly
+                  orthopedic doctor. He listens patiently, explains the
+                  diagnosis clearly, and ensures the treatment plan is well
+                  understood. His approachable nature makes it easy to discuss
+                  concerns, and he genuinely cares about his patients'
+                  well-being. I highly recommend him for anyone seeking quality
+                  orthopedic care!"
                 </p>
                 <div class="box-profile">
                   <div class="box-img">
@@ -1697,12 +1888,20 @@ Testimonial Area
                   ><i class="fa-sharp fa-solid fa-star"></i>
                 </div>
                 <div class="box-quote">
-                  <img src="assets/testimonials/google.png" style="height: 40px;" alt="Icon" />
+                  <img
+                    src="assets/testimonials/google.png"
+                    style="height: 40px"
+                    alt="Icon"
+                  />
                 </div>
-                <p class="box-text" style="height: 150px;overflow-y: scroll;">
-                "Dr Chetan has be very considerate in treating my ankle injury and I'm glad to have been under his knowledgeable care.
-                His repeated follow ups and attention to detail tremendously helped during the recovery phase.
-                His patience and detail to attention is worth mentioning. I recommend Dr Chetan for any orthopaedic needs that may arise and can be sure he will be considerate and as caring to you too!!"
+                <p class="box-text" style="height: 150px; overflow-y: scroll">
+                  "Dr Chetan has be very considerate in treating my ankle injury
+                  and I'm glad to have been under his knowledgeable care. His
+                  repeated follow ups and attention to detail tremendously
+                  helped during the recovery phase. His patience and detail to
+                  attention is worth mentioning. I recommend Dr Chetan for any
+                  orthopaedic needs that may arise and can be sure he will be
+                  considerate and as caring to you too!!"
                 </p>
                 <div class="box-profile">
                   <div class="box-img">
@@ -1727,11 +1926,17 @@ Testimonial Area
                   ><i class="fa-sharp fa-solid fa-star"></i>
                 </div>
                 <div class="box-quote">
-                  <img src="assets/testimonials/google.png" style="height: 40px;" alt="Icon" />
+                  <img
+                    src="assets/testimonials/google.png"
+                    style="height: 40px"
+                    alt="Icon"
+                  />
                 </div>
-                <p class="box-text" style="height: 150px;overflow-y: scroll;">
-                  “My experience with Dr Chetan Patil was very good, he is the best doctor who has taken care of my husband. He is very soft spoken and has done painless surgery to my husband. I am really very greatful to him.
-                  "Vaidyo Naryano Hari".”
+                <p class="box-text" style="height: 150px; overflow-y: scroll">
+                  “My experience with Dr Chetan Patil was very good, he is the
+                  best doctor who has taken care of my husband. He is very soft
+                  spoken and has done painless surgery to my husband. I am
+                  really very greatful to him. "Vaidyo Naryano Hari".”
                 </p>
                 <div class="box-profile">
                   <div class="box-img">
@@ -1748,7 +1953,11 @@ Testimonial Area
             </div>
           </div>
           <div class="text-center mt-5">
-            <a href="https://www.google.com/search?rlz=1C1GCEU_enIN1161IN1161&sca_esv=d2e7cdd0b004c888&cs=0&output=search&kgmid=/g/11ln_t0p9y&q=Dr+Chetan+Patil+S&shndl=30&shem=lcuae,uaasie&source=sh/x/loc/uni/m1/1&kgs=fd11b2230d7b21fb#lrd=0x3bae3d7041e11519:0x6493b1a30c3a2fc4,1,,,," class="th-btn btn-sm style2">View More Reviews</a>
+            <a
+              href="https://www.google.com/search?rlz=1C1GCEU_enIN1161IN1161&sca_esv=d2e7cdd0b004c888&cs=0&output=search&kgmid=/g/11ln_t0p9y&q=Dr+Chetan+Patil+S&shndl=30&shem=lcuae,uaasie&source=sh/x/loc/uni/m1/1&kgs=fd11b2230d7b21fb#lrd=0x3bae3d7041e11519:0x6493b1a30c3a2fc4,1,,,,"
+              class="th-btn btn-sm style2"
+              >View More Reviews</a
+            >
           </div>
           <div class="slider-pagination"></div>
         </div>
@@ -1758,97 +1967,143 @@ Testimonial Area
     <!--==============================
 Blog Area  
 ==============================-->
-   <section class="space" id="blog-sec" data-bg-src="" style="background-color: #f8f9fd;">
-  <div class="container">
-    <div class="row justify-content-lg-between justify-content-center align-items-center">
-      <div class="col-lg">
-        <div class="title-area text-center text-lg-start">
-          <span class="sub-title">
-            <!-- <img src="assets/img/theme-img/title_icon.svg" alt="shape" /> -->
-            Our Blogs
-          </span>
-          <h2 class="sec-title">Orthopaedic Care: News, Advice & Innovations</h2>
+    <section
+      class="space"
+      id="blog-sec"
+      data-bg-src=""
+      style="background-color: #f8f9fd"
+    >
+      <div class="container">
+        <div
+          class="row justify-content-lg-between justify-content-center align-items-center"
+        >
+          <div class="col-lg">
+            <div class="title-area text-center text-lg-start">
+              <span class="sub-title">
+                <!-- <img src="assets/img/theme-img/title_icon.svg" alt="shape" /> -->
+                Our Blogs
+              </span>
+              <h2 class="sec-title">
+                Orthopaedic Care: News, Advice & Innovations
+              </h2>
+            </div>
+          </div>
+          <div class="col-lg-auto d-none d-lg-block">
+            <div class="sec-btn">
+              <a href="#" class="th-btn style4">View All Blogs</a>
+            </div>
+          </div>
         </div>
-      </div>
-      <div class="col-lg-auto d-none d-lg-block">
-        <div class="sec-btn">
-          <a href="#" class="th-btn style4">View All Blogs</a>
-        </div>
-      </div>
-    </div>
-    <div class="slider-area">
-      <div class="swiper th-slider has-shadow" id="blogSlider1"
-        data-slider-options='{"breakpoints":{"0":{"slidesPerView":1},"576":{"slidesPerView":"1"},"768":{"slidesPerView":"2"},"992":{"slidesPerView":"2"},"1200":{"slidesPerView":"3"}}}'>
-        <div class="swiper-wrapper">
-
-          <!-- Blog Post 1 -->
-          <div class="swiper-slide">
-            <div class="blog-card">
-              <div class="blog-img">
-                <img src="https://renisonclinic.com/wp-content/uploads/2024/05/ACL-Injury.jpg" style="aspect-ratio: 3/2;" alt="blog image" />
-              </div>
-              <div class="blog-content">
-                <div class="blog-meta">
-                  <a href="#"><i class="fal fa-user"></i>By Dr. Chetan Patil S</a>
-                  <a href="#"><i class="fal fa-calendar"></i>01 May, 2025</a>
+        <div class="slider-area">
+          <div
+            class="swiper th-slider has-shadow"
+            id="blogSlider1"
+            data-slider-options='{"breakpoints":{"0":{"slidesPerView":1},"576":{"slidesPerView":"1"},"768":{"slidesPerView":"2"},"992":{"slidesPerView":"2"},"1200":{"slidesPerView":"3"}}}'
+          >
+            <div class="swiper-wrapper">
+              <!-- Blog Post 1 -->
+              <div class="swiper-slide">
+                <div class="blog-card">
+                  <div class="blog-img">
+                    <img
+                      src="https://renisonclinic.com/wp-content/uploads/2024/05/ACL-Injury.jpg"
+                      style="aspect-ratio: 3/2"
+                      alt="blog image"
+                    />
+                  </div>
+                  <div class="blog-content">
+                    <div class="blog-meta">
+                      <a href="#"
+                        ><i class="fal fa-user"></i>By Dr. Chetan Patil S</a
+                      >
+                      <a href="#"
+                        ><i class="fal fa-calendar"></i>01 May, 2025</a
+                      >
+                    </div>
+                    <h3 class="box-title">
+                      <a href="#" style="font-size: 23px"
+                        >Understanding ACL Injuries and Modern Treatment
+                        Options</a
+                      >
+                    </h3>
+                    <a href="#" class="th-btn btn-sm">Read More</a>
+                  </div>
                 </div>
-                <h3 class="box-title">
-                  <a href="#" style="font-size: 23px;">Understanding ACL Injuries and Modern Treatment Options</a>
-                </h3>
-                <a href="#" class="th-btn btn-sm">Read More</a>
+              </div>
+
+              <!-- Blog Post 2 -->
+              <div class="swiper-slide">
+                <div class="blog-card">
+                  <div class="blog-img">
+                    <img
+                      src="https://nikhilpradhan.co.uk/wp-content/uploads/2023/07/Bone-Joint-Health.webp"
+                      style="aspect-ratio: 3/2"
+                      alt="blog image"
+                    />
+                  </div>
+                  <div class="blog-content">
+                    <div class="blog-meta">
+                      <a href="#"
+                        ><i class="fal fa-user"></i>By Dr. Chetan Patil S</a
+                      >
+                      <a href="#"
+                        ><i class="fal fa-calendar"></i>15 April, 2025</a
+                      >
+                    </div>
+                    <h3 class="box-title">
+                      <a href="#">Bone Health Tips for Every Stage of Life</a>
+                    </h3>
+                    <a href="#" class="th-btn btn-sm">Read More</a>
+                  </div>
+                </div>
+              </div>
+
+              <!-- Blog Post 3 -->
+              <div class="swiper-slide">
+                <div class="blog-card">
+                  <div class="blog-img">
+                    <img
+                      src="https://www.hopkinsmedicine.org/-/media/images/health/1_-conditions/sports-injuries/preventing-sports-injuries-teaser.jpg"
+                      style="aspect-ratio: 3/2"
+                      alt="blog image"
+                    />
+                  </div>
+                  <div class="blog-content">
+                    <div class="blog-meta">
+                      <a href="#"
+                        ><i class="fal fa-user"></i>By Dr. Chetan Patil S</a
+                      >
+                      <a href="#"
+                        ><i class="fal fa-calendar"></i>28 March, 2025</a
+                      >
+                    </div>
+                    <h3 class="box-title">
+                      <a href="#"
+                        >Preventing Sports Injuries: Proactive Orthopaedic
+                        Care</a
+                      >
+                    </h3>
+                    <a href="#" class="th-btn btn-sm">Read More</a>
+                  </div>
+                </div>
               </div>
             </div>
           </div>
-
-          <!-- Blog Post 2 -->
-          <div class="swiper-slide">
-            <div class="blog-card">
-              <div class="blog-img">
-                <img src="https://nikhilpradhan.co.uk/wp-content/uploads/2023/07/Bone-Joint-Health.webp" style="aspect-ratio: 3/2;" alt="blog image" />
-              </div>
-              <div class="blog-content">
-                <div class="blog-meta">
-                  <a href="#"><i class="fal fa-user"></i>By Dr. Chetan Patil S</a>
-                  <a href="#"><i class="fal fa-calendar"></i>15 April, 2025</a>
-                </div>
-                <h3 class="box-title">
-                  <a href="#">Bone Health Tips for Every Stage of Life</a>
-                </h3>
-                <a href="#" class="th-btn btn-sm">Read More</a>
-              </div>
-            </div>
-          </div>
-
-          <!-- Blog Post 3 -->
-          <div class="swiper-slide">
-            <div class="blog-card">
-              <div class="blog-img">
-                <img src="https://www.hopkinsmedicine.org/-/media/images/health/1_-conditions/sports-injuries/preventing-sports-injuries-teaser.jpg" style="aspect-ratio: 3/2;" alt="blog image" />
-              </div>
-              <div class="blog-content">
-                <div class="blog-meta">
-                  <a href="#"><i class="fal fa-user"></i>By Dr. Chetan Patil S</a>
-                  <a href="#"><i class="fal fa-calendar"></i>28 March, 2025</a>
-                </div>
-                <h3 class="box-title">
-                  <a href="#">Preventing Sports Injuries: Proactive Orthopaedic Care</a>
-                </h3>
-                <a href="#" class="th-btn btn-sm">Read More</a>
-              </div>
-            </div>
-          </div>
-
+          <button
+            data-slider-prev="#blogSlider1"
+            class="slider-arrow slider-prev"
+          >
+            <i class="far fa-arrow-left"></i>
+          </button>
+          <button
+            data-slider-next="#blogSlider1"
+            class="slider-arrow slider-next"
+          >
+            <i class="far fa-arrow-right"></i>
+          </button>
         </div>
       </div>
-      <button data-slider-prev="#blogSlider1" class="slider-arrow slider-prev">
-        <i class="far fa-arrow-left"></i>
-      </button>
-      <button data-slider-next="#blogSlider1" class="slider-arrow slider-next">
-        <i class="far fa-arrow-right"></i>
-      </button>
-    </div>
-  </div>
-</section>
+    </section>
 
     <!--==============================
 	Footer Area

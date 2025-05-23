@@ -1217,8 +1217,8 @@ textarea.is-invalid {
 }
 
 .th-menu-wrapper .mobile-logo {
-  padding-bottom: 30px;
-  padding-top: 40px;
+  padding-bottom: 10px;
+  padding-top: 10px;
   display: block;
   text-align: center;
   background-color: var(--smoke-color2);
@@ -5067,8 +5067,8 @@ ol.wp-block-rss {
 .main-menu a {
   display: block;
   position: relative;
-  font-weight: 600;
-  font-size: 16px;
+  font-weight: 700;
+  font-size: 15px;
   font-family: var(--body-font);
   color: var(--title-color);
   text-transform: uppercase;
@@ -5079,7 +5079,7 @@ ol.wp-block-rss {
 }
 
 .main-menu > ul > li {
-  margin: 0 19px;
+  margin: 0 10px;
 }
 
 .main-menu > ul > li > a {
@@ -5752,7 +5752,7 @@ ol.wp-block-rss {
 }
 
 .header-layout3 .header-top .container-fluid {
-  padding-left: 310px;
+  padding-left: 20px;
 }
 
 .header-layout3 .header-links li > i {
