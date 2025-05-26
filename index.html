@@ -94,9 +94,6 @@
         .mobile-banner {
           display: none;
         }
-        .desk-banner {
-          margin-top: 80px;
-        }
         .footer-logo {
           height: 190px !important;
           width: 70%;
@@ -105,9 +102,6 @@
       @media (max-width: 768px) {
         .desk-banner {
           display: none;
-        }
-        .mobile-banner {
-          margin-top: 30px;
         }
         .footer-logo {
           height: 200px !important;
@@ -355,7 +349,7 @@
         <button class="th-menu-toggle"><i class="fal fa-times"></i></button>
         <div class="mobile-logo">
           <a href="/"
-            ><img src="assets/logo/logo.png" style="height: 120px" alt="Mediax"
+            ><img src="assets/logo/logo.png" style="height: 150px" alt="Mediax"
           /></a>
         </div>
         <div class="th-mobile-menu">
@@ -435,26 +429,38 @@
     <!--==============================
 	Header Area
 ==============================-->
-    <header class="th-header header-layout3">
-      <div class="header-top">
-        <div class="container-fluid">
-          <div class="row justify-content-between align-items-center gy-2">
+    <header class="th-header header-layout1">
+      <div class="header-top" style="background-color: #0b5045">
+        <div class="container">
+          <div
+            class="row justify-content-center justify-content-lg-between align-items-center gy-2"
+          >
             <div class="col-auto d-none d-lg-block">
               <div class="header-links">
                 <ul>
                   <li class="d-none d-sm-inline-block">
-                    <i class="fas fa-phone"></i><b>Phone:</b>
-                    <a style="color: white" href="tel:+919611109866"
+                    <i class="fas fa-phone icon-btn"></i><b>Phone:</b>
+                    <a href="tel:+919611109866" class="text-white"
                       >+91 96111 09866</a
                     >
                   </li>
-                  <li class="d-none d-xxl-inline-block">
-                    <i class="fas fa-envelope"></i><b>Email:</b>
+                  <li class="d-none d-sm-inline-block">
+                    <i class="fas fa-envelope icon-btn"></i><b>Email:</b>
                     <a
-                      style="color: white"
                       href="mailto:patil.chetan361@gmail.com"
+                      class="text-white"
                       >patil.chetan361@gmail.com</a
                     >
+                  </li>
+                  <li class="d-none d-xxl-inline-block">
+                    <i class="fas fa-location-dot icon-btn"></i>
+                    <a
+                      href="https://maps.app.goo.gl/DjcKuBXCYSZ87LRp9"
+                      class="text-white"
+                    >
+                      Sri Ranga Arcade, 1st Block, Rajajinagar, Bengaluru,
+                      Karnataka 560010
+                    </a>
                   </li>
                 </ul>
               </div>
@@ -493,18 +499,22 @@
         <div class="menu-area">
           <div class="container-fluid">
             <div class="row align-items-center justify-content-between">
-              <div class="col-auto">
-                <div class="header-logo">
-                  <div class="logo-bg"></div>
-                  <a href="/"
-                    ><img
-                      src="assets/logo/logo.png"
-                      style="height: 100px"
-                      alt="Mediax"
-                  /></a>
+              <a href="/" class="col-auto">
+                <div
+                  class="header-logo"
+                  style="
+                    background-image: url(assets/logo/logo.png);
+                    background-position: center;
+                    background-repeat: no-repeat;
+                    background-size: cover;
+                    aspect-ratio: 3/3;
+                  "
+                >
+                  <!-- <div class="logo-bg" data-bg-src="assets/img/bg/logo_bg_1.png"></div> -->
+                  <!-- <a href="home-medical-clinic.html"><img src="assets/logo/logo.png" style="height: 90px;" alt="Mediax"></a> -->
                 </div>
-              </div>
-              <div class="col-auto me-xl-auto d-none d-lg-inline-block">
+              </a>
+              <div class="col-auto d-none d-lg-inline-block">
                 <nav class="main-menu d-none d-lg-inline-block">
                   <ul>
                     <li>
@@ -579,18 +589,36 @@
                     </li>
                   </ul>
                 </nav>
+                <!-- <a href="appointment.html" class="th-btn">Appointment Now</a> -->
+                <!-- <button
+                  type="button"
+                  class="icon-btn sideMenuInfo d-none d-xl-inline-block"
+                >
+                  <i class="far fa-bars"></i>
+                </button>
+                <button type="button" class="th-menu-toggle d-block d-lg-none">
+                  <i class="far fa-bars"></i>
+                </button> -->
               </div>
               <div class="col-auto">
                 <div class="header-button">
-                  <a href="#" class="th-btn style4"
-                    >Appointment Now</a
-                  >
                   <!-- <button
+                    type="button"
+                    class="icon-btn searchBoxToggler d-none d-xl-inline-block"
+                  >
+                    <i class="far fa-search"></i>
+                  </button> -->
+                  <!-- <button type="button" class="icon-btn sideMenuCart">
+                    <span class="badge">5</span>
+                    <i class="far fa-cart-shopping"></i>
+                  </button> -->
+                  <a href="#" class="th-btn text-white">Appointment Now</a>
+                  <button
                     type="button"
                     class="icon-btn sideMenuInfo d-none d-xl-inline-block"
                   >
                     <i class="far fa-bars"></i>
-                  </button> -->
+                  </button>
                   <button
                     type="button"
                     class="th-menu-toggle d-block d-lg-none"
