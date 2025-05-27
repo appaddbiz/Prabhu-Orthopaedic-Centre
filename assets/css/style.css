@@ -6527,7 +6527,8 @@ ol.wp-block-rss {
 
 .breadcumb-wrapper {
   background-color: var(--smoke-color2);
-  padding: 150px 0 150px 0;
+  /* padding: 150px 0 150px 0; */
+  padding: 50px 0 50px 0;
   overflow: hidden;
   text-align: center;
 }
@@ -6549,7 +6550,7 @@ ol.wp-block-rss {
 /* Medium devices */
 @media (max-width: 991px) {
   .breadcumb-wrapper {
-    padding: 110px 0 110px 0;
+    padding: 30px 0 30px 0;
   }
 }
 
