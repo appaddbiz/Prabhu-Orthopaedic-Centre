@@ -1,0 +1,1340 @@
+<!DOCTYPE html>
+<html class="no-js" lang="zxx">
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="x-ua-compatible" content="ie=edge" />
+    <title>Dr. Chetan Patil S – Orthopaedic Specialist</title>
+    <meta name="author" content="Mediax" />
+    <meta
+      name="description"
+      content="Dr. Chetan Patil S – Orthopaedic Specialist"
+    />
+    <meta
+      name="keywords"
+      content="Dr. Chetan Patil S – Orthopaedic Specialist"
+    />
+    <meta name="robots" content="INDEX,FOLLOW" />
+
+    <!-- Mobile Specific Metas -->
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, shrink-to-fit=no"
+    />
+
+    <!-- Favicons - Place favicon.ico in the root directory -->
+    <link rel="apple-touch-icon" sizes="57x57" href="assets/logo/logo.png" />
+    <link rel="apple-touch-icon" sizes="60x60" href="assets/logo/logo.png" />
+    <link rel="apple-touch-icon" sizes="72x72" href="assets/logo/logo.png" />
+    <link rel="apple-touch-icon" sizes="76x76" href="assets/logo/logo.png" />
+    <link rel="apple-touch-icon" sizes="114x114" href="assets/logo/logo.png" />
+    <link rel="apple-touch-icon" sizes="120x120" href="assets/logo/logo.png" />
+    <link rel="apple-touch-icon" sizes="144x144" href="assets/logo/logo.png" />
+    <link rel="apple-touch-icon" sizes="152x152" href="assets/logo/logo.png" />
+    <link rel="apple-touch-icon" sizes="180x180" href="assets/logo/logo.png" />
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="192x192"
+      href="assets/logo/logo.png"
+    />
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="32x32"
+      href="assets/logo/logo.png"
+    />
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="96x96"
+      href="assets/logo/logo.png"
+    />
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="16x16"
+      href="assets/logo/favicon.png"
+    />
+    <link rel="manifest" href="assets/img/favicons/manifest.json" />
+    <meta name="msapplication-TileColor" content="#ffffff" />
+    <meta
+      name="msapplication-TileImage"
+      content="assets/img/favicons/ms-icon-144x144.png"
+    />
+    <meta name="theme-color" content="#ffffff" />
+
+    <!--==============================
+	  Google Fonts
+	============================== -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=DM+Sans:opsz,wght@9..40,100;9..40,200;9..40,300;9..40,400;9..40,500;9..40,600;9..40,700;9..40,800&family=Outfit:wght@300;400;500;600;700;800;900&display=swap"
+      rel="stylesheet"
+    />
+
+    <!--==============================
+	    All CSS File
+	============================== -->
+    <!-- Bootstrap -->
+    <link rel="stylesheet" href="assets/css/bootstrap.min.css" />
+    <!-- Fontawesome Icon -->
+    <link rel="stylesheet" href="assets/css/fontawesome.min.css" />
+    <!-- Magnific Popup -->
+    <link rel="stylesheet" href="assets/css/magnific-popup.min.css" />
+    <!-- Swiper Js -->
+    <link rel="stylesheet" href="assets/css/swiper-bundle.min.css" />
+    <!-- datetimepicker -->
+    <link rel="stylesheet" href="assets/css/jquery.datetimepicker.min.css" />
+    <!-- Theme Custom CSS -->
+    <link rel="stylesheet" href="assets/css/style.css" />
+
+    <style>
+      @media (min-width: 769px) {
+        .mobile-banner {
+          display: none;
+        }
+        .footer-logo {
+          height: 190px !important;
+          width: 70%;
+        }
+      }
+      @media (max-width: 768px) {
+        .desk-banner {
+          display: none;
+        }
+        .footer-logo {
+          height: 200px !important;
+          width: 70%;
+        }
+      }
+    </style>
+  </head>
+
+  <body>
+    <!--[if lte IE 9]>
+      <p class="browserupgrade">
+        You are using an <strong>outdated</strong> browser. Please
+        <a href="https://browsehappy.com/">upgrade your browser</a> to improve
+        your experience and security.
+      </p>
+    <![endif]-->
+
+    <!--********************************
+   		Code Start From Here 
+	******************************** -->
+
+    <!--==============================
+     Preloader
+  ==============================-->
+
+    <!--==============================
+    Sidemenu
+============================== -->
+    <!-- <div class="sidemenu-wrapper sidemenu-cart">
+      <div class="sidemenu-content">
+        <button class="closeButton sideMenuCls">
+          <i class="far fa-times"></i>
+        </button>
+        <div class="widget woocommerce widget_shopping_cart">
+          <h3 class="widget_title">Shopping cart</h3>
+          <div class="widget_shopping_cart_content">
+            <ul class="woocommerce-mini-cart cart_list product_list_widget">
+              <li class="woocommerce-mini-cart-item mini_cart_item">
+                <a href="#" class="remove remove_from_cart_button"
+                  ><i class="far fa-times"></i
+                ></a>
+                <a href="#"
+                  ><img
+                    src="assets/img/product/product_thumb_1_1.jpg"
+                    alt="Cart Image"
+                  />Surgery Hands Gloves</a
+                >
+                <span class="quantity"
+                  >1 ×
+                  <span class="woocommerce-Price-amount amount">
+                    <span class="woocommerce-Price-currencySymbol">$</span
+                    >940.00</span
+                  >
+                </span>
+              </li>
+              <li class="woocommerce-mini-cart-item mini_cart_item">
+                <a href="#" class="remove remove_from_cart_button"
+                  ><i class="far fa-times"></i
+                ></a>
+                <a href="#"
+                  ><img
+                    src="assets/img/product/product_thumb_1_2.jpg"
+                    alt="Cart Image"
+                  />D-Ribose Drug Medicine</a
+                >
+                <span class="quantity"
+                  >1 ×
+                  <span class="woocommerce-Price-amount amount">
+                    <span class="woocommerce-Price-currencySymbol">$</span
+                    >899.00</span
+                  >
+                </span>
+              </li>
+              <li class="woocommerce-mini-cart-item mini_cart_item">
+                <a href="#" class="remove remove_from_cart_button"
+                  ><i class="far fa-times"></i
+                ></a>
+                <a href="#"
+                  ><img
+                    src="assets/img/product/product_thumb_1_3.jpg"
+                    alt="Cart Image"
+                  />CAD Dentistry Prosthesis</a
+                >
+                <span class="quantity"
+                  >1 ×
+                  <span class="woocommerce-Price-amount amount">
+                    <span class="woocommerce-Price-currencySymbol">$</span
+                    >756.00</span
+                  >
+                </span>
+              </li>
+              <li class="woocommerce-mini-cart-item mini_cart_item">
+                <a href="#" class="remove remove_from_cart_button"
+                  ><i class="far fa-times"></i
+                ></a>
+                <a href="#"
+                  ><img
+                    src="assets/img/product/product_thumb_1_4.jpg"
+                    alt="Cart Image"
+                  />Surgery Safety Mask</a
+                >
+                <span class="quantity"
+                  >1 ×
+                  <span class="woocommerce-Price-amount amount">
+                    <span class="woocommerce-Price-currencySymbol">$</span
+                    >723.00</span
+                  >
+                </span>
+              </li>
+              <li class="woocommerce-mini-cart-item mini_cart_item">
+                <span href="#" class="remove remove_from_cart_button"
+                  ><i class="far fa-times"></i
+                ></a>
+                <a href="#"
+                  ><img
+                    src="assets/img/product/product_thumb_1_5.jpg"
+                    alt="Cart Image"
+                  />Infrared Thermometers</a
+                >
+                <span class="quantity"
+                  >1 ×
+                  <span class="woocommerce-Price-amount amount">
+                    <span class="woocommerce-Price-currencySymbol">$</span
+                    >1080.00</span
+                  >
+                </span>
+              </li>
+            </ul>
+            <p class="woocommerce-mini-cart__total total">
+              <strong>Subtotal:</strong>
+              <span class="woocommerce-Price-amount amount">
+                <span class="woocommerce-Price-currencySymbol">$</span
+                >4398.00</span
+              >
+            </p>
+            <p class="woocommerce-mini-cart__buttons buttons">
+              <a href="cart.html" class="th-btn wc-forward">View cart</a>
+              <a href="checkout.html" class="th-btn checkout wc-forward"
+                >Checkout</a
+              >
+            </p>
+          </div>
+        </div>
+      </div>
+    </div> -->
+    <!--==============================
+    Sidemenu
+============================== -->
+    <!-- <div class="sidemenu-wrapper sidemenu-info">
+      <div class="sidemenu-content">
+        <button class="closeButton sideMenuCls">
+          <i class="far fa-times"></i>
+        </button>
+        <div class="widget">
+          <div class="th-widget-about">
+            <div class="about-logo">
+              <a href="home-medical-clinic.html"
+                ><img src="assets/img/logo.svg" alt="Mediax"
+              /></a>
+            </div>
+            <p class="about-text">
+              Subscribe to out newsletter today to receive latest news
+              administrate cost effective for tactical data.
+            </p>
+            <p class="footer-info">
+              <i class="fal fa-location-dot"></i>
+              2478 Street City Ohio 90255
+            </p>
+            <p class="footer-info">
+              <i class="fal fa-envelope"></i>
+              <a href="mailto:info@mediax.com" class="info-box_link"
+                >info@mediax.com</a
+              >
+            </p>
+            <p class="footer-info">
+              <i class="fal fa-phone"></i>
+              <a href="tel:+40276328246" class="info-box_link"
+                >+(402) 763 282 46</a
+              >
+            </p>
+            <div class="th-social">
+              <a href="https://www.facebook.com/"
+                ><i class="fab fa-facebook-f"></i
+              ></a>
+              <a href="https://www.twitter.com/"
+                ><i class="fab fa-twitter"></i
+              ></a>
+              <a href="https://www.linkedin.com/"
+                ><i class="fab fa-linkedin-in"></i
+              ></a>
+              <a href="https://www.whatsapp.com/"
+                ><i class="fab fa-whatsapp"></i
+              ></a>
+            </div>
+          </div>
+        </div>
+        <div class="widget">
+          <h3 class="widget_title">Let’s Stay In Touch</h3>
+          <div class="newsletter-widget">
+            <p class="footer-text">Subscribe for newsletter</p>
+            <form action="#" class="newsletter-form">
+              <div class="form-group">
+                <input
+                  class="form-control"
+                  type="email"
+                  placeholder="Enter Email"
+                  required=""
+                />
+              </div>
+              <button type="submit" class="simple-icon">
+                <i class="fa-solid fa-paper-plane"></i>
+              </button>
+            </form>
+            <div class="form-group">
+              <input type="checkbox" id="checkboxagree" name="checkboxagree" />
+              <label for="checkboxagree"
+                >I agree with the terms & conditions</label
+              >
+            </div>
+            <div class="btn-group">
+              <a href="https://play.google.com/" class="img-btn">
+                <img src="assets/img/normal/apple_store.png" alt="icon" />
+              </a>
+              <a href="https://play.google.com/" class="img-btn">
+                <img src="assets/img/normal/play_store.png" alt="icon" />
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="popup-search-box d-none d-lg-block">
+      <button class="searchClose"><i class="fal fa-times"></i></button>
+      <form action="#">
+        <input type="text" placeholder="What are you looking for?" />
+        <button type="submit"><i class="fal fa-search"></i></button>
+      </form>
+    </div> -->
+    <!--==============================
+    Mobile Menu
+  ============================== -->
+    <div class="th-menu-wrapper">
+      <div class="th-menu-area text-center">
+        <button class="th-menu-toggle"><i class="fal fa-times"></i></button>
+        <div class="mobile-logo">
+          <a href="/"
+            ><img src="assets/logo/logo.png" style="height: 150px" alt="logo"
+          /></a>
+        </div>
+        <div class="th-mobile-menu">
+          <ul>
+            <li>
+              <a href="/">Home</a>
+            </li>
+            <li><a href="about-doctor.html">About Doctor</a></li>
+            <li class="menu-item-has-children">
+              <a href="orthopedic-surgery-treatment.html"
+                >Orthopaedic Treatment <br />
+                & Surgery
+              </a>
+              <ul class="sub-menu">
+                <li>
+                  <a href="orthopaedic-trauma.html">Orthopaedic Trauma</a>
+                </li>
+                <li class="menu-item-has-children">
+                  <a href="arthroplasty-joint-replacement.html"
+                    >Arthroplasty/Joint Replacement</a
+                  >
+                  <ul class="sub-menu">
+                    <li><a href="hip-surgery.html">Hip Surgery</a></li>
+                    <li><a href="knee-surgery.html">Knee Surgery</a></li>
+                    <li>
+                      <a href="shoulder-surgery.html">Shoulder Surgery</a>
+                    </li>
+                    <li><a href="ankle-surgery.html">Ankle Surgery</a></li>
+                    <li><a href="elbow-surgery.html">Elbow Surgery</a></li>
+                    <li><a href="wrist-surgery.html">Wrist Surgery</a></li>
+                    <!-- <li><a href="finger-surgery.html">Finger Surgery</a></li>
+                    <li><a href="toe-surgery.html">Toe Surgery</a></li> -->
+                    <li><a href="foot-surgery.html">Foot Surgery</a></li>
+                  </ul>
+                </li>
+                <li class="menu-item-has-children">
+                  <a href="arthroscopy.html">Arthroscopy</a>
+                  <ul class="sub-menu">
+                    <!-- <li>
+                      <a href="elbow-arthroscopy.html">Elbow Arthroscopy</a>
+                    </li> -->
+                    <li>
+                      <a href="foot-ankle-arthroscopy.html"
+                        >Foot and Ankle Arthroscopy</a
+                      >
+                    </li>
+                    <!-- <li>
+                      <a href="hand-wrist-arthroscopy.html"
+                        >Hand and Wrist Arthroscopy</a
+                      >
+                    </li> -->
+                    <!-- <li><a href="hip-arthroscopy.html">Hip Arthroscopy</a></li> -->
+                    <li>
+                      <a href="knee-arthroscopy.html">Knee Arthroscopy</a>
+                    </li>
+                    <li>
+                      <a href="shoulder-arthroscopy.html"
+                        >Shoulder Arthroscopy</a
+                      >
+                    </li>
+                  </ul>
+                </li>
+                <li>
+                  <a href="sports-injury-treatments.html"
+                    >Sports Injury Treatments</a
+                  >
+                </li>
+                <li>
+                  <a href="spine-treatments.html">Spine Treatments</a>
+                </li>
+                <li>
+                  <a href="total-knee-replacement.html"
+                    >Total Knee Replacement</a
+                  >
+                </li>
+                <li>
+                  <a href="total-hip-replacement.html">Total Hip Replacement</a>
+                </li>
+                <li>
+                  <a href="robotic-knee-replacement.html"
+                    >Robotic Knee Replacement</a
+                  >
+                </li>
+              </ul>
+            </li>
+            <li class="menu-item-has-children">
+              <a href="our-facilities.html">Facility</a>
+              <ul class="sub-menu">
+                <li>
+                  <a href="expert-orthopaedic-consultation.html"
+                    >Expert Orthopaedic Consultation</a
+                  >
+                </li>
+                <li><a href="x-ray-facility.html">X-Ray Facility</a></li>
+                <li><a href="physiotherapy.html">Physiotherapy</a></li>
+                <li>
+                  <a href="bmc-injection-osteonecrosis-avn.html"
+                    >Bone Marrow Concentrate Injection for Osteonecrosis/AVN</a
+                  >
+                </li>
+                <li>
+                  <a href="bmc-injection-cartilage-defects.html"
+                    >Bone Marrow Concentrate Injection for Cartilage Defects</a
+                  >
+                </li>
+                <li>
+                  <a href="prp-injections.html"
+                    >PRP Injections(Platelet Rich Plasma)</a
+                  >
+                </li>
+                <li>
+                  <a href="non-operative-low-back-pain.html"
+                    >Comprehensive Non Operative Treatment for Low Back Pain</a
+                  >
+                </li>
+              </ul>
+            </li>
+            <li>
+              <a href="gallery.html">Gallery </a>
+            </li>
+            <li>
+              <a href="testimonials.html">Testimonials</a>
+            </li>
+            <li>
+              <a href="contact.html">Contact Us</a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+    <!--==============================
+	Header Area
+==============================-->
+    <header class="th-header header-layout1">
+      <div class="header-top" style="background-color: #0b5045">
+        <div class="container">
+          <div
+            class="row justify-content-center justify-content-lg-between align-items-center gy-2"
+          >
+            <div class="col-auto d-none d-lg-block">
+              <div class="header-links">
+                <ul>
+                  <li class="d-none d-sm-inline-block">
+                    <i class="fas fa-phone icon-btn"></i><b>Phone:</b>
+                    <a href="tel:+919482382130" class="text-white"
+                      >+91 9482382130</a
+                    >
+                  </li>
+                  <li class="d-none d-sm-inline-block">
+                    <i class="fas fa-envelope icon-btn"></i><b>Email:</b>
+                    <a
+                      href="mailto:prabhuorthopaediccentre@gmail.com"
+                      class="text-white"
+                      >prabhuorthopaediccentre@gmail.com</a
+                    >
+                  </li>
+                  <li class="d-none d-xxl-inline-block">
+                    <i class="fas fa-location-dot icon-btn"></i>
+                    <a
+                      href="https://maps.app.goo.gl/uVqTMngPreM6zcmK7"
+                      class="text-white"
+                      >12th Main Rd, 1st Block, Rajajinagar, Bengaluru,
+                      Karnataka 560010
+                    </a>
+                  </li>
+                </ul>
+              </div>
+            </div>
+            <div class="col-auto">
+              <div class="header-links">
+                <ul>
+                  <li>
+                    <div class="social-links">
+                      <span class="social-title">Follow Us On: </span>
+                      <a href="https://www.facebook.com/"
+                        ><i class="fab fa-facebook-f"></i
+                      ></a>
+                      <a href="https://www.twitter.com/"
+                        ><i class="fab fa-twitter"></i
+                      ></a>
+                      <a href="https://www.linkedin.com/"
+                        ><i class="fab fa-linkedin-in"></i
+                      ></a>
+                      <a href="https://www.instagram.com/"
+                        ><i class="fab fa-instagram"></i
+                      ></a>
+                      <a href="https://www.youtube.com/"
+                        ><i class="fab fa-youtube"></i
+                      ></a>
+                    </div>
+                  </li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="sticky-wrapper">
+        <!-- Main Menu Area -->
+        <div class="menu-area">
+          <div class="container-fluid">
+            <div class="row align-items-center justify-content-between">
+              <a href="/" class="col-auto">
+                <div
+                  class="header-logo"
+                  style="
+                    background-image: url(assets/logo/logo.png);
+                    background-position: center;
+                    background-repeat: no-repeat;
+                    background-size: cover;
+                    aspect-ratio: 3/3;
+                  "
+                >
+                  <!-- <div class="logo-bg" data-bg-src="assets/img/bg/logo_bg_1.png"></div> -->
+                  <!-- <a href="home-medical-clinic.html"><img src="assets/logo/logo.png" style="height: 90px;" alt="Mediax"></a> -->
+                </div>
+              </a>
+              <div class="col-auto d-none d-lg-inline-block">
+                <nav class="main-menu d-none d-lg-inline-block">
+                  <ul>
+                    <li>
+                      <a href="/">Home</a>
+                    </li>
+                    <li><a href="about-doctor.html">About Doctor</a></li>
+                    <li class="menu-item-has-children">
+                      <a href="orthopedic-surgery-treatment.html"
+                        >Orthopaedic Treatment & Surgery
+                      </a>
+                      <ul class="sub-menu">
+                        <li>
+                          <a href="orthopaedic-trauma.html"
+                            >Orthopaedic Trauma</a
+                          >
+                        </li>
+                        <li class="menu-item-has-children">
+                          <a href="arthroplasty-joint-replacement.html"
+                            >Arthroplasty/Joint Replacement</a
+                          >
+                          <ul class="sub-menu">
+                            <li><a href="hip-surgery.html">Hip Surgery</a></li>
+                            <li>
+                              <a href="knee-surgery.html">Knee Surgery</a>
+                            </li>
+                            <li>
+                              <a href="shoulder-surgery.html"
+                                >Shoulder Surgery</a
+                              >
+                            </li>
+                            <li>
+                              <a href="ankle-surgery.html">Ankle Surgery</a>
+                            </li>
+                            <li>
+                              <a href="elbow-surgery.html">Elbow Surgery</a>
+                            </li>
+                            <li>
+                              <a href="wrist-surgery.html">Wrist Surgery</a>
+                            </li>
+                            <!-- <li>
+                              <a href="finger-surgery.html">Finger Surgery</a>
+                            </li>
+                            <li><a href="toe-surgery.html">Toe Surgery</a></li> -->
+                            <li>
+                              <a href="foot-surgery.html">Foot Surgery</a>
+                            </li>
+                          </ul>
+                        </li>
+                        <li class="menu-item-has-children">
+                          <a href="arthroscopy.html">Arthroscopy</a>
+                          <ul class="sub-menu">
+                            <!-- <li>
+                              <a href="elbow-arthroscopy.html"
+                                >Elbow Arthroscopy</a
+                              >
+                            </li> -->
+                            <li>
+                              <a href="foot-ankle-arthroscopy.html"
+                                >Foot and Ankle Arthroscopy</a
+                              >
+                            </li>
+                            <!-- <li>
+                              <a href="hand-wrist-arthroscopy.html"
+                                >Hand and Wrist Arthroscopy</a
+                              >
+                            </li> -->
+                            <!-- <li>
+                              <a href="hip-arthroscopy.html">Hip Arthroscopy</a>
+                            </li> -->
+                            <li>
+                              <a href="knee-arthroscopy.html"
+                                >Knee Arthroscopy</a
+                              >
+                            </li>
+                            <li>
+                              <a href="shoulder-arthroscopy.html"
+                                >Shoulder Arthroscopy</a
+                              >
+                            </li>
+                          </ul>
+                        </li>
+                        <li>
+                          <a href="sports-injury-treatments.html"
+                            >Sports Injury Treatments</a
+                          >
+                        </li>
+                        <li>
+                          <a href="spine-treatments.html">Spine Treatments</a>
+                        </li>
+                        <li>
+                          <a href="total-knee-replacement.html"
+                            >Total Knee Replacement</a
+                          >
+                        </li>
+                        <li>
+                          <a href="total-hip-replacement.html"
+                            >Total Hip Replacement</a
+                          >
+                        </li>
+                        <li>
+                          <a href="robotic-knee-replacement.html"
+                            >Robotic Knee Replacement</a
+                          >
+                        </li>
+                      </ul>
+                    </li>
+                    <li class="menu-item-has-children">
+                      <a href="our-facilities.html">Facility</a>
+                      <ul class="sub-menu">
+                        <li>
+                          <a href="expert-orthopaedic-consultation.html"
+                            >Expert Orthopaedic Consultation</a
+                          >
+                        </li>
+                        <li>
+                          <a href="x-ray-facility.html">X-Ray Facility</a>
+                        </li>
+                        <li><a href="physiotherapy.html">Physiotherapy</a></li>
+                        <li>
+                          <a href="bmc-injection-osteonecrosis-avn.html"
+                            >Bone Marrow Concentrate Injection for
+                            Osteonecrosis/AVN</a
+                          >
+                        </li>
+                        <li>
+                          <a href="bmc-injection-cartilage-defects.html"
+                            >Bone Marrow Concentrate Injection for Cartilage
+                            Defects</a
+                          >
+                        </li>
+                        <li>
+                          <a href="prp-injections.html"
+                            >PRP Injections(Platelet Rich Plasma)</a
+                          >
+                        </li>
+                        <li>
+                          <a href="non-operative-low-back-pain.html"
+                            >Comprehensive Non Operative Treatment for Low Back
+                            Pain</a
+                          >
+                        </li>
+                      </ul>
+                    </li>
+                    <li>
+                      <a href="gallery.html">Gallery </a>
+                    </li>
+                    <li>
+                      <a href="testimonials.html">Testimonials</a>
+                    </li>
+                    <li>
+                      <a href="contact.html">Contact Us</a>
+                    </li>
+                  </ul>
+                </nav>
+                <!-- <a href="appointment.html" class="th-btn">Appointment Now</a> -->
+                <!-- <button
+                  type="button"
+                  class="icon-btn sideMenuInfo d-none d-xl-inline-block"
+                >
+                  <i class="far fa-bars"></i>
+                </button>
+                <button type="button" class="th-menu-toggle d-block d-lg-none">
+                  <i class="far fa-bars"></i>
+                </button> -->
+              </div>
+              <div class="col-auto">
+                <div class="header-button">
+                  <!-- <button
+                    type="button"
+                    class="icon-btn searchBoxToggler d-none d-xl-inline-block"
+                  >
+                    <i class="far fa-search"></i>
+                  </button> -->
+                  <!-- <button type="button" class="icon-btn sideMenuCart">
+                    <span class="badge">5</span>
+                    <i class="far fa-cart-shopping"></i>
+                  </button> -->
+                  <a href="book-an-appointment.html" class="th-btn text-white"
+                    >Appointment Now</a
+                  >
+                  <button
+                    type="button"
+                    class="icon-btn sideMenuInfo d-none d-xl-inline-block"
+                  >
+                    <i class="far fa-bars"></i>
+                  </button>
+                  <button
+                    type="button"
+                    class="th-menu-toggle d-block d-lg-none"
+                  >
+                    <i class="far fa-bars"></i>
+                  </button>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </header>
+    <!--==============================
+    Breadcumb
+============================== -->
+    <div class="breadcumb-wrapper">
+      <div class="container">
+        <div class="breadcumb-content">
+          <h1 class="breadcumb-title">Contact Us</h1>
+          <ul class="breadcumb-menu">
+            <li><a href="/">Home</a></li>
+            <li>Contact Us</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+    <!--==============================
+Contact Info Area
+==============================-->
+    <div class="space">
+      <div class="container">
+        <div class="row gy-4">
+          <div class="col-xl-4 col-md-6">
+            <!-- <div class="location-card">
+              <h3 class="box-title">Central Branch</h3>
+              <p class="footer-info">
+                <i class="far fa-location-dot"></i>
+                12601 Garden Grove Blvd, Garden Grove, CA 92843
+              </p>
+              <p class="footer-info">
+                <i class="far fa-envelope"></i>
+                <a href="mailto:info@contacthp.com" class="info-box_link"
+                  >info@contacthp.com</a
+                >
+              </p>
+              <p class="footer-info">
+                <i class="far fa-phone"></i>
+                <a href="tel:+17145375160" class="info-box_link"
+                  >+171 4537 5160</a
+                >
+              </p>
+            </div> -->
+            <div class="contact-feature">
+              <div class="box-icon">
+                <i class="far fa-clock"></i>
+              </div>
+              <div class="media-body">
+                <h3 class="box-title" style="font-size: 16px">
+                  Clinical Timings
+                </h3>
+                <p class="box-text" style="font-weight: bold">
+                  Mon to sat: <br />
+                  10:30am - 6:00pm
+                </p>
+                <h3 class="box-title" style="font-size: 16px; margin-top: 10px">
+                  Doctor Consultation Timings
+                  <p class="box-text">10:30am - 2:30pm & 4:30pm - 6:00pm</p>
+                </h3>
+              </div>
+            </div>
+          </div>
+          <div class="col-xl-4 col-md-6">
+            <!-- <div class="location-card active">
+              <h3 class="box-title">USA. Branch</h3>
+              <p class="footer-info">
+                <i class="far fa-location-dot"></i>
+                1120 15th St BA 8412, Augusta, GA 30912, United States
+              </p>
+              <p class="footer-info">
+                <i class="far fa-envelope"></i>
+                <a href="mailto:info@contacusa.com" class="info-box_link"
+                  >info@contacusa.com</a
+                >
+              </p>
+              <p class="footer-info">
+                <i class="far fa-phone"></i>
+                <a href="tel:+17067218623" class="info-box_link"
+                  >+170 6721 8623</a
+                >
+              </p>
+            </div> -->
+            <div class="contact-feature">
+              <div class="box-icon">
+                <i class="far fa-envelope"></i>
+              </div>
+              <div class="media-body">
+                <h3 class="box-title">Contact Details</h3>
+                <p class="box-text">Email ID:</p>
+                <p class="box-schedule">
+                  <a href="mailto:prabhuorthopaediccentre@gmail.com"
+                    >prabhuorthopaedic <br />
+                    centre@gmail.com</a
+                  >
+                </p>
+                <p class="box-text mt-3">Contact No:</p>
+                <p class="box-schedule">
+                  <a href="tel:+919611109866">91 96111 09866</a>
+                </p>
+              </div>
+            </div>
+          </div>
+          <div class="col-xl-4 col-md-6">
+            <!-- <div class="location-card">
+              <h3 class="box-title">Australia Branch</h3>
+              <p class="footer-info">
+                <i class="far fa-location-dot"></i>
+                260 Lygon St, Brunswick East VIC 3057, Australia
+              </p>
+              <p class="footer-info">
+                <i class="far fa-envelope"></i>
+                <a href="mailto:info@contactaus.com" class="info-box_link"
+                  >info@contactaus.com</a
+                >
+              </p>
+              <p class="footer-info">
+                <i class="far fa-phone"></i>
+                <a href="tel:+61399882015" class="info-box_link"
+                  >+613 9988 2015</a
+                >
+              </p>
+            </div> -->
+            <div class="contact-feature">
+              <div class="box-icon">
+                <i class="far fa-location-dot"></i>
+              </div>
+              <div class="media-body">
+                <h3 class="box-title">Address</h3>
+                <p class="box-schedule">
+                  <a href="https://maps.app.goo.gl/uVqTMngPreM6zcmK7"
+                    >PRABHU ORTHOPAEDIC CENTRE, SLLR Mansion, 46/8, 12th Main
+                    Rd, 1st Block, Rajajinagar, Bengaluru, Karnataka 560010</a
+                  >
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!--==============================
+Contact Area   
+==============================-->
+    <div class="space-bottom">
+      <div class="container">
+        <form
+          class="contact-form ajax-contact"
+          data-bg-src="assets/home-images/contact-us.jpg"
+          onsubmit="sendToWhatsApp(event)"
+        >
+          <div class="input-wrap">
+            <h2 class="sec-title text-white">Get In Touch!</h2>
+            <div class="row">
+              <div class="form-group col-12">
+                <input
+                  type="text"
+                  class="form-control"
+                  name="name"
+                  id="name"
+                  placeholder="Your Name"
+                />
+                <i class="fal fa-user"></i>
+              </div>
+              <div class="form-group col-12">
+                <input
+                  type="email"
+                  class="form-control"
+                  name="email"
+                  id="email"
+                  placeholder="Email Address"
+                />
+                <i class="fal fa-envelope"></i>
+              </div>
+              <div class="form-group col-12">
+                <input
+                  type="tel"
+                  class="form-control"
+                  name="number"
+                  id="number"
+                  placeholder="Phone Number"
+                />
+                <i class="fal fa-phone"></i>
+              </div>
+              <div class="form-group col-12">
+                <textarea
+                  name="message"
+                  id="message"
+                  cols="30"
+                  rows="3"
+                  class="form-control"
+                  placeholder="Type Appointment Note..."
+                ></textarea>
+                <i class="fal fa-pencil"></i>
+              </div>
+              <div class="form-btn col-12">
+                <button type="submit" class="th-btn btn-fw">
+                  Send Message
+                </button>
+              </div>
+            </div>
+            <!-- <p class="form-messages mb-0 mt-3"></p> -->
+          </div>
+        </form>
+      </div>
+    </div>
+    <!--==============================
+Map Area  
+==============================-->
+    <div class="">
+      <div class="contact-map">
+        <iframe
+          src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3928.0586966588617!2d77.55207620000002!3d12.9997631!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae3d7041e11519%3A0x6493b1a30c3a2fc4!2sDr%20Chetan%20Patil%20S!5e1!3m2!1sen!2sin!4v1748860887843!5m2!1sen!2sin"
+          width="600"
+          height="450"
+          style="border: 0"
+          allowfullscreen=""
+          loading="lazy"
+          referrerpolicy="no-referrer-when-downgrade"
+        ></iframe>
+      </div>
+    </div>
+    <!--==============================
+	Footer Area
+==============================-->
+    <footer class="footer-wrapper footer-layout1">
+      <div class="widget-area">
+        <div class="container">
+          <div class="row justify-content-between">
+            <div class="col-md-6 col-xl-auto">
+              <div class="widget footer-widget">
+                <div class="th-widget-about text-center">
+                  <div
+                    class="about-logo"
+                    style="background-color: white; width: max-content"
+                  >
+                    <a href="/"
+                      ><img
+                        src="assets/logo/logo.png"
+                        style="width: 200px; height: 200px"
+                        alt=""
+                    /></a>
+                  </div>
+
+                  <p class="footer-info">
+                    <i class="fal fa-envelope"></i>
+                    <a
+                      href="mailto:prabhuorthopaediccentre@gmail.com"
+                      class="info-box_link"
+                      >prabhuorthopaediccentre@gmail.com</a
+                    >
+                  </p>
+                  <p class="footer-info">
+                    <i class="fal fa-phone"></i>&ensp;
+                    <a href="tel:+919482382130" class="info-box_link"
+                      >+91 9482382130
+                    </a>
+                  </p>
+                  <p class="footer-info" style="color: white">
+                    <i class="fal fa-phone"></i>&ensp; Emergency :
+                    <a href="tel:+919611109866" class="info-box_link">
+                      +91 9611109866
+                    </a>
+                  </p>
+                  <p class="footer-info text-white" style="text-align: justify">
+                    <i class="fal fa-location-dot"></i>
+                    <a
+                      href="https://maps.app.goo.gl/uVqTMngPreM6zcmK7"
+                      class="text-white"
+                    >
+                      PRABHU ORTHOPAEDIC CENTRE, SLLR Mansion, 46/8, 12th Main
+                      Rd, 1st Block, Rajajinagar, Bengaluru, Karnataka 560010
+                    </a>
+                  </p>
+                </div>
+              </div>
+            </div>
+            <div class="col-md-6 col-xl-auto">
+              <div class="widget widget_nav_menu footer-widget">
+                <h3 class="widget_title">Quick Links</h3>
+                <div class="menu-all-pages-container">
+                  <ul class="menu">
+                    <li><a href="/">Home</a></li>
+                    <li><a href="about-doctor.html">About Doctor</a></li>
+                    <li>
+                      <a href="orthopedic-surgery-treatment.html"
+                        >Orthopaedic Treatment <br />
+                        & Surgery</a
+                      >
+                    </li>
+                    <li><a href="our-facilities.html">Facility</a></li>
+                    <li><a href="gallery.html">Gallery</a></li>
+                    <li><a href="testimonials.html">Testimonials</a></li>
+                    <li><a href="contact.html">Contact Us</a></li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+            <div class="col-md-6 col-xl-auto">
+              <div class="widget widget_nav_menu footer-widget">
+                <h3 class="widget_title">Our Facilities</h3>
+                <div class="menu-all-pages-container">
+                  <ul class="menu">
+                    <li>
+                      <a href="expert-orthopaedic-consultation.html"
+                        >Expert Orthopaedic Consultation</a
+                      >
+                    </li>
+                    <li><a href="x-ray-facility.html">X-Ray Facility</a></li>
+                    <li><a href="#">Physiotherapy</a></li>
+                    <li>
+                      <a href="bmc-injection-osteonecrosis-avn.html"
+                        >Bone Marrow Concentrate <br />
+                        Injection for Osteonecrosis/AVN</a
+                      >
+                    </li>
+                    <li>
+                      <a href="bmc-injection-cartilage-defects.html"
+                        >Bone Marrow Concentrate <br />
+                        Injection for Cartilage Defects</a
+                      >
+                    </li>
+                    <li>
+                      <a href="prp-injections.html"
+                        >PRP Injections(Platelet Rich Plasma)</a
+                      >
+                    </li>
+                    <li>
+                      <a href="non-operative-low-back-pain.html"
+                        >Comprehensive Non Operative <br />
+                        Treatment for Low Back Pain</a
+                      >
+                    </li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+            <div class="col-md-6 col-xl-auto">
+              <div class="widget footer-widget">
+                <h3 class="widget_title">Locate Us</h3>
+                <div class="recent-post-wrap">
+                  <iframe
+                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3928.05559287081!2d77.552202!3d12.9999592!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae3d853e19f07f%3A0x830b81949c2bcdbe!2sPrabhu%20Orthopaedic%20Centre!5e1!3m2!1sen!2sin!4v1748003131097!5m2!1sen!2sin"
+                    style="border: 0; width: 100%; height: 250px"
+                    allowfullscreen=""
+                    loading="lazy"
+                    referrerpolicy="no-referrer-when-downgrade"
+                  ></iframe>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="copyright-wrap">
+        <div class="container">
+          <div class="row gy-2 align-items-center">
+            <div class="col-md-12">
+              <p class="copyright-text text-center">
+                Copyright <i class="fal fa-copyright"></i> 2025
+                <a href="#" class="text-white">Dr. Chetan Patil S</a>. All
+                Rights Reserved. Designed by
+                <a href="https://www.appaddindia.net/" style="color: white"
+                  >Appadd India Pvt Ltd...</a
+                >
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </footer>
+
+    <!--********************************
+			Code End  Here 
+	******************************** -->
+
+    <!-- Scroll To Top -->
+    <div class="scroll-top" style="bottom: 70px">
+      <svg
+        class="progress-circle svg-content"
+        width="100%"
+        height="100%"
+        viewBox="-1 -1 102 102"
+      >
+        <path
+          d="M50,1 a49,49 0 0,1 0,98 a49,49 0 0,1 0,-98"
+          style="
+            transition: stroke-dashoffset 10ms linear 0s;
+            stroke-dasharray: 307.919, 307.919;
+            stroke-dashoffset: 307.919;
+          "
+        ></path>
+      </svg>
+    </div>
+
+    <section
+      style="position: fixed; bottom: 0px; z-index: 999"
+      class="desk-view container-full"
+    >
+      <div
+        style="
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          width: 100vw;
+          height: 60px;
+        "
+      >
+        <div style="width: 25%">
+          <a
+            href="https://maps.app.goo.gl/eM2h65Z5cKiAtLca7"
+            style="
+              display: flex;
+              align-items: center;
+              justify-content: center;
+              flex-direction: column;
+              padding-top: 10px;
+              gap: 10px;
+              text-decoration: none;
+              background-color: #c0c2ff;
+            "
+          >
+            <img
+              src="assets/flat-icons/google-maps.png"
+              alt=""
+              height="25px"
+              width="25px"
+            />
+            <p style="font-size: 12px; color: #1b2251; font-weight: 600">
+              LOCATE US
+            </p>
+          </a>
+        </div>
+
+        <div style="width: 25%">
+          <a
+            href="https://wa.link/y7s9x0"
+            style="
+              display: flex;
+              align-items: center;
+              justify-content: center;
+              flex-direction: column;
+              text-decoration: none;
+              padding-top: 10px;
+              gap: 10px;
+              background-color: #6ebea3;
+            "
+          >
+            <img
+              src="assets/flat-icons/whatsapp.png"
+              alt=""
+              height="25px"
+              width="25px"
+            />
+            <p style="font-size: 12px; color: #1b2251; font-weight: 600">
+              WHATSAPP
+            </p>
+          </a>
+        </div>
+        <div style="width: 25%">
+          <a
+            href="tel:+919482382130"
+            style="
+              display: flex;
+              align-items: center;
+              justify-content: center;
+              flex-direction: column;
+              padding-top: 10px;
+              gap: 10px;
+              text-decoration: none;
+              background-color: #c0c2ff;
+            "
+          >
+            <img
+              src="assets/flat-icons/smartphone.png"
+              alt=""
+              height="25px"
+              width="25px"
+            />
+            <p style="font-size: 12px; color: #1b2251; font-weight: 600">
+              CALL
+            </p>
+          </a>
+        </div>
+        <div style="width: 25%">
+          <a
+            href="book-an-appointment.html"
+            style="
+              display: flex;
+              align-items: center;
+              justify-content: center;
+              flex-direction: column;
+              padding-top: 10px;
+              gap: 10px;
+              text-decoration: none;
+              background-color: #6ebea3;
+            "
+          >
+            <img
+              src="assets/flat-icons/medical-appointment.png"
+              alt=""
+              height="25px"
+              width="25px"
+            />
+            <p
+              style="
+                overflow-wrap: break-word;
+                font-size: 12px;
+                color: #1b2251;
+                font-weight: 600;
+              "
+            >
+              APPOINTMENT
+            </p>
+          </a>
+        </div>
+      </div>
+    </section>
+
+    <!--==============================
+    All Js File
+============================== -->
+    <!-- Jquery -->
+
+    <script>
+      function sendToWhatsApp(event) {
+        event.preventDefault(); // Prevent default form submission
+
+        // Get form values
+        const name = document.getElementById("name").value.trim();
+        const email = document.getElementById("email").value.trim();
+        const number = document.getElementById("number").value.trim();
+        const message = document.getElementById("message").value.trim();
+
+        // WhatsApp number (with country code, no + or spaces)
+        const whatsappNumber = "919482382130"; // <-- REPLACE with Dr. Chetan Patil's WhatsApp number
+
+        // Compose message
+        const whatsappMessage = `Hello, I would like to book an appointment.
+        Name: ${name}
+        Email: ${email}
+        Phone: ${number}
+        Note: ${message}`;
+
+        // Encode and redirect to WhatsApp
+        const whatsappURL = `https://wa.me/${whatsappNumber}?text=${encodeURIComponent(
+          whatsappMessage
+        )}`;
+
+        window.open(whatsappURL, "_blank");
+      }
+    </script>
+
+   
+    <script src="assets/js/vendor/jquery-3.7.1.min.js"></script>
+    <!-- Swiper Js -->
+    <script src="assets/js/swiper-bundle.min.js"></script>
+    <!-- Bootstrap -->
+    <script src="assets/js/bootstrap.min.js"></script>
+    <!-- Magnific Popup -->
+    <script src="assets/js/jquery.magnific-popup.min.js"></script>
+    <!-- Counter Up -->
+    <script src="assets/js/jquery.counterup.min.js"></script>
+    <!-- datetimepicker -->
+    <script src="assets/js/jquery.datetimepicker.min.js"></script>
+    <!-- Range Slider -->
+    <script src="assets/js/jquery-ui.min.js"></script>
+    <!-- Isotope Filter -->
+    <script src="assets/js/imagesloaded.pkgd.min.js"></script>
+    <script src="assets/js/isotope.pkgd.min.js"></script>
+
+    <!-- Main Js File -->
+    <script src="assets/js/main.js"></script>
+  </body>
+</html>

@@ -1,0 +1,3011 @@
+<!DOCTYPE html>
+<html class="no-js" lang="zxx">
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="x-ua-compatible" content="ie=edge" />
+    <title>Dr. Chetan Patil S – Orthopaedic Specialist</title>
+    <meta name="author" content="Mediax" />
+    <meta
+      name="description"
+      content="Dr. Chetan Patil S – Orthopaedic Specialist"
+    />
+    <meta
+      name="keywords"
+      content="Dr. Chetan Patil S – Orthopaedic Specialist"
+    />
+    <meta name="robots" content="INDEX,FOLLOW" />
+
+    <!-- Mobile Specific Metas -->
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, shrink-to-fit=no"
+    />
+
+    <!-- Favicons - Place favicon.ico in the root directory -->
+    <link rel="apple-touch-icon" sizes="57x57" href="assets/logo/logo.png" />
+    <link rel="apple-touch-icon" sizes="60x60" href="assets/logo/logo.png" />
+    <link rel="apple-touch-icon" sizes="72x72" href="assets/logo/logo.png" />
+    <link rel="apple-touch-icon" sizes="76x76" href="assets/logo/logo.png" />
+    <link rel="apple-touch-icon" sizes="114x114" href="assets/logo/logo.png" />
+    <link rel="apple-touch-icon" sizes="120x120" href="assets/logo/logo.png" />
+    <link rel="apple-touch-icon" sizes="144x144" href="assets/logo/logo.png" />
+    <link rel="apple-touch-icon" sizes="152x152" href="assets/logo/logo.png" />
+    <link rel="apple-touch-icon" sizes="180x180" href="assets/logo/logo.png" />
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="192x192"
+      href="assets/logo/logo.png"
+    />
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="32x32"
+      href="assets/logo/logo.png"
+    />
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="96x96"
+      href="assets/logo/logo.png"
+    />
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="16x16"
+      href="assets/logo/favicon.png"
+    />
+    <link rel="manifest" href="assets/img/favicons/manifest.json" />
+    <meta name="msapplication-TileColor" content="#ffffff" />
+    <meta
+      name="msapplication-TileImage"
+      content="assets/img/favicons/ms-icon-144x144.png"
+    />
+    <meta name="theme-color" content="#ffffff" />
+
+    <!--==============================
+	  Google Fonts
+	============================== -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=DM+Sans:opsz,wght@9..40,100;9..40,200;9..40,300;9..40,400;9..40,500;9..40,600;9..40,700;9..40,800&family=Outfit:wght@300;400;500;600;700;800;900&display=swap"
+      rel="stylesheet"
+    />
+
+    <!--==============================
+	    All CSS File
+	============================== -->
+    <!-- Bootstrap -->
+    <link rel="stylesheet" href="assets/css/bootstrap.min.css" />
+    <!-- Fontawesome Icon -->
+    <link rel="stylesheet" href="assets/css/fontawesome.min.css" />
+    <!-- Magnific Popup -->
+    <link rel="stylesheet" href="assets/css/magnific-popup.min.css" />
+    <!-- Swiper Js -->
+    <link rel="stylesheet" href="assets/css/swiper-bundle.min.css" />
+    <!-- datetimepicker -->
+    <link rel="stylesheet" href="assets/css/jquery.datetimepicker.min.css" />
+    <!-- Theme Custom CSS -->
+    <link rel="stylesheet" href="assets/css/style.css" />
+
+    <style>
+      @media (min-width: 769px) {
+        .mobile-banner {
+          display: none;
+        }
+        .footer-logo {
+          height: 190px !important;
+          width: 70%;
+        }
+      }
+      @media (max-width: 768px) {
+        .desk-banner {
+          display: none;
+        }
+        .footer-logo {
+          height: 200px !important;
+          width: 70%;
+        }
+      }
+    </style>
+  </head>
+
+  <body>
+    <!--[if lte IE 9]>
+      <p class="browserupgrade">
+        You are using an <strong>outdated</strong> browser. Please
+        <a href="https://browsehappy.com/">upgrade your browser</a> to improve
+        your experience and security.
+      </p>
+    <![endif]-->
+
+    <!--********************************
+   		Code Start From Here 
+	******************************** -->
+
+    <!--==============================
+     Preloader
+  ==============================-->
+
+    <!--==============================
+    Sidemenu
+============================== -->
+    <!-- <div class="sidemenu-wrapper sidemenu-cart">
+      <div class="sidemenu-content">
+        <button class="closeButton sideMenuCls">
+          <i class="far fa-times"></i>
+        </button>
+        <div class="widget woocommerce widget_shopping_cart">
+          <h3 class="widget_title">Shopping cart</h3>
+          <div class="widget_shopping_cart_content">
+            <ul class="woocommerce-mini-cart cart_list product_list_widget">
+              <li class="woocommerce-mini-cart-item mini_cart_item">
+                <a href="#" class="remove remove_from_cart_button"
+                  ><i class="far fa-times"></i
+                ></a>
+                <a href="#"
+                  ><img
+                    src="assets/img/product/product_thumb_1_1.jpg"
+                    alt="Cart Image"
+                  />Surgery Hands Gloves</a
+                >
+                <span class="quantity"
+                  >1 ×
+                  <span class="woocommerce-Price-amount amount">
+                    <span class="woocommerce-Price-currencySymbol">$</span
+                    >940.00</span
+                  >
+                </span>
+              </li>
+              <li class="woocommerce-mini-cart-item mini_cart_item">
+                <a href="#" class="remove remove_from_cart_button"
+                  ><i class="far fa-times"></i
+                ></a>
+                <a href="#"
+                  ><img
+                    src="assets/img/product/product_thumb_1_2.jpg"
+                    alt="Cart Image"
+                  />D-Ribose Drug Medicine</a
+                >
+                <span class="quantity"
+                  >1 ×
+                  <span class="woocommerce-Price-amount amount">
+                    <span class="woocommerce-Price-currencySymbol">$</span
+                    >899.00</span
+                  >
+                </span>
+              </li>
+              <li class="woocommerce-mini-cart-item mini_cart_item">
+                <a href="#" class="remove remove_from_cart_button"
+                  ><i class="far fa-times"></i
+                ></a>
+                <a href="#"
+                  ><img
+                    src="assets/img/product/product_thumb_1_3.jpg"
+                    alt="Cart Image"
+                  />CAD Dentistry Prosthesis</a
+                >
+                <span class="quantity"
+                  >1 ×
+                  <span class="woocommerce-Price-amount amount">
+                    <span class="woocommerce-Price-currencySymbol">$</span
+                    >756.00</span
+                  >
+                </span>
+              </li>
+              <li class="woocommerce-mini-cart-item mini_cart_item">
+                <a href="#" class="remove remove_from_cart_button"
+                  ><i class="far fa-times"></i
+                ></a>
+                <a href="#"
+                  ><img
+                    src="assets/img/product/product_thumb_1_4.jpg"
+                    alt="Cart Image"
+                  />Surgery Safety Mask</a
+                >
+                <span class="quantity"
+                  >1 ×
+                  <span class="woocommerce-Price-amount amount">
+                    <span class="woocommerce-Price-currencySymbol">$</span
+                    >723.00</span
+                  >
+                </span>
+              </li>
+              <li class="woocommerce-mini-cart-item mini_cart_item">
+                <span href="#" class="remove remove_from_cart_button"
+                  ><i class="far fa-times"></i
+                ></a>
+                <a href="#"
+                  ><img
+                    src="assets/img/product/product_thumb_1_5.jpg"
+                    alt="Cart Image"
+                  />Infrared Thermometers</a
+                >
+                <span class="quantity"
+                  >1 ×
+                  <span class="woocommerce-Price-amount amount">
+                    <span class="woocommerce-Price-currencySymbol">$</span
+                    >1080.00</span
+                  >
+                </span>
+              </li>
+            </ul>
+            <p class="woocommerce-mini-cart__total total">
+              <strong>Subtotal:</strong>
+              <span class="woocommerce-Price-amount amount">
+                <span class="woocommerce-Price-currencySymbol">$</span
+                >4398.00</span
+              >
+            </p>
+            <p class="woocommerce-mini-cart__buttons buttons">
+              <a href="cart.html" class="th-btn wc-forward">View cart</a>
+              <a href="checkout.html" class="th-btn checkout wc-forward"
+                >Checkout</a
+              >
+            </p>
+          </div>
+        </div>
+      </div>
+    </div> -->
+    <!--==============================
+    Sidemenu
+============================== -->
+    <!-- <div class="sidemenu-wrapper sidemenu-info">
+      <div class="sidemenu-content">
+        <button class="closeButton sideMenuCls">
+          <i class="far fa-times"></i>
+        </button>
+        <div class="widget">
+          <div class="th-widget-about">
+            <div class="about-logo">
+              <a href="home-medical-clinic.html"
+                ><img src="assets/img/logo.svg" alt="Mediax"
+              /></a>
+            </div>
+            <p class="about-text">
+              Subscribe to out newsletter today to receive latest news
+              administrate cost effective for tactical data.
+            </p>
+            <p class="footer-info">
+              <i class="fal fa-location-dot"></i>
+              2478 Street City Ohio 90255
+            </p>
+            <p class="footer-info">
+              <i class="fal fa-envelope"></i>
+              <a href="mailto:info@mediax.com" class="info-box_link"
+                >info@mediax.com</a
+              >
+            </p>
+            <p class="footer-info">
+              <i class="fal fa-phone"></i>
+              <a href="tel:+40276328246" class="info-box_link"
+                >+(402) 763 282 46</a
+              >
+            </p>
+            <div class="th-social">
+              <a href="https://www.facebook.com/"
+                ><i class="fab fa-facebook-f"></i
+              ></a>
+              <a href="https://www.twitter.com/"
+                ><i class="fab fa-twitter"></i
+              ></a>
+              <a href="https://www.linkedin.com/"
+                ><i class="fab fa-linkedin-in"></i
+              ></a>
+              <a href="https://www.whatsapp.com/"
+                ><i class="fab fa-whatsapp"></i
+              ></a>
+            </div>
+          </div>
+        </div>
+        <div class="widget">
+          <h3 class="widget_title">Let’s Stay In Touch</h3>
+          <div class="newsletter-widget">
+            <p class="footer-text">Subscribe for newsletter</p>
+            <form action="#" class="newsletter-form">
+              <div class="form-group">
+                <input
+                  class="form-control"
+                  type="email"
+                  placeholder="Enter Email"
+                  required=""
+                />
+              </div>
+              <button type="submit" class="simple-icon">
+                <i class="fa-solid fa-paper-plane"></i>
+              </button>
+            </form>
+            <div class="form-group">
+              <input type="checkbox" id="checkboxagree" name="checkboxagree" />
+              <label for="checkboxagree"
+                >I agree with the terms & conditions</label
+              >
+            </div>
+            <div class="btn-group">
+              <a href="https://play.google.com/" class="img-btn">
+                <img src="assets/img/normal/apple_store.png" alt="icon" />
+              </a>
+              <a href="https://play.google.com/" class="img-btn">
+                <img src="assets/img/normal/play_store.png" alt="icon" />
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="popup-search-box d-none d-lg-block">
+      <button class="searchClose"><i class="fal fa-times"></i></button>
+      <form action="#">
+        <input type="text" placeholder="What are you looking for?" />
+        <button type="submit"><i class="fal fa-search"></i></button>
+      </form>
+    </div> -->
+    <!--==============================
+    Mobile Menu
+  ============================== -->
+    <div class="th-menu-wrapper">
+      <div class="th-menu-area text-center">
+        <button class="th-menu-toggle"><i class="fal fa-times"></i></button>
+        <div class="mobile-logo">
+          <a href="/"
+            ><img src="assets/logo/logo.png" style="height: 150px" alt="logo"
+          /></a>
+        </div>
+        <div class="th-mobile-menu">
+          <ul>
+            <li>
+              <a href="/">Home</a>
+            </li>
+            <li><a href="about-doctor.html">About Doctor</a></li>
+            <li class="menu-item-has-children">
+              <a href="orthopedic-surgery-treatment.html"
+                >Orthopaedic Treatment <br />
+                & Surgery
+              </a>
+              <ul class="sub-menu">
+                <li>
+                  <a href="orthopaedic-trauma.html">Orthopaedic Trauma</a>
+                </li>
+                <li class="menu-item-has-children">
+                  <a href="arthroplasty-joint-replacement.html"
+                    >Arthroplasty/Joint Replacement</a
+                  >
+                  <ul class="sub-menu">
+                    <li><a href="hip-surgery.html">Hip Surgery</a></li>
+                    <li><a href="knee-surgery.html">Knee Surgery</a></li>
+                    <li>
+                      <a href="shoulder-surgery.html">Shoulder Surgery</a>
+                    </li>
+                    <li><a href="ankle-surgery.html">Ankle Surgery</a></li>
+                    <li><a href="elbow-surgery.html">Elbow Surgery</a></li>
+                    <li><a href="wrist-surgery.html">Wrist Surgery</a></li>
+                    <!-- <li><a href="finger-surgery.html">Finger Surgery</a></li>
+                    <li><a href="toe-surgery.html">Toe Surgery</a></li> -->
+                    <li><a href="foot-surgery.html">Foot Surgery</a></li>
+                  </ul>
+                </li>
+                <li class="menu-item-has-children">
+                  <a href="arthroscopy.html">Arthroscopy</a>
+                  <ul class="sub-menu">
+                    <!-- <li>
+                      <a href="elbow-arthroscopy.html">Elbow Arthroscopy</a>
+                    </li> -->
+                    <li>
+                      <a href="foot-ankle-arthroscopy.html"
+                        >Foot and Ankle Arthroscopy</a
+                      >
+                    </li>
+                    <!-- <li>
+                      <a href="hand-wrist-arthroscopy.html"
+                        >Hand and Wrist Arthroscopy</a
+                      >
+                    </li> -->
+                    <!-- <li><a href="hip-arthroscopy.html">Hip Arthroscopy</a></li> -->
+                    <li>
+                      <a href="knee-arthroscopy.html">Knee Arthroscopy</a>
+                    </li>
+                    <li>
+                      <a href="shoulder-arthroscopy.html"
+                        >Shoulder Arthroscopy</a
+                      >
+                    </li>
+                  </ul>
+                </li>
+                <li>
+                  <a href="sports-injury-treatments.html"
+                    >Sports Injury Treatments</a
+                  >
+                </li>
+                <li>
+                  <a href="spine-treatments.html">Spine Treatments</a>
+                </li>
+                <li>
+                  <a href="total-knee-replacement.html"
+                    >Total Knee Replacement</a
+                  >
+                </li>
+                <li>
+                  <a href="total-hip-replacement.html">Total Hip Replacement</a>
+                </li>
+                <li>
+                  <a href="robotic-knee-replacement.html"
+                    >Robotic Knee Replacement</a
+                  >
+                </li>
+              </ul>
+            </li>
+            <li class="menu-item-has-children">
+              <a href="our-facilities.html">Facility</a>
+              <ul class="sub-menu">
+                <li>
+                  <a href="expert-orthopaedic-consultation.html"
+                    >Expert Orthopaedic Consultation</a
+                  >
+                </li>
+                <li><a href="x-ray-facility.html">X-Ray Facility</a></li>
+                <li><a href="physiotherapy.html">Physiotherapy</a></li>
+                <li>
+                  <a href="bmc-injection-osteonecrosis-avn.html"
+                    >Bone Marrow Concentrate Injection for Osteonecrosis/AVN</a
+                  >
+                </li>
+                <li>
+                  <a href="bmc-injection-cartilage-defects.html"
+                    >Bone Marrow Concentrate Injection for Cartilage Defects</a
+                  >
+                </li>
+                <li>
+                  <a href="prp-injections.html"
+                    >PRP Injections(Platelet Rich Plasma)</a
+                  >
+                </li>
+                <li>
+                  <a href="non-operative-low-back-pain.html"
+                    >Comprehensive Non Operative Treatment for Low Back Pain</a
+                  >
+                </li>
+              </ul>
+            </li>
+            <li>
+              <a href="gallery.html">Gallery </a>
+            </li>
+            <li>
+              <a href="testimonials.html">Testimonials</a>
+            </li>
+            <li>
+              <a href="contact.html">Contact Us</a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+    <!--==============================
+	Header Area
+==============================-->
+    <header class="th-header header-layout1">
+      <div class="header-top" style="background-color: #0b5045">
+        <div class="container">
+          <div
+            class="row justify-content-center justify-content-lg-between align-items-center gy-2"
+          >
+            <div class="col-auto d-none d-lg-block">
+              <div class="header-links">
+                <ul>
+                  <li class="d-none d-sm-inline-block">
+                    <i class="fas fa-phone icon-btn"></i><b>Phone:</b>
+                    <a href="tel:+919482382130" class="text-white"
+                      >+91 9482382130</a
+                    >
+                  </li>
+                  <li class="d-none d-sm-inline-block">
+                    <i class="fas fa-envelope icon-btn"></i><b>Email:</b>
+                    <a
+                      href="mailto:prabhuorthopaediccentre@gmail.com"
+                      class="text-white"
+                      >prabhuorthopaediccentre@gmail.com</a
+                    >
+                  </li>
+                  <li class="d-none d-xxl-inline-block">
+                    <i class="fas fa-location-dot icon-btn"></i>
+                    <a
+                      href="https://maps.app.goo.gl/uVqTMngPreM6zcmK7"
+                      class="text-white"
+                      >12th Main Rd, 1st Block, Rajajinagar, Bengaluru,
+                      Karnataka 560010
+                    </a>
+                  </li>
+                </ul>
+              </div>
+            </div>
+            <div class="col-auto">
+              <div class="header-links">
+                <ul>
+                  <li>
+                    <div class="social-links">
+                      <span class="social-title">Follow Us On: </span>
+                      <a href="https://www.facebook.com/"
+                        ><i class="fab fa-facebook-f"></i
+                      ></a>
+                      <a href="https://www.twitter.com/"
+                        ><i class="fab fa-twitter"></i
+                      ></a>
+                      <a href="https://www.linkedin.com/"
+                        ><i class="fab fa-linkedin-in"></i
+                      ></a>
+                      <a href="https://www.instagram.com/"
+                        ><i class="fab fa-instagram"></i
+                      ></a>
+                      <a href="https://www.youtube.com/"
+                        ><i class="fab fa-youtube"></i
+                      ></a>
+                    </div>
+                  </li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="sticky-wrapper">
+        <!-- Main Menu Area -->
+        <div class="menu-area">
+          <div class="container-fluid">
+            <div class="row align-items-center justify-content-between">
+              <a href="/" class="col-auto">
+                <div
+                  class="header-logo"
+                  style="
+                    background-image: url(assets/logo/logo.png);
+                    background-position: center;
+                    background-repeat: no-repeat;
+                    background-size: cover;
+                    aspect-ratio: 3/3;
+                  "
+                >
+                  <!-- <div class="logo-bg" data-bg-src="assets/img/bg/logo_bg_1.png"></div> -->
+                  <!-- <a href="home-medical-clinic.html"><img src="assets/logo/logo.png" style="height: 90px;" alt="Mediax"></a> -->
+                </div>
+              </a>
+              <div class="col-auto d-none d-lg-inline-block">
+                <nav class="main-menu d-none d-lg-inline-block">
+                  <ul>
+                    <li>
+                      <a href="/">Home</a>
+                    </li>
+                    <li><a href="about-doctor.html">About Doctor</a></li>
+                    <li class="menu-item-has-children">
+                      <a href="orthopedic-surgery-treatment.html"
+                        >Orthopaedic Treatment & Surgery
+                      </a>
+                      <ul class="sub-menu">
+                        <li>
+                          <a href="orthopaedic-trauma.html"
+                            >Orthopaedic Trauma</a
+                          >
+                        </li>
+                        <li class="menu-item-has-children">
+                          <a href="arthroplasty-joint-replacement.html"
+                            >Arthroplasty/Joint Replacement</a
+                          >
+                          <ul class="sub-menu">
+                            <li><a href="hip-surgery.html">Hip Surgery</a></li>
+                            <li>
+                              <a href="knee-surgery.html">Knee Surgery</a>
+                            </li>
+                            <li>
+                              <a href="shoulder-surgery.html"
+                                >Shoulder Surgery</a
+                              >
+                            </li>
+                            <li>
+                              <a href="ankle-surgery.html">Ankle Surgery</a>
+                            </li>
+                            <li>
+                              <a href="elbow-surgery.html">Elbow Surgery</a>
+                            </li>
+                            <li>
+                              <a href="wrist-surgery.html">Wrist Surgery</a>
+                            </li>
+                            <!-- <li>
+                              <a href="finger-surgery.html">Finger Surgery</a>
+                            </li>
+                            <li><a href="toe-surgery.html">Toe Surgery</a></li> -->
+                            <li>
+                              <a href="foot-surgery.html">Foot Surgery</a>
+                            </li>
+                          </ul>
+                        </li>
+                        <li class="menu-item-has-children">
+                          <a href="arthroscopy.html">Arthroscopy</a>
+                          <ul class="sub-menu">
+                            <!-- <li>
+                              <a href="elbow-arthroscopy.html"
+                                >Elbow Arthroscopy</a
+                              >
+                            </li> -->
+                            <li>
+                              <a href="foot-ankle-arthroscopy.html"
+                                >Foot and Ankle Arthroscopy</a
+                              >
+                            </li>
+                            <!-- <li>
+                              <a href="hand-wrist-arthroscopy.html"
+                                >Hand and Wrist Arthroscopy</a
+                              >
+                            </li> -->
+                            <!-- <li>
+                              <a href="hip-arthroscopy.html">Hip Arthroscopy</a>
+                            </li> -->
+                            <li>
+                              <a href="knee-arthroscopy.html"
+                                >Knee Arthroscopy</a
+                              >
+                            </li>
+                            <li>
+                              <a href="shoulder-arthroscopy.html"
+                                >Shoulder Arthroscopy</a
+                              >
+                            </li>
+                          </ul>
+                        </li>
+                        <li>
+                          <a href="sports-injury-treatments.html"
+                            >Sports Injury Treatments</a
+                          >
+                        </li>
+                        <li>
+                          <a href="spine-treatments.html">Spine Treatments</a>
+                        </li>
+                        <li>
+                          <a href="total-knee-replacement.html"
+                            >Total Knee Replacement</a
+                          >
+                        </li>
+                        <li>
+                          <a href="total-hip-replacement.html"
+                            >Total Hip Replacement</a
+                          >
+                        </li>
+                        <li>
+                          <a href="robotic-knee-replacement.html"
+                            >Robotic Knee Replacement</a
+                          >
+                        </li>
+                      </ul>
+                    </li>
+                    <li class="menu-item-has-children">
+                      <a href="our-facilities.html">Facility</a>
+                      <ul class="sub-menu">
+                        <li>
+                          <a href="expert-orthopaedic-consultation.html"
+                            >Expert Orthopaedic Consultation</a
+                          >
+                        </li>
+                        <li>
+                          <a href="x-ray-facility.html">X-Ray Facility</a>
+                        </li>
+                        <li><a href="physiotherapy.html">Physiotherapy</a></li>
+                        <li>
+                          <a href="bmc-injection-osteonecrosis-avn.html"
+                            >Bone Marrow Concentrate Injection for
+                            Osteonecrosis/AVN</a
+                          >
+                        </li>
+                        <li>
+                          <a href="bmc-injection-cartilage-defects.html"
+                            >Bone Marrow Concentrate Injection for Cartilage
+                            Defects</a
+                          >
+                        </li>
+                        <li>
+                          <a href="prp-injections.html"
+                            >PRP Injections(Platelet Rich Plasma)</a
+                          >
+                        </li>
+                        <li>
+                          <a href="non-operative-low-back-pain.html"
+                            >Comprehensive Non Operative Treatment for Low Back
+                            Pain</a
+                          >
+                        </li>
+                      </ul>
+                    </li>
+                    <li>
+                      <a href="gallery.html">Gallery </a>
+                    </li>
+                    <li>
+                      <a href="testimonials.html">Testimonials</a>
+                    </li>
+                    <li>
+                      <a href="contact.html">Contact Us</a>
+                    </li>
+                  </ul>
+                </nav>
+                <!-- <a href="appointment.html" class="th-btn">Appointment Now</a> -->
+                <!-- <button
+                  type="button"
+                  class="icon-btn sideMenuInfo d-none d-xl-inline-block"
+                >
+                  <i class="far fa-bars"></i>
+                </button>
+                <button type="button" class="th-menu-toggle d-block d-lg-none">
+                  <i class="far fa-bars"></i>
+                </button> -->
+              </div>
+              <div class="col-auto">
+                <div class="header-button">
+                  <!-- <button
+                    type="button"
+                    class="icon-btn searchBoxToggler d-none d-xl-inline-block"
+                  >
+                    <i class="far fa-search"></i>
+                  </button> -->
+                  <!-- <button type="button" class="icon-btn sideMenuCart">
+                    <span class="badge">5</span>
+                    <i class="far fa-cart-shopping"></i>
+                  </button> -->
+                  <a href="book-an-appointment.html" class="th-btn text-white"
+                    >Appointment Now</a
+                  >
+                  <button
+                    type="button"
+                    class="icon-btn sideMenuInfo d-none d-xl-inline-block"
+                  >
+                    <i class="far fa-bars"></i>
+                  </button>
+                  <button
+                    type="button"
+                    class="th-menu-toggle d-block d-lg-none"
+                  >
+                    <i class="far fa-bars"></i>
+                  </button>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </header>
+    <!--==============================
+Hero Area
+==============================-->
+    <div
+      id="carouselExampleControls"
+      class="carousel slide"
+      data-bs-ride="carousel"
+      style="max-width: 1800px; margin: 0 auto"
+    >
+      <div class="carousel-inner">
+        <div class="carousel-item active">
+          <div>
+            <div class="desk-banner">
+              <img
+                src="assets/banners/Surgical Excellence, Compassionate Care. (2).webp"
+                class="d-block w-100"
+                alt="..."
+              />
+            </div>
+            <div class="mobile-banner">
+              <img
+                src="assets/banners/mobile (10).webp"
+                class="d-block w-100"
+                alt="..."
+              />
+            </div>
+          </div>
+        </div>
+        <div class="carousel-item">
+          <div>
+            <div class="desk-banner">
+              <img
+                src="assets/banners/first team doctor.webp"
+                class="d-block w-100"
+                alt="..."
+              />
+            </div>
+            <div class="mobile-banner">
+              <img
+                src="assets/banners/mobile (11).webp"
+                class="d-block w-100"
+                alt="..."
+              />
+            </div>
+          </div>
+        </div>
+        <div class="carousel-item">
+          <div>
+            <div class="desk-banner">
+              <img
+                src="assets/banners/Arthroscopy (1).webp"
+                class="d-block w-100"
+                alt="..."
+              />
+            </div>
+            <div class="mobile-banner">
+              <img
+                src="assets/banners/mobile-3 (3).webp"
+                class="d-block w-100"
+                alt="..."
+              />
+            </div>
+          </div>
+        </div>
+        <div class="carousel-item">
+          <div>
+            <div class="desk-banner">
+              <img
+                src="assets/banners/Joint Replacement.webp"
+                class="d-block w-100"
+                alt="..."
+              />
+            </div>
+            <div class="mobile-banner">
+              <img
+                src="assets/banners/mobile-2 (4).webp"
+                class="d-block w-100"
+                alt="..."
+              />
+            </div>
+          </div>
+        </div>
+
+        <div class="carousel-item">
+          <div>
+            <div class="desk-banner">
+              <img
+                src="assets/banners/Trauma.webp"
+                class="d-block w-100"
+                alt="..."
+              />
+            </div>
+            <div class="mobile-banner">
+              <img
+                src="assets/banners/mobile-1 (6).webp"
+                class="d-block w-100"
+                alt="..."
+              />
+            </div>
+          </div>
+        </div>
+        <div class="carousel-item">
+          <div>
+            <div class="desk-banner">
+              <img
+                src="assets/banners/Sports Injury Treatment.webp"
+                class="d-block w-100"
+                alt="..."
+              />
+            </div>
+            <div class="mobile-banner">
+              <img
+                src="assets/banners/mobile (9).webp"
+                class="d-block w-100"
+                alt="..."
+              />
+            </div>
+          </div>
+        </div>
+      </div>
+      <button
+        class="carousel-control-prev"
+        style="background-color: transparent; border: 0px"
+        type="button"
+        data-bs-target="#carouselExampleControls"
+        data-bs-slide="prev"
+      >
+        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Previous</span>
+      </button>
+      <button
+        class="carousel-control-next"
+        type="button"
+        style="background-color: transparent; border: 0px"
+        data-bs-target="#carouselExampleControls"
+        data-bs-slide="next"
+      >
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Next</span>
+      </button>
+    </div>
+    <!--======== / Hero Section ========-->
+
+    <!--==============================
+About Area  
+==============================-->
+    <div class="space" id="about-sec">
+      <div class="container">
+        <div class="row">
+          <div class="col-xl-6 mb-30 mb-xl-0">
+            <div class="text-center about-doct-mobile">
+              <span class="sub-title">About the Doctor</span>
+              <h2 class="sec-title">
+                Meet Dr. Chetan Patil S – Orthopaedic Specialist
+              </h2>
+            </div>
+            <div class="img-box6">
+              <div class="img1 text-center">
+                <img
+                  src="assets/doctor-images/dr-chetan.webp"
+                  style="width: 450px; border: 5px solid #c0c2ff"
+                  alt="About"
+                />
+              </div>
+              <div
+                class="img2 about-mobile"
+                data-mask-src="assets/img/normal/about_mask.png"
+              >
+                <img
+                  data-mask-src="assets/img/normal/about_mask.png"
+                  src="assets/home-images/about.png"
+                  style="width: 197px; height: 222px"
+                  alt="About"
+                />
+              </div>
+              <div
+                class="project-counter about-mobile"
+                style="margin-bottom: -70px"
+              >
+                <h3 class="box-number text-white">
+                  <span class="counter-number">10</span>+
+                </h3>
+                <h4 class="box-title">Years of Experience</h4>
+              </div>
+            </div>
+          </div>
+          <div class="col-xl-6 text-center text-xl-start">
+            <div class="title-area mb-4">
+              <div class="about-doct-desk">
+                <span class="sub-title">About the Doctor</span>
+                <h2 class="sec-title" style="font-size: 40px">
+                  Meet Dr. Chetan Patil S – Orthopaedic Specialist
+                </h2>
+              </div>
+              <p class="sec-text" style="text-align: justify">
+                Dr. Chetan Patil S is an experienced orthopaedic surgeon with a
+                strong background in arthroscopy, joint replacement, and trauma
+                care. Trained in premier institutions in India and Germany, he
+                brings global expertise and patient-centric care to every case.
+              </p>
+            </div>
+            <div class="feature-and-counter">
+              <div class="about-feature-wrap">
+                <div class="about-feature">
+                  <div class="box-icon">
+                    <img
+                      src="assets/flat-icons/arthritis.png"
+                      style="height: 30px"
+                      alt="icon"
+                    />
+                  </div>
+                  <div class="media-body">
+                    <h3 class="box-title">Expert in Joint Care</h3>
+                    <p>
+                      Specialized in arthroscopy and joint replacement surgeries
+                      for knee, shoulder, and hip.
+                    </p>
+                  </div>
+                </div>
+                <div class="about-feature">
+                  <div class="box-icon">
+                    <img
+                      src="assets/flat-icons/injury.png"
+                      style="height: 40px"
+                      alt="icon"
+                    />
+                  </div>
+                  <div class="media-body">
+                    <h3 class="box-title">Trauma & Sports Injury Specialist</h3>
+                    <p>
+                      Proficient in handling complex trauma and sports injuries
+                      with comprehensive care.
+                    </p>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="justify-content-between">
+              <a href="about-doctor.html" class="th-btn text-white"
+                >About Doctor</a
+              >
+              <a
+                href="book-an-appointment.html"
+                class="th-btn style4 about-mobile"
+                >Book An Appointment</a
+              >
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div
+      class="z-index-common"
+      data-pos-for="#team-sec"
+      data-sec-pos="bottom-half"
+    >
+      <div class="container">
+        <div class="counter-card-wrap">
+          <div class="counter-card">
+            <h2 class="box-number" style="color: white">
+              <span class="number"
+                ><span class="counter-number">10</span>+</span
+              >
+            </h2>
+            <p class="box-text" style="color: white">Years of Experience</p>
+          </div>
+          <div class="divider"></div>
+          <div class="counter-card">
+            <h2 class="box-number" style="color: white">
+              <span class="number"
+                ><span class="counter-number">5000</span>+</span
+              >
+            </h2>
+            <p class="box-text" style="color: white">Surgeries Performed</p>
+          </div>
+          <!-- <div class="divider"></div> -->
+          <!-- <div class="counter-card">
+            <h2 class="box-number" style="color: white">
+              <span class="number"
+                ><span class="counter-number">3000</span>+</span
+              >
+            </h2>
+            <p class="box-text" style="color: white">Happy Patients</p>
+          </div> -->
+          <!-- <div class="divider"></div> -->
+          <!-- <div class="counter-card">
+            <h2 class="box-number" style="color: white">
+              <span class="number"><span class="counter-number">4</span></span>
+            </h2>
+            <p class="box-text" style="color: white">Fellowships Completed</p>
+          </div> -->
+        </div>
+      </div>
+    </div>
+
+    <!--==============================
+Service Area  
+==============================-->
+    <section class="overflow-hidden bg-smoke space" id="service-sec">
+      <div class="container" style="margin-top: 100px">
+        <div class="row justify-content-center">
+          <div class="col-lg-6 col-md-8">
+            <div class="title-area text-center">
+              <span class="sub-title">Our Orthopaedic Treatment & Surgery</span>
+              <h3 class="sec-title">Comprehensive Care, Expertly Delivered</h3>
+            </div>
+          </div>
+        </div>
+        <div class="row gy-4 justify-content-center">
+          <div class="col-xl-3 col-lg-4 col-sm-6">
+            <div
+              class="service-card"
+              style="
+                position: relative;
+                background: linear-gradient(
+                    rgba(0, 0, 0, 0.471),
+                    rgba(0, 0, 0, 0.471)
+                  ),
+                  url('assets/service-images/Orthopaedic-Trauma.png');
+                background-repeat: no-repeat;
+                background-size: cover;
+                background-position: center;
+                aspect-ratio: 3/2;
+              "
+            >
+              <div class="box-shape">
+                <img src="assets/img/bg/service_card_bg.png" alt="Service" />
+              </div>
+              <div class="box-icon">
+                <img
+                  src="assets/flat-icons/Orthopaedic-Trauma.png"
+                  alt="Icon"
+                />
+              </div>
+              <h3 class="box-title">
+                <a href="orthopaedic-trauma.html">Orthopaedic Trauma</a>
+              </h3>
+              <!-- <p class="box-text">30+ Doctors</p> -->
+              <a
+                href="orthopaedic-trauma.html"
+                class="th-btn btn-sm style2 theme-color"
+                >Read More</a
+              >
+            </div>
+          </div>
+          <div class="col-xl-3 col-lg-4 col-sm-6">
+            <div
+              class="service-card"
+              style="
+                position: relative;
+                background: linear-gradient(
+                    rgba(0, 0, 0, 0.471),
+                    rgba(0, 0, 0, 0.471)
+                  ),
+                  url('assets/service-images/Joint-Replacement.jpg');
+                background-repeat: no-repeat;
+                background-size: cover;
+                background-position: center;
+                aspect-ratio: 3/2;
+              "
+            >
+              <div class="box-shape">
+                <img src="assets/img/bg/service_card_bg.png" alt="Service" />
+              </div>
+              <div class="box-icon">
+                <img src="assets/flat-icons/Joint-Replacement.png" alt="Icon" />
+              </div>
+              <h3 class="box-title">
+                <a href="arthroplasty-joint-replacement.html"
+                  >Joint Replacement</a
+                >
+              </h3>
+              <!-- <p class="box-text">20+ Doctors</p> -->
+              <a
+                href="arthroplasty-joint-replacement.html"
+                class="th-btn btn-sm style2 theme-color"
+                >Read More</a
+              >
+            </div>
+          </div>
+          <div class="col-xl-3 col-lg-4 col-sm-6">
+            <div
+              class="service-card"
+              style="
+                position: relative;
+                background: linear-gradient(
+                    rgba(0, 0, 0, 0.471),
+                    rgba(0, 0, 0, 0.471)
+                  ),
+                  url('assets/service-images/Hip-Surgery.png');
+                background-repeat: no-repeat;
+                background-size: cover;
+                background-position: center;
+                aspect-ratio: 3/2;
+              "
+            >
+              <div class="box-shape">
+                <img src="assets/img/bg/service_card_bg.png" alt="Service" />
+              </div>
+              <div class="box-icon">
+                <img src="assets/flat-icons/hip-replacement.png" alt="Icon" />
+              </div>
+              <h3 class="box-title">
+                <a href="arthroscopy.html">Arthroscopy</a>
+              </h3>
+              <!-- <p class="box-text">20+ Doctors</p> -->
+              <a
+                href="arthroscopy.html"
+                class="th-btn btn-sm style2 theme-color"
+                >Read More</a
+              >
+            </div>
+          </div>
+          <div class="col-xl-3 col-lg-4 col-sm-6">
+            <div
+              class="service-card"
+              style="
+                position: relative;
+                background: linear-gradient(
+                    rgba(0, 0, 0, 0.471),
+                    rgba(0, 0, 0, 0.471)
+                  ),
+                  url('assets/service-images/Sports-Injury-Treatments.jpeg');
+                background-repeat: no-repeat;
+                background-size: cover;
+                background-position: center;
+                aspect-ratio: 3/2;
+              "
+            >
+              <div class="box-shape">
+                <img src="assets/img/bg/service_card_bg.png" alt="Service" />
+              </div>
+              <div class="box-icon">
+                <img
+                  src="assets/flat-icons/physical-therapy (2).png"
+                  alt="Icon"
+                />
+              </div>
+              <h3 class="box-title">
+                <a href="sports-injury-treatments.html"
+                  >Sports Injury Treatments</a
+                >
+              </h3>
+              <!-- <p class="box-text">10+ Doctors</p> -->
+              <a
+                href="sports-injury-treatments.html"
+                class="th-btn btn-sm style2 theme-color"
+                >Read More</a
+              >
+            </div>
+          </div>
+          <div class="col-xl-3 col-lg-4 col-sm-6">
+            <div
+              class="service-card"
+              style="
+                position: relative;
+                background: linear-gradient(
+                    rgba(0, 0, 0, 0.471),
+                    rgba(0, 0, 0, 0.471)
+                  ),
+                  url('assets/service-images/Robotic-Knee-Replacement.jpg');
+                background-repeat: no-repeat;
+                background-size: cover;
+                background-position: center;
+                aspect-ratio: 3/2;
+              "
+            >
+              <div class="box-shape">
+                <img src="assets/img/bg/service_card_bg.png" alt="Service" />
+              </div>
+              <div class="box-icon">
+                <img
+                  src="assets/flat-icons/Robotic-Knee-Replacement.png"
+                  alt="Icon"
+                />
+              </div>
+              <h3 class="box-title">
+                <a href="robotic-knee-replacement.html" style="font-size: 22px"
+                  >Robotic Knee Replacement</a
+                >
+              </h3>
+              <!-- <p class="box-text">20+ Doctors</p> -->
+              <a
+                href="robotic-knee-replacement.html"
+                class="th-btn btn-sm style2 theme-color"
+                >Read More</a
+              >
+            </div>
+          </div>
+          <div class="col-xl-3 col-lg-4 col-sm-6">
+            <div
+              class="service-card"
+              style="
+                position: relative;
+                background: linear-gradient(
+                    rgba(0, 0, 0, 0.471),
+                    rgba(0, 0, 0, 0.471)
+                  ),
+                  url('assets/service-images/Total-Knee-Replacement.webp');
+                background-repeat: no-repeat;
+                background-size: cover;
+                background-position: center;
+                aspect-ratio: 3/2;
+              "
+            >
+              <div class="box-shape">
+                <img src="assets/img/bg/service_card_bg.png" alt="Service" />
+              </div>
+              <div class="box-icon">
+                <img src="assets/flat-icons/knee-joint.png" alt="Icon" />
+              </div>
+              <h3 class="box-title">
+                <a href="total-knee-replacement.html"
+                  >Total Knee Replacement
+                </a>
+              </h3>
+              <!-- <p class="box-text">24+ Doctors</p> -->
+              <a
+                href="total-knee-replacement.html"
+                class="th-btn btn-sm style2 theme-color"
+                >Read More</a
+              >
+            </div>
+          </div>
+          <div class="col-xl-3 col-lg-4 col-sm-6">
+            <div
+              class="service-card"
+              style="
+                position: relative;
+                background: linear-gradient(
+                    rgba(0, 0, 0, 0.471),
+                    rgba(0, 0, 0, 0.471)
+                  ),
+                  url('assets/service-images/Total-Hip-Replacement.jpg');
+                background-repeat: no-repeat;
+                background-size: cover;
+                background-position: center;
+                aspect-ratio: 3/2;
+              "
+            >
+              <div class="box-shape">
+                <img src="assets/img/bg/service_card_bg.png" alt="Service" />
+              </div>
+              <div class="box-icon">
+                <img
+                  src="assets/flat-icons/Total-Hip-Replacement.png"
+                  alt="Icon"
+                />
+              </div>
+              <h3 class="box-title">
+                <a href="total-hip-replacement.html">Total Hip Replacement</a>
+              </h3>
+              <!-- <p class="box-text">26+ Doctors</p> -->
+              <a
+                href="total-hip-replacement.html"
+                class="th-btn btn-sm style2 theme-color"
+                >Read More</a
+              >
+            </div>
+          </div>
+
+          <div class="col-xl-3 col-lg-4 col-sm-6">
+            <div
+              class="service-card"
+              style="
+                position: relative;
+                background: linear-gradient(
+                    rgba(0, 0, 0, 0.471),
+                    rgba(0, 0, 0, 0.471)
+                  ),
+                  url('assets/service-images/Spine-Treatments.webp');
+                background-repeat: no-repeat;
+                background-size: cover;
+                background-position: center;
+                aspect-ratio: 3/2;
+              "
+            >
+              <div class="box-shape">
+                <img src="assets/img/bg/service_card_bg.png" alt="Service" />
+              </div>
+              <div class="box-icon">
+                <img src="assets/flat-icons/chiropractic (1).png" alt="Icon" />
+              </div>
+              <h3 class="box-title">
+                <a href="spine-treatments.html">Spine Treatments</a>
+              </h3>
+              <!-- <p class="box-text">30+ Doctors</p> -->
+              <a
+                href="spine-treatments.html"
+                class="th-btn btn-sm style2 theme-color"
+                >Read More</a
+              >
+            </div>
+          </div>
+        </div>
+        <div class="mt-5 pt-2 text-center">
+          <a
+            href="orthopedic-surgery-treatment.html"
+            class="th-btn btn-sm style4"
+            >View All Orthopaedic Treatments & Surgeries</a
+          >
+        </div>
+      </div>
+    </section>
+
+    <!--==============================
+Cta Area  
+==============================-->
+    <section
+      class="cta-sec7 space"
+      data-bg-src="assets/service-images/counter.jpg"
+    >
+      <div class="container">
+        <h2 class="sec-title mb-md-4 mb-2">
+          Need an Orthopaedic Consultation?
+        </h2>
+        <h4 class="text-theme fw-semibold mb-4 mb-md-5">
+          Call for Expert Bone & Joint Care!
+        </h4>
+        <div class="cta-call">
+          <div class="box-icon">
+            <i class="fa-solid fa-headset"></i>
+          </div>
+          <div class="media-body">
+            <p class="box-text">Orthopaedic Helpline</p>
+            <h3 class="box-title">
+              <a href="tel:+919482382130">+91 9482382130</a>
+            </h3>
+          </div>
+        </div>
+      </div>
+    </section>
+    <!--==============================
+Feature Area  
+==============================-->
+    <div class="bg-smoke space" id="why-sec">
+      <div class="shape-mockup" data-top="0" data-right="0">
+        <!-- <img src="assets/img/bg/pattern_bg_3.png" alt="shape" /> -->
+      </div>
+      <div class="container">
+        <div class="row">
+          <div class="pe-xxl-5 mb-xl-0 text-center">
+            <span class="sub-title">Why Choose Dr. Chetan Patil</span>
+            <h3 class="sec-title">
+              Dedicated Orthopaedic Care with Precision and Compassion
+            </h3>
+          </div>
+          <div class="col-xl-5 align-self-end about-doct-mobile mb-30">
+            <div class="comparison-img-wrap">
+              <div class="comparison-img">
+                <div
+                  class="img background-img"
+                  data-bg-src="assets/service-images/why-choose-us.avif"
+                ></div>
+              </div>
+            </div>
+          </div>
+          <div class="col-xl-7 text-center text-xl-start">
+            <div class="pe-xxl-5 mb-40 mb-xl-0">
+              <div class="title-area mb-32">
+                <p class="sec-text" style="text-align: justify">
+                  Dr. Chetan Patil S offers a patient-centered approach in
+                  orthopaedics, combining surgical precision with compassionate
+                  care. With years of national and international training, he
+                  provides comprehensive solutions for joint pain, trauma, and
+                  sports injuries.
+                </p>
+              </div>
+              <div class="eye-feature-wrap">
+                <div class="eye-feature">
+                  <div class="icon-wrap">
+                    <div class="box-icon">
+                      <img
+                        src="assets/flat-icons/fellowship.png"
+                        style="height: 40px"
+                        alt="icon"
+                      />
+                    </div>
+                    <div class="box-number">01</div>
+                  </div>
+                  <h3 class="box-title">Fellowship-Trained Expert</h3>
+                  <p class="box-text">
+                    Specialized in arthroscopy and joint replacement with global
+                    training in Germany and Mumbai.
+                  </p>
+                </div>
+                <div class="eye-feature">
+                  <div class="icon-wrap">
+                    <div class="box-icon">
+                      <img
+                        src="assets/flat-icons/Orthopaedic Surgeon.png"
+                        style="height: 40px"
+                        alt="icon"
+                      />
+                    </div>
+                    <div class="box-number">02</div>
+                  </div>
+                  <h3 class="box-title">Trusted Orthopaedic Surgeon</h3>
+                  <p class="box-text">
+                    Recognized for excellence in handling trauma, joint, and
+                    sports injury cases with precision.
+                  </p>
+                </div>
+                <div class="eye-feature">
+                  <div class="icon-wrap">
+                    <div class="box-icon">
+                      <img
+                        src="assets/flat-icons/Experience.png"
+                        style="height: 40px"
+                        alt="icon"
+                      />
+                    </div>
+                    <div class="box-number">03</div>
+                  </div>
+                  <h3 class="box-title">Over a Decade of Experience</h3>
+                  <p class="box-text">
+                    A proven track record of delivering successful outcomes for
+                    patients over the past 10+ years.
+                  </p>
+                </div>
+                <div class="eye-feature">
+                  <div class="icon-wrap">
+                    <div class="box-icon">
+                      <img
+                        src="assets/flat-icons/patient-care.png"
+                        style="height: 40px"
+                        alt="icon"
+                      />
+                    </div>
+                    <div class="box-number">04</div>
+                  </div>
+                  <h3 class="box-title">Thousands of Happy Patients</h3>
+                  <p class="box-text">
+                    Known for compassionate care and having helped thousands
+                    regain mobility and live pain-free lives.
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-xl-5 align-self-end about-doct-desk">
+            <div class="comparison-img-wrap">
+              <div class="comparison-img">
+                <div
+                  class="img background-img"
+                  data-bg-src="assets/service-images/why-choose-us.avif"
+                ></div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <section class="space" id="testi-sec">
+      <div class="container">
+        <div class="row">
+          <div class="col-xl-6 text-center text-xl-start">
+            <div class="pe-xxl-5 mb-40 mb-xl-0">
+              <div class="title-area mb-32">
+                <span class="sub-title"> Athlete-Trusted Care </span>
+                <h2 class="sec-title">
+                  Preferred Orthopedic Care for Champions
+                </h2>
+                <p class="sec-text" style="text-align: justify">
+                  Our orthopedic center has become a preferred destination for
+                  elite athletes, national-level players, and fitness
+                  professionals who demand nothing less than excellence. With a
+                  reputation built on precision diagnostics, minimally invasive
+                  surgeries, and sport-specific rehabilitation protocols, we
+                  help champions recover faster and perform at their peak.
+                  Whether it’s treating ligament tears, cartilage damage, or
+                  chronic joint issues, our personalized care ensures long-term
+                  recovery and performance enhancement. When it comes to
+                  orthopedic care, even top athletes put their trust in us — and
+                  so can you.
+                </p>
+              </div>
+              <!-- <div class="btn-group justify-content-center">
+                    <a href="athlete-care.html" class="th-btn style4 shadow-1">Explore Athlete Care</a>
+                    <div class="icon-box">
+                      <button data-slider-prev="#athleteSlide1" class="slider-arrow default">
+                        <i class="far fa-arrow-left"></i>
+                      </button>
+                      <button data-slider-next="#athleteSlide1" class="slider-arrow default">
+                        <i class="far fa-arrow-right"></i>
+                      </button>
+                    </div>
+                  </div> -->
+            </div>
+          </div>
+          <div class="col-xl-6">
+            <div
+              class="swiper th-slider has-shadow"
+              id="testiSlide1"
+              data-slider-options="{}"
+            >
+              <div class="swiper-wrapper">
+                <div class="swiper-slide">
+                  <div class="testi-block" style="padding: 20px" dir="ltr">
+                    <div class="box-quote">
+                      <img src="assets/img/icon/quote_5.png" alt="Icon" />
+                    </div>
+                    <img
+                      src="assets/sports-person-images/2024-10-22 (3).webp"
+                      style="aspect-ratio: 3/2.2"
+                      alt=""
+                    />
+                  </div>
+                </div>
+                <div class="swiper-slide">
+                  <div class="testi-block" style="padding: 20px" dir="ltr">
+                    <div class="box-quote">
+                      <img src="assets/img/icon/quote_5.png" alt="Icon" />
+                    </div>
+                    <img
+                      src="assets/sports-person-images/2024-10-22 (4).webp"
+                      style="aspect-ratio: 3/2.2"
+                      alt=""
+                    />
+                  </div>
+                </div>
+                <div class="swiper-slide">
+                  <div class="testi-block" style="padding: 20px" dir="ltr">
+                    <div class="box-quote">
+                      <img src="assets/img/icon/quote_5.png" alt="Icon" />
+                    </div>
+                    <img
+                      src="assets/sports-person-images/IMG_6019.jpg"
+                      style="aspect-ratio: 3/2.2"
+                      alt=""
+                    />
+                  </div>
+                </div>
+                <div class="swiper-slide">
+                  <div class="testi-block" style="padding: 20px" dir="ltr">
+                    <div class="box-quote">
+                      <img src="assets/img/icon/quote_5.png" alt="Icon" />
+                    </div>
+                    <img
+                      src="assets/sports-person-images/IMG_6116.jpg"
+                      style="aspect-ratio: 3/2.2"
+                      alt=""
+                    />
+                  </div>
+                </div>
+                <div class="swiper-slide">
+                  <div class="testi-block" style="padding: 20px" dir="ltr">
+                    <div class="box-quote">
+                      <img src="assets/img/icon/quote_5.png" alt="Icon" />
+                    </div>
+                    <img
+                      src="assets/sports-person-images/IMG_6110.jpg"
+                      style="aspect-ratio: 3/2.2"
+                      alt=""
+                    />
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <!--==============================
+Counter Area  
+==============================-->
+
+    <!--==============================
+Team Area  
+==============================-->
+
+    <!--==============================
+Appointment Area   
+==============================-->
+    <!-- <div class="overflow-hidden space">
+      <div class="container">
+        <div class="appointment-row">
+          <div class="schedule-box">
+            <div class="shape"></div>
+            <h3 class="box-title">Working Hours</h3>
+            <p class="box-text">
+              Variations of passages amt available are anything embarrassing.
+            </p>
+            <p class="box-timing">Monday - Tuesday: <span>9am - 6pm</span></p>
+            <p class="box-timing">
+              Wednesday - Thursday: <span>8am - 5pm </span>
+            </p>
+            <p class="box-timing">Friday: <span>7am - 10pm</span></p>
+            <p class="box-timing">Saturday: <span>10am - 7pm </span></p>
+            <p class="box-timing">Sunday: <span>Colsed</span></p>
+          </div>
+          <div class="form-wrap">
+            <div class="img-box4">
+              <div class="img1">
+                <img src="assets/img/normal/form_1_1.jpg" alt="Image" />
+              </div>
+              <div class="img2">
+                <img src="assets/img/normal/form_1_2.jpg" alt="Image" />
+              </div>
+            </div>
+            <form action="mail.php" method="POST" class="appointment-form">
+              <h4 class="form-title">Make An Appointment</h4>
+              <div class="row">
+                <div class="form-group col-12">
+                  <input
+                    type="text"
+                    class="form-control"
+                    name="name"
+                    id="name"
+                    placeholder="Your Name"
+                  />
+                </div>
+                <div class="form-group col-12">
+                  <input
+                    type="email"
+                    class="form-control"
+                    name="email"
+                    id="email"
+                    placeholder="Email Address"
+                  />
+                </div>
+                <div class="form-group col-12">
+                  <input
+                    type="tel"
+                    class="form-control"
+                    name="number"
+                    id="number"
+                    placeholder="Phone Number"
+                  />
+                </div>
+                <div class="form-group col-12">
+                  <select name="subject" id="subject" class="form-select">
+                    <option value="" disabled selected hidden>
+                      Choose Department
+                    </option>
+                    <option value="Make Appointment">Make Appointment</option>
+                    <option value="General Inquiry">General Inquiry</option>
+                    <option value="Medicine Help">Medicine Help</option>
+                    <option value="Consultation">Consultation</option>
+                  </select>
+                </div>
+                <div class="form-group col-6">
+                  <input
+                    type="text"
+                    class="date-pick form-control"
+                    name="date"
+                    id="date-pick"
+                    placeholder="Date"
+                  />
+                </div>
+                <div class="form-group col-6">
+                  <input
+                    type="text"
+                    class="time-pick form-control"
+                    name="time"
+                    id="time-pick"
+                    placeholder="Time"
+                  />
+                </div>
+                <div class="form-btn col-12">
+                  <button class="th-btn btn-fw">BOOK AN APPOINTMENT</button>
+                </div>
+              </div>
+              <p class="form-messages mb-0 mt-3"></p>
+            </form>
+          </div>
+        </div>
+      </div>
+    </div> -->
+
+    <section class="space" id="service-sec" style="background-color: #f5f7fa">
+      <div class="container">
+        <div class="row align-items-end">
+          <div class="col-md">
+            <div class="title-area text-center text-md-start">
+              <span class="sub-title">Our Facilities</span>
+              <h2 class="sec-title">Expert Care. Modern Facilities</h2>
+            </div>
+          </div>
+          <div class="col-md-auto about-doct-desk">
+            <div class="sec-btn">
+              <a href="our-facilities.html" class="th-btn text-white"
+                >View More Facilities</a
+              >
+            </div>
+          </div>
+        </div>
+        <div class="slider-area">
+          <div
+            class="swiper th-slider has-shadow"
+            id="serviceSlider3"
+            data-slider-options='{"breakpoints":{"0":{"slidesPerView":1},"576":{"slidesPerView":"1"},"768":{"slidesPerView":"2"},"992":{"slidesPerView":"2"},"1200":{"slidesPerView":"3"}}}'
+          >
+            <div class="swiper-wrapper">
+              <div class="swiper-slide">
+                <div class="service-grid">
+                  <div class="box-shape">
+                    <img
+                      src="assets/img/bg/service_grid_shape.png"
+                      alt="image"
+                    />
+                  </div>
+                  <div class="box-img">
+                    <div class="img">
+                      <img
+                        class="w-100"
+                        src="assets/service-images/Expert Orthopaedic Consultation.webp"
+                        style="aspect-ratio: 3/2"
+                        alt="Orthopaedic"
+                      />
+                    </div>
+                    <div class="box-icon">
+                      <img
+                        src="assets/flat-icons/Orthopaedic Consultation.png"
+                        style="height: 50px"
+                        alt="Icon"
+                      />
+                    </div>
+                  </div>
+                  <div class="box-content">
+                    <!-- <p class="box-doctor">Dr. Aditya H Kumar</p> -->
+                    <h3 class="box-title">
+                      <a
+                        href="expert-orthopaedic-consultation.html"
+                        style="font-size: 22px"
+                        >Expert Orthopaedic Consultation</a
+                      >
+                    </h3>
+                    <p class="box-text">
+                      Expert evaluation and accurate diagnosis for effective
+                      treatment of a wide range of bone and joint conditions.
+                    </p>
+                    <a
+                      href="expert-orthopaedic-consultation.html"
+                      class="th-btn btn-sm style2"
+                      >Read More</a
+                    >
+                  </div>
+                </div>
+              </div>
+
+              <div class="swiper-slide">
+                <div class="service-grid">
+                  <div class="box-shape">
+                    <img
+                      src="assets/img/bg/service_grid_shape.png"
+                      alt="image"
+                    />
+                  </div>
+                  <div class="box-img">
+                    <div class="img">
+                      <img
+                        class="w-100"
+                        src="assets/service-images/X-Ray Facility.jpg"
+                        style="aspect-ratio: 3/2"
+                        alt="X-Ray"
+                      />
+                    </div>
+                    <div class="box-icon">
+                      <img
+                        src="assets/flat-icons/x-rays.png"
+                        style="height: 50px"
+                        alt="Icon"
+                      />
+                    </div>
+                  </div>
+                  <div class="box-content">
+                    <!-- <p class="box-doctor">Available In-House</p> -->
+                    <h3 class="box-title">
+                      <a href="x-ray-facility.html">X-Ray Facility</a>
+                    </h3>
+                    <p class="box-text">
+                      Advanced digital X-Ray facility for quick, accurate, and
+                      detailed orthopaedic imaging diagnosis.
+                    </p>
+                    <a href="x-ray-facility.html" class="th-btn btn-sm style2"
+                      >Read More</a
+                    >
+                  </div>
+                </div>
+              </div>
+
+              <div class="swiper-slide">
+                <div class="service-grid">
+                  <div class="box-shape">
+                    <img
+                      src="assets/img/bg/service_grid_shape.png"
+                      alt="image"
+                    />
+                  </div>
+                  <div class="box-img">
+                    <div class="img">
+                      <img
+                        class="w-100"
+                        src="assets/service-images/Physiotherapy.jpg"
+                        style="aspect-ratio: 3/2"
+                        alt="Physiotherapy"
+                      />
+                    </div>
+                    <div class="box-icon">
+                      <img
+                        src="assets/flat-icons/Physiotherapy.png"
+                        style="height: 50px"
+                        alt="Icon"
+                      />
+                    </div>
+                  </div>
+                  <div class="box-content">
+                    <!-- <p class="box-doctor">Expert Team</p> -->
+                    <h3 class="box-title">
+                      <a href="physiotherapy.html">Physiotherapy</a>
+                    </h3>
+                    <p class="box-text">
+                      Personalized physiotherapy plans to speed recovery,
+                      restore function, and improve overall mobility.
+                    </p>
+                    <a href="physiotherapy.html" class="th-btn btn-sm style2"
+                      >Read More</a
+                    >
+                  </div>
+                </div>
+              </div>
+
+              <div class="swiper-slide">
+                <div class="service-grid">
+                  <div class="box-shape">
+                    <img
+                      src="assets/img/bg/service_grid_shape.png"
+                      alt="image"
+                    />
+                  </div>
+                  <div class="box-img">
+                    <div class="img">
+                      <img
+                        class="w-100"
+                        src="assets/service-images/Bone Marrow Concentrate Injection.webp"
+                        alt="BMC Injection for AVN"
+                      />
+                    </div>
+                    <div class="box-icon">
+                      <img
+                        src="assets/flat-icons/marrow.png"
+                        style="height: 50px"
+                        alt="Icon"
+                      />
+                    </div>
+                  </div>
+                  <div class="box-content">
+                    <!-- <p class="box-doctor">Dr. Aditya H Kumar</p> -->
+                    <h3 class="box-title">
+                      <a
+                        href="bmc-injection-osteonecrosis-avn.html"
+                        style="font-size: 20px"
+                        >Bone Marrow Concentrate Injection for
+                        Osteonecrosis/AVN</a
+                      >
+                    </h3>
+                    <p class="box-text">
+                      Minimally invasive regenerative therapy to treat avascular
+                      necrosis of bone.
+                    </p>
+                    <a
+                      href="bmc-injection-osteonecrosis-avn.html"
+                      class="th-btn btn-sm style2"
+                      >Read More</a
+                    >
+                  </div>
+                </div>
+              </div>
+
+              <div class="swiper-slide">
+                <div class="service-grid">
+                  <div class="box-shape">
+                    <img
+                      src="assets/img/bg/service_grid_shape.png"
+                      alt="image"
+                    />
+                  </div>
+                  <div class="box-img">
+                    <div class="img">
+                      <img
+                        class="w-100"
+                        src="assets/service-images/Bone Marrow Concentrate Injection defects.jpg"
+                        style="aspect-ratio: 3/2"
+                        alt="BMC for Cartilage"
+                      />
+                    </div>
+                    <div class="box-icon">
+                      <img
+                        src="assets/flat-icons/cartilage.png"
+                        style="height: 50px"
+                        alt="Icon"
+                      />
+                    </div>
+                  </div>
+                  <div class="box-content">
+                    <!-- <p class="box-doctor">Dr. Aditya H Kumar</p> -->
+                    <h3 class="box-title">
+                      <a
+                        href="bmc-injection-cartilage-defects.html"
+                        style="font-size: 23px"
+                        >Bone Marrow Concentrate Injection for Cartilage
+                        Defects</a
+                      >
+                    </h3>
+                    <p class="box-text">
+                      Innovative orthobiologic solution to aid cartilage
+                      regeneration and healing.
+                    </p>
+                    <a
+                      href="bmc-injection-cartilage-defects.html"
+                      class="th-btn btn-sm style2"
+                      >Read More</a
+                    >
+                  </div>
+                </div>
+              </div>
+
+              <div class="swiper-slide">
+                <div class="service-grid">
+                  <div class="box-shape">
+                    <img
+                      src="assets/img/bg/service_grid_shape.png"
+                      alt="image"
+                    />
+                  </div>
+                  <div class="box-img">
+                    <div class="img">
+                      <img
+                        class="w-100"
+                        src="assets/service-images/PRP-Injections.jpg"
+                        style="aspect-ratio: 3/2"
+                        alt="BMC for Cartilage"
+                      />
+                    </div>
+                    <div class="box-icon">
+                      <img
+                        src="assets/flat-icons/medical.png"
+                        style="height: 50px"
+                        alt="Icon"
+                      />
+                    </div>
+                  </div>
+                  <div class="box-content">
+                    <!-- <p class="box-doctor">Dr. Aditya H Kumar</p> -->
+                    <h3 class="box-title">
+                      <a href="prp-injections.html" style="font-size: 23px"
+                        >PRP Injections(Platelet Rich Plasma)</a
+                      >
+                    </h3>
+                    <p class="box-text">
+                      PRP injections boost healing using your body’s natural
+                      platelets.
+                    </p>
+                    <a href="prp-injections.html" class="th-btn btn-sm style2"
+                      >Read More</a
+                    >
+                  </div>
+                </div>
+              </div>
+
+              <div class="swiper-slide">
+                <div class="service-grid">
+                  <div class="box-shape">
+                    <img
+                      src="assets/img/bg/service_grid_shape.png"
+                      alt="image"
+                    />
+                  </div>
+                  <div class="box-img">
+                    <div class="img">
+                      <img
+                        class="w-100"
+                        src="assets/service-images/Treatment-for-Low-Back-Pain.jpg"
+                        style="aspect-ratio: 3/2"
+                        alt="BMC for Cartilage"
+                      />
+                    </div>
+                    <div class="box-icon">
+                      <img
+                        src="assets/flat-icons/back.png"
+                        style="height: 50px"
+                        alt="Icon"
+                      />
+                    </div>
+                  </div>
+                  <div class="box-content">
+                    <!-- <p class="box-doctor">Dr. Aditya H Kumar</p> -->
+                    <h3 class="box-title">
+                      <a
+                        href="non-operative-low-back-pain.html"
+                        style="font-size: 23px"
+                        >Comprehensive Non Operative Treatment for Low Back
+                        Pain</a
+                      >
+                    </h3>
+                    <p class="box-text">
+                      Comprehensive non-operative treatments to relieve and
+                      manage chronic low back pain.
+                    </p>
+                    <a
+                      href="non-operative-low-back-pain.html"
+                      class="th-btn btn-sm style2"
+                      >Read More</a
+                    >
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <button
+            data-slider-prev="#serviceSlider3"
+            class="slider-arrow slider-prev"
+          >
+            <i class="far fa-arrow-left"></i>
+          </button>
+          <button
+            data-slider-next="#serviceSlider3"
+            class="slider-arrow slider-next"
+          >
+            <i class="far fa-arrow-right"></i>
+          </button>
+        </div>
+        <div class="col-md-auto about-doct-mobile mt-5 mb-0">
+          <div class="sec-btn">
+            <a href="our-facilities.html" class="th-btn text-white"
+              >View More Facilities</a
+            >
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!--==============================
+Process Area  
+==============================-->
+    <section class="space" data-bg-src="">
+      <div class="container">
+        <div class="title-area text-center">
+          <span class="sub-title">
+            <!-- <img src="assets/img/theme-img/title_icon.svg" alt="Icon" /> -->
+            Treatment Journey
+          </span>
+          <h2 class="sec-title">How We Care for You</h2>
+        </div>
+        <div class="process-card-wrap">
+          <div class="process-card">
+            <div class="box-img">
+              <div
+                class="img"
+                style="
+                  background-image: url(assets/service-images/Consultation.jpeg);
+                  background-repeat: no-repeat;
+                  background-position: left;
+                  background-size: cover;
+                  height: 180px;
+                  width: 180px;
+                "
+              ></div>
+              <p class="box-number">01</p>
+            </div>
+            <h3 class="box-title">Consultation</h3>
+            <p class="box-text">
+              Meet Dr. Chetan Patil for a detailed evaluation.
+            </p>
+          </div>
+          <div class="process-card">
+            <div class="box-img">
+              <div
+                class="img"
+                style="
+                  background-image: url(assets/service-images/PhysicalExamination.jpg);
+                  background-repeat: no-repeat;
+                  background-position: center;
+                  background-size: cover;
+                  height: 180px;
+                  width: 180px;
+                "
+              ></div>
+              <p class="box-number">02</p>
+            </div>
+            <h3 class="box-title">Examination</h3>
+            <p class="box-text">Physical check and review of your symptoms.</p>
+          </div>
+          <div class="process-card">
+            <div class="box-img">
+              <div
+                class="img"
+                style="
+                  background-image: url(assets/service-images/Diagnosis.webp);
+                  background-repeat: no-repeat;
+                  background-position: center;
+                  background-size: cover;
+                  height: 180px;
+                  width: 180px;
+                "
+              ></div>
+              <p class="box-number">03</p>
+            </div>
+            <h3 class="box-title">Diagnosis</h3>
+            <p class="box-text">Get test results and a clear diagnosis.</p>
+          </div>
+          <div class="process-card">
+            <div class="box-img">
+              <div
+                class="img"
+                style="
+                  background-image: url(assets/service-images/Treatment.jpg);
+                  background-repeat: no-repeat;
+                  background-position: center;
+                  background-size: cover;
+                  height: 180px;
+                  width: 180px;
+                "
+              ></div>
+              <p class="box-number">04</p>
+            </div>
+            <h3 class="box-title">Treatment</h3>
+            <p class="box-text">Begin your personalized care plan.</p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!--==============================
+Faq Area
+==============================-->
+
+    <div class="space" style="background-color: #f8f9fd">
+      <div class="container">
+        <div class="title-area text-center">
+          <span class="sub-title">Our Gallery</span>
+          <h2 class="sec-title">
+            From Injury to Recovery – Real Stories, Real Results
+          </h2>
+        </div>
+        <div class="row gy-4 masonary-active gallery-row2">
+          <div class="filter-item col-xl-auto col-md-6">
+            <div class="gallery-card style2">
+              <div class="box-img">
+                <img
+                  src="assets/our-gallery/2024-10-31.webp"
+                  alt="gallery image"
+                />
+                <div class="shape">
+                  <div class="dot"></div>
+                  <div class="dot"></div>
+                  <div class="dot"></div>
+                  <div class="dot"></div>
+                </div>
+              </div>
+              <div class="box-content">
+                <a
+                  href="assets/our-gallery/2024-10-31.webp"
+                  class="icon-btn style2 popup-image"
+                  ><i class="far fa-eye"></i
+                ></a>
+                <!-- <h3 class="box-title">Dental Cleaning</h3> -->
+                <!-- <p class="box-text">
+                  Thorough dental checkups, prioritize health over aesthetics.
+                </p> -->
+              </div>
+            </div>
+          </div>
+          <div class="filter-item col-xl-auto col-md-6">
+            <div class="gallery-card style2">
+              <div class="box-img">
+                <img
+                  src="assets/our-gallery/unnamed.webp"
+                  alt="gallery image"
+                />
+                <div class="shape">
+                  <div class="dot"></div>
+                  <div class="dot"></div>
+                  <div class="dot"></div>
+                  <div class="dot"></div>
+                </div>
+              </div>
+              <div class="box-content">
+                <a
+                  href="assets/our-gallery/unnamed.webp"
+                  class="icon-btn style2 popup-image"
+                  ><i class="far fa-eye"></i
+                ></a>
+                <!-- <h3 class="box-title">Root Canal</h3> -->
+                <!-- <p class="box-text">
+                  Thorough dental checkups, prioritize health over aesthetics.
+                </p> -->
+              </div>
+            </div>
+          </div>
+          <div class="filter-item col-xl-auto col-md-6">
+            <div class="gallery-card style2">
+              <div class="box-img">
+                <img
+                  src="assets/our-gallery/2024-10-22.webp"
+                  alt="gallery image"
+                />
+                <div class="shape">
+                  <div class="dot"></div>
+                  <div class="dot"></div>
+                  <div class="dot"></div>
+                  <div class="dot"></div>
+                </div>
+              </div>
+              <div class="box-content">
+                <a
+                  href="assets/our-gallery/2024-10-22.webp"
+                  class="icon-btn style2 popup-image"
+                  ><i class="far fa-eye"></i
+                ></a>
+                <!-- <h3 class="box-title">Dental Bracing</h3> -->
+                <!-- <p class="box-text">
+                  Thorough dental checkups, prioritize health over aesthetics.
+                </p> -->
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="text-center mt-5">
+          <a href="gallery.html" class="th-btn btn-sm style2">View More </a>
+        </div>
+      </div>
+    </div>
+
+    <!--==============================
+Testimonial Area  
+==============================-->
+    <section class="space" id="testi-sec">
+      <div class="container">
+        <div class="title-area text-center">
+          <span class="sub-title">Testimonials</span>
+          <h2 class="sec-title">Real Stories, Real Recovery, Real Results</h2>
+        </div>
+        <div
+          class="swiper th-slider"
+          id="testiSlide1"
+          data-slider-options='{"breakpoints":{"0":{"slidesPerView":1},"576":{"slidesPerView":"1"},"768":{"slidesPerView":"1"},"992":{"slidesPerView":"2"},"1200":{"slidesPerView":"2"}}}'
+        >
+          <div class="swiper-wrapper">
+            <div class="swiper-slide">
+              <div class="testi-card bg-smoke">
+                <div class="box-review">
+                  <i class="fa-sharp fa-solid fa-star"></i
+                  ><i class="fa-sharp fa-solid fa-star"></i
+                  ><i class="fa-sharp fa-solid fa-star"></i
+                  ><i class="fa-sharp fa-solid fa-star"></i
+                  ><i class="fa-sharp fa-solid fa-star"></i>
+                </div>
+                <div class="box-quote">
+                  <img
+                    src="assets/testimonials/google.png"
+                    style="height: 40px"
+                    alt="Icon"
+                  />
+                </div>
+                <p class="box-text" style="height: 150px; overflow-y: scroll">
+                  "One of the best and finest Ortho surgeon I have ever met in
+                  my life. He is having very good ortho knowledge/specialist
+                  experienced in his topic and very good person, he always talks
+                  to patient very politely with smile always. When I met with
+                  accident with Ulna bone fracture and Shoulder bone dislocation
+                  ( long back ) he treated me in all possible best ways and
+                  result was awesome than any other top surgeon in Manipal.
+                  Also, he did surgery to my father on 2/3 Femur bone fracture
+                  where it was near to impossible to do surgery at the age of 77
+                  years due to weak bones and he explained me in detail how he
+                  is going to do that surgery and succeeded. His confidence
+                  level is very high on his subject . Believe me he is the best
+                  Doctor in the town. Today ( 16-06-2023) I was trying to reach
+                  his number which I have in mobile contact list to take
+                  appointment for my daughter collar bone treatment, but number
+                  didn’t go though, so I checked online and trying to reconfirm
+                  his mobile number but luckily, he hasn't changed his mobile
+                  number since then. Meanwhile, unfortunately to my surprise I
+                  saw some negative comments about him , gross ,!!!! Please
+                  don’t spoil Doctor names like this No doctor is bad, or money
+                  minded, for some cases he must do the tests for better
+                  treatment , it’s my turn to say my good experience with Dr
+                  Prabhu Sir.. even though I remembered you after long time. Dr.
+                  Prabhu sir……You are simply awesome Doctor ......subject matter
+                  expert of ORTHO !!!! meeting you soon !!!."
+                </p>
+                <div class="box-profile">
+                  <div class="box-img">
+                    <img
+                      src="assets/testimonials/Syed Mansur.png"
+                      alt="Avater"
+                    />
+                  </div>
+                  <div class="box-content">
+                    <h3 class="box-title">Syed Mansur</h3>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="swiper-slide">
+              <div class="testi-card bg-smoke">
+                <div class="box-review">
+                  <i class="fa-sharp fa-solid fa-star"></i
+                  ><i class="fa-sharp fa-solid fa-star"></i
+                  ><i class="fa-sharp fa-solid fa-star"></i
+                  ><i class="fa-sharp fa-solid fa-star"></i
+                  ><i class="fa-sharp fa-solid fa-star"></i>
+                </div>
+                <div class="box-quote">
+                  <img
+                    src="assets/testimonials/google.png"
+                    style="height: 40px"
+                    alt="Icon"
+                  />
+                </div>
+                <p class="box-text" style="height: 150px; overflow-y: scroll">
+                  "My mother was suffering from severe knee pain due to
+                  osteoarthritis for years and Dr Prabhu recommended a total
+                  knee replacement around 4 years back. Due to her fear of
+                  surgery and some stories that she heard about failures in TKR
+                  cases, she decided not to undergo surgery. Her knee pain
+                  worsened to an extent wherein walking a few steps to visit the
+                  rest room became an ordeal. Finally she agreed and underwent a
+                  total knee replacement in Nov 22. Dr Prabhu performed the
+                  surgery and it was a successful one. Post surgery, the
+                  excellent care by Dr Prabhu and the physiotherapist, Dr Vara
+                  Prasad, has put my mom back on her feet!! It is 2 months now
+                  post surgery. My mother already feels she has a new lease of
+                  life and freedom. I waited for 2 months after the surgery to
+                  post a truthful review. The only regret I have is if my mother
+                  had agreed to undergo the TKR 5 years ago when Dr Prabhu had
+                  first recommended, she need not have suffered so much and
+                  lived a painful life of limited mobility. She is reclaiming
+                  her lost quality of life gradually. The last and the most
+                  encouraging aspect of this story is, my 70 year old mother is
+                  diabetic, hypertensive and slightly ovetweight!! If the TKR
+                  has succeeded for her, it should work on anyone too. So for
+                  all those who contemplate for a long time, please go ahead and
+                  reclaim your life. Do not wait for long and lose precious time
+                  and years with poorer quality of life due to a bad knee
+                  needing a replacement. Dr Prabhu has been my family Ortho' for
+                  nearly 20 years. Thank God for him and may God bless him and
+                  his team."
+                </p>
+                <div class="box-profile">
+                  <div class="box-img">
+                    <img src="assets/testimonials/k k.png" alt="Avater" />
+                  </div>
+                  <div class="box-content">
+                    <h3 class="box-title">k k</h3>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="swiper-slide">
+              <div class="testi-card bg-smoke">
+                <div class="box-review">
+                  <i class="fa-sharp fa-solid fa-star"></i
+                  ><i class="fa-sharp fa-solid fa-star"></i
+                  ><i class="fa-sharp fa-solid fa-star"></i
+                  ><i class="fa-sharp fa-solid fa-star"></i
+                  ><i class="fa-sharp fa-solid fa-star"></i>
+                </div>
+                <div class="box-quote">
+                  <img
+                    src="assets/testimonials/google.png"
+                    style="height: 40px"
+                    alt="Icon"
+                  />
+                </div>
+                <p class="box-text" style="height: 150px; overflow-y: scroll">
+                  "Dr. Chetan Patil S is a highly professional and friendly
+                  orthopedic doctor. He listens patiently, explains the
+                  diagnosis clearly, and ensures the treatment plan is well
+                  understood. His approachable nature makes it easy to discuss
+                  concerns, and he genuinely cares about his patients'
+                  well-being. I highly recommend him for anyone seeking quality
+                  orthopedic care!"
+                </p>
+                <div class="box-profile">
+                  <div class="box-img">
+                    <img
+                      src="assets/testimonials/vishal kumar.png"
+                      alt="Avater"
+                    />
+                  </div>
+                  <div class="box-content">
+                    <h3 class="box-title">vishal kumar</h3>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="swiper-slide">
+              <div class="testi-card bg-smoke">
+                <div class="box-review">
+                  <i class="fa-sharp fa-solid fa-star"></i
+                  ><i class="fa-sharp fa-solid fa-star"></i
+                  ><i class="fa-sharp fa-solid fa-star"></i
+                  ><i class="fa-sharp fa-solid fa-star"></i
+                  ><i class="fa-sharp fa-solid fa-star"></i>
+                </div>
+                <div class="box-quote">
+                  <img
+                    src="assets/testimonials/google.png"
+                    style="height: 40px"
+                    alt="Icon"
+                  />
+                </div>
+                <p class="box-text" style="height: 150px; overflow-y: scroll">
+                  "Dr Chetan has be very considerate in treating my ankle injury
+                  and I'm glad to have been under his knowledgeable care. His
+                  repeated follow ups and attention to detail tremendously
+                  helped during the recovery phase. His patience and detail to
+                  attention is worth mentioning. I recommend Dr Chetan for any
+                  orthopaedic needs that may arise and can be sure he will be
+                  considerate and as caring to you too!!"
+                </p>
+                <div class="box-profile">
+                  <div class="box-img">
+                    <img
+                      src="assets/testimonials/kristine mathews.png"
+                      alt="Avater"
+                    />
+                  </div>
+                  <div class="box-content">
+                    <h3 class="box-title">kristine mathews</h3>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="swiper-slide">
+              <div class="testi-card bg-smoke">
+                <div class="box-review">
+                  <i class="fa-sharp fa-solid fa-star"></i
+                  ><i class="fa-sharp fa-solid fa-star"></i
+                  ><i class="fa-sharp fa-solid fa-star"></i
+                  ><i class="fa-sharp fa-solid fa-star"></i
+                  ><i class="fa-sharp fa-solid fa-star"></i>
+                </div>
+                <div class="box-quote">
+                  <img
+                    src="assets/testimonials/google.png"
+                    style="height: 40px"
+                    alt="Icon"
+                  />
+                </div>
+                <p class="box-text" style="height: 150px; overflow-y: scroll">
+                  “My experience with Dr Chetan Patil was very good, he is the
+                  best doctor who has taken care of my husband. He is very soft
+                  spoken and has done painless surgery to my husband. I am
+                  really very greatful to him. "Vaidyo Naryano Hari".”
+                </p>
+                <div class="box-profile">
+                  <div class="box-img">
+                    <img
+                      src="assets/testimonials/Ujwala Desai.png"
+                      alt="Avater"
+                    />
+                  </div>
+                  <div class="box-content">
+                    <h3 class="box-title">Ujwala Desai</h3>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="text-center mt-5">
+            <a
+              href="https://www.google.com/search?rlz=1C1GCEU_enIN1161IN1161&sca_esv=d2e7cdd0b004c888&cs=0&output=search&kgmid=/g/11ln_t0p9y&q=Dr+Chetan+Patil+S&shndl=30&shem=lcuae,uaasie&source=sh/x/loc/uni/m1/1&kgs=fd11b2230d7b21fb#lrd=0x3bae3d7041e11519:0x6493b1a30c3a2fc4,1,,,,"
+              class="th-btn btn-sm style2"
+              >View More Reviews</a
+            >
+          </div>
+          <div class="slider-pagination"></div>
+        </div>
+      </div>
+    </section>
+
+    <!--==============================
+Blog Area  
+==============================-->
+    <section
+      class="space"
+      id="blog-sec"
+      data-bg-src=""
+      style="background-color: #f8f9fd"
+    >
+      <div class="container">
+        <div
+          class="row justify-content-lg-between justify-content-center align-items-center"
+        >
+          <div class="col-lg">
+            <div class="title-area text-center text-lg-start">
+              <span class="sub-title">
+                <!-- <img src="assets/img/theme-img/title_icon.svg" alt="shape" /> -->
+                Our Blogs
+              </span>
+              <h2 class="sec-title">
+                Orthopaedic Care: News, Advice & Innovations
+              </h2>
+            </div>
+          </div>
+          <div class="col-lg-auto d-none d-lg-block">
+            <div class="sec-btn">
+              <a href="#" class="th-btn style4">View All Blogs</a>
+            </div>
+          </div>
+        </div>
+        <div class="slider-area">
+          <div
+            class="swiper th-slider has-shadow"
+            id="blogSlider1"
+            data-slider-options='{"breakpoints":{"0":{"slidesPerView":1},"576":{"slidesPerView":"1"},"768":{"slidesPerView":"2"},"992":{"slidesPerView":"2"},"1200":{"slidesPerView":"3"}}}'
+          >
+            <div class="swiper-wrapper">
+              <!-- Blog Post 1 -->
+              <div class="swiper-slide">
+                <div class="blog-card">
+                  <div class="blog-img">
+                    <img
+                      src="https://renisonclinic.com/wp-content/uploads/2024/05/ACL-Injury.jpg"
+                      style="aspect-ratio: 3/2"
+                      alt="blog image"
+                    />
+                  </div>
+                  <div class="blog-content">
+                    <div class="blog-meta">
+                      <a href="#"
+                        ><i class="fal fa-user"></i>By Dr. Chetan Patil S</a
+                      >
+                      <a href="#"
+                        ><i class="fal fa-calendar"></i>01 May, 2025</a
+                      >
+                    </div>
+                    <h3 class="box-title">
+                      <a href="#" style="font-size: 23px"
+                        >Understanding ACL Injuries and Modern Treatment
+                        Options</a
+                      >
+                    </h3>
+                    <a href="#" class="th-btn btn-sm">Read More</a>
+                  </div>
+                </div>
+              </div>
+
+              <!-- Blog Post 2 -->
+              <div class="swiper-slide">
+                <div class="blog-card">
+                  <div class="blog-img">
+                    <img
+                      src="https://nikhilpradhan.co.uk/wp-content/uploads/2023/07/Bone-Joint-Health.webp"
+                      style="aspect-ratio: 3/2"
+                      alt="blog image"
+                    />
+                  </div>
+                  <div class="blog-content">
+                    <div class="blog-meta">
+                      <a href="#"
+                        ><i class="fal fa-user"></i>By Dr. Chetan Patil S</a
+                      >
+                      <a href="#"
+                        ><i class="fal fa-calendar"></i>15 April, 2025</a
+                      >
+                    </div>
+                    <h3 class="box-title">
+                      <a href="#">Bone Health Tips for Every Stage of Life</a>
+                    </h3>
+                    <a href="#" class="th-btn btn-sm">Read More</a>
+                  </div>
+                </div>
+              </div>
+
+              <!-- Blog Post 3 -->
+              <div class="swiper-slide">
+                <div class="blog-card">
+                  <div class="blog-img">
+                    <img
+                      src="https://www.hopkinsmedicine.org/-/media/images/health/1_-conditions/sports-injuries/preventing-sports-injuries-teaser.jpg"
+                      style="aspect-ratio: 3/2"
+                      alt="blog image"
+                    />
+                  </div>
+                  <div class="blog-content">
+                    <div class="blog-meta">
+                      <a href="#"
+                        ><i class="fal fa-user"></i>By Dr. Chetan Patil S</a
+                      >
+                      <a href="#"
+                        ><i class="fal fa-calendar"></i>28 March, 2025</a
+                      >
+                    </div>
+                    <h3 class="box-title">
+                      <a href="#"
+                        >Preventing Sports Injuries: Proactive Orthopaedic
+                        Care</a
+                      >
+                    </h3>
+                    <a href="#" class="th-btn btn-sm">Read More</a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <button
+            data-slider-prev="#blogSlider1"
+            class="slider-arrow slider-prev"
+          >
+            <i class="far fa-arrow-left"></i>
+          </button>
+          <button
+            data-slider-next="#blogSlider1"
+            class="slider-arrow slider-next"
+          >
+            <i class="far fa-arrow-right"></i>
+          </button>
+        </div>
+      </div>
+    </section>
+
+    <!--==============================
+	Footer Area
+==============================-->
+    <footer class="footer-wrapper footer-layout1">
+      <div class="widget-area">
+        <div class="container">
+          <div class="row justify-content-between">
+            <div class="col-md-6 col-xl-auto">
+              <div class="widget footer-widget">
+                <div class="th-widget-about text-center">
+                  <div
+                    class="about-logo"
+                    style="background-color: white; width: max-content"
+                  >
+                    <a href="/"
+                      ><img
+                        src="assets/logo/logo.png"
+                        style="width: 150px; height: 150px"
+                        alt=""
+                    /></a>
+                  </div>
+
+                  <p class="footer-info">
+                    <i class="fal fa-envelope"></i> &ensp;
+                    <a
+                      href="mailto:prabhuorthopaediccentre@gmail.com"
+                      class="info-box_link"
+                      >prabhuorthopaediccentre@gmail.com</a
+                    >
+                  </p>
+                  <p class="footer-info">
+                    <i class="fal fa-phone"></i>&ensp;
+                    <a href="tel:+919482382130" class="info-box_link"
+                      >+91 9482382130
+                    </a>
+                  </p>
+                  <p class="footer-info" style="color: white">
+                    <i class="fal fa-phone"></i>&ensp; Emergency :
+                    <a href="tel:+919611109866" class="info-box_link">
+                      +91 9611109866
+                    </a>
+                  </p>
+                  <p class="footer-info text-white" style="text-align: justify">
+                    <i class="fal fa-location-dot"></i>
+                    <a
+                      href="https://maps.app.goo.gl/uVqTMngPreM6zcmK7"
+                      class="text-white"
+                    >
+                      PRABHU ORTHOPAEDIC CENTRE, SLLR Mansion, 46/8, 12th Main
+                      Rd, 1st Block, Rajajinagar, Bengaluru, Karnataka 560010
+                    </a>
+                  </p>
+                </div>
+              </div>
+            </div>
+            <div class="col-md-6 col-xl-auto">
+              <div class="widget widget_nav_menu footer-widget">
+                <h3 class="widget_title">Quick Links</h3>
+                <div class="menu-all-pages-container">
+                  <ul class="menu">
+                    <li><a href="/">Home</a></li>
+                    <li><a href="about-doctor.html">About Doctor</a></li>
+                    <li>
+                      <a href="orthopedic-surgery-treatment.html"
+                        >Orthopaedic Treatment <br />
+                        & Surgery</a
+                      >
+                    </li>
+                    <li><a href="our-facilities.html">Facility</a></li>
+                    <li><a href="gallery.html">Gallery</a></li>
+                    <li><a href="testimonials.html">Testimonials</a></li>
+                    <li><a href="contact.html">Contact Us</a></li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+            <div class="col-md-6 col-xl-auto">
+              <div class="widget widget_nav_menu footer-widget">
+                <h3 class="widget_title">Our Facilities</h3>
+                <div class="menu-all-pages-container">
+                  <ul class="menu">
+                    <li>
+                      <a href="expert-orthopaedic-consultation.html"
+                        >Expert Orthopaedic Consultation</a
+                      >
+                    </li>
+                    <li><a href="x-ray-facility.html">X-Ray Facility</a></li>
+                    <li><a href="#">Physiotherapy</a></li>
+                    <li>
+                      <a href="bmc-injection-osteonecrosis-avn.html"
+                        >Bone Marrow Concentrate <br />
+                        Injection for Osteonecrosis/AVN</a
+                      >
+                    </li>
+                    <li>
+                      <a href="bmc-injection-cartilage-defects.html"
+                        >Bone Marrow Concentrate <br />
+                        Injection for Cartilage Defects</a
+                      >
+                    </li>
+                    <li>
+                      <a href="prp-injections.html"
+                        >PRP Injections(Platelet Rich Plasma)</a
+                      >
+                    </li>
+                    <li>
+                      <a href="non-operative-low-back-pain.html"
+                        >Comprehensive Non Operative <br />
+                        Treatment for Low Back Pain</a
+                      >
+                    </li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+            <div class="col-md-6 col-xl-auto">
+              <div class="widget footer-widget">
+                <h3 class="widget_title">Locate Us</h3>
+                <div class="recent-post-wrap">
+                  <iframe
+                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3928.05559287081!2d77.552202!3d12.9999592!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae3d853e19f07f%3A0x830b81949c2bcdbe!2sPrabhu%20Orthopaedic%20Centre!5e1!3m2!1sen!2sin!4v1748003131097!5m2!1sen!2sin"
+                    style="border: 0; width: 100%; height: 250px"
+                    allowfullscreen=""
+                    loading="lazy"
+                    referrerpolicy="no-referrer-when-downgrade"
+                  ></iframe>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="copyright-wrap" style="background-color: #0b5045">
+        <div class="container">
+          <div class="row gy-2 align-items-center">
+            <div class="col-md-12">
+              <p class="copyright-text text-center">
+                Copyright <i class="fal fa-copyright"></i> 2025
+                <a href="#" class="text-white">Dr. Chetan Patil S</a>. All
+                Rights Reserved. Designed by
+                <a href="https://www.appaddindia.net/" style="color: white"
+                  >Appadd India Pvt Ltd...</a
+                >
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </footer>
+
+    <!--********************************
+			Code End  Here 
+	******************************** -->
+
+    <!-- Scroll To Top -->
+    <div class="scroll-top" style="bottom: 70px">
+      <svg
+        class="progress-circle svg-content"
+        width="100%"
+        height="100%"
+        viewBox="-1 -1 102 102"
+      >
+        <path
+          d="M50,1 a49,49 0 0,1 0,98 a49,49 0 0,1 0,-98"
+          style="
+            transition: stroke-dashoffset 10ms linear 0s;
+            stroke-dasharray: 307.919, 307.919;
+            stroke-dashoffset: 307.919;
+          "
+        ></path>
+      </svg>
+    </div>
+
+    <section
+      style="position: fixed; bottom: 0px; z-index: 999"
+      class="desk-view container-full"
+    >
+      <div
+        style="
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          width: 100vw;
+          height: 60px;
+        "
+      >
+        <div style="width: 25%">
+          <a
+            href="https://maps.app.goo.gl/eM2h65Z5cKiAtLca7"
+            style="
+              display: flex;
+              align-items: center;
+              justify-content: center;
+              flex-direction: column;
+              padding-top: 10px;
+              gap: 10px;
+              text-decoration: none;
+              background-color: #c0c2ff;
+            "
+          >
+            <img
+              src="assets/flat-icons/google-maps.png"
+              alt=""
+              height="25px"
+              width="25px"
+            />
+            <p style="font-size: 12px; color: #1b2251; font-weight: 600">
+              LOCATE US
+            </p>
+          </a>
+        </div>
+
+        <div style="width: 25%">
+          <a
+            href="https://wa.link/y7s9x0"
+            style="
+              display: flex;
+              align-items: center;
+              justify-content: center;
+              flex-direction: column;
+              text-decoration: none;
+              padding-top: 10px;
+              gap: 10px;
+              background-color: #6ebea3;
+            "
+          >
+            <img
+              src="assets/flat-icons/whatsapp.png"
+              alt=""
+              height="25px"
+              width="25px"
+            />
+            <p style="font-size: 12px; color: #1b2251; font-weight: 600">
+              WHATSAPP
+            </p>
+          </a>
+        </div>
+        <div style="width: 25%">
+          <a
+            href="tel:+919482382130"
+            style="
+              display: flex;
+              align-items: center;
+              justify-content: center;
+              flex-direction: column;
+              padding-top: 10px;
+              gap: 10px;
+              text-decoration: none;
+              background-color: #c0c2ff;
+            "
+          >
+            <img
+              src="assets/flat-icons/smartphone.png"
+              alt=""
+              height="25px"
+              width="25px"
+            />
+            <p style="font-size: 12px; color: #1b2251; font-weight: 600">
+              CALL
+            </p>
+          </a>
+        </div>
+        <div style="width: 25%">
+          <a
+            href="book-an-appointment.html"
+            style="
+              display: flex;
+              align-items: center;
+              justify-content: center;
+              flex-direction: column;
+              padding-top: 10px;
+              gap: 10px;
+              text-decoration: none;
+              background-color: #6ebea3;
+            "
+          >
+            <img
+              src="assets/flat-icons/medical-appointment.png"
+              alt=""
+              height="25px"
+              width="25px"
+            />
+            <p
+              style="
+                overflow-wrap: break-word;
+                font-size: 12px;
+                color: #1b2251;
+                font-weight: 600;
+              "
+            >
+              APPOINTMENT
+            </p>
+          </a>
+        </div>
+      </div>
+    </section>
+
+    <!--==============================
+    All Js File
+============================== -->
+    <!-- Jquery -->
+
+   
+    <script src="assets/js/vendor/jquery-3.7.1.min.js"></script>
+    <!-- Swiper Js -->
+    <script src="assets/js/swiper-bundle.min.js"></script>
+    <!-- Bootstrap -->
+    <script src="assets/js/bootstrap.min.js"></script>
+    <!-- Magnific Popup -->
+    <script src="assets/js/jquery.magnific-popup.min.js"></script>
+    <!-- Counter Up -->
+    <script src="assets/js/jquery.counterup.min.js"></script>
+    <!-- datetimepicker -->
+    <script src="assets/js/jquery.datetimepicker.min.js"></script>
+    <!-- Range Slider -->
+    <script src="assets/js/jquery-ui.min.js"></script>
+    <!-- Isotope Filter -->
+    <script src="assets/js/imagesloaded.pkgd.min.js"></script>
+    <script src="assets/js/isotope.pkgd.min.js"></script>
+
+    <!-- Main Js File -->
+    <script src="assets/js/main.js"></script>
+  </body>
+</html>

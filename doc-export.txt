@@ -1,0 +1,2043 @@
+﻿https://drchetanpatilortho.com/
+
+Meta Title : Orthopedic clinic in Rajajinagar | Orthopedic  Surgeon in Rajajinagar
+
+Meta Description :  Consult Dr. Chetan Patil S, experienced orthopaedic surgeon in Rajajinagar for arthroscopy, joint replacement & trauma care with expert treatment.
+
+H2 : Orthopedic clinic in Rajajinagar
+
+
+Focus Keyword : Orthopedic clinic in Rajajinagar
+
+Schema : 
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "MedicalClinic",
+  "@id": "https://drchetanpatilortho.com/#clinic",
+  "name": "Prabhu Orthopaedic Centre",
+  "url": "https://drchetanpatilortho.com/",
+  "image": "https://drchetanpatilortho.com/assets/logo/logo.png",
+  "logo": "https://drchetanpatilortho.com/assets/logo/logo.png",
+  "description": "Dr. Chetan Patil is an experienced Orthopedic Surgeon in Rajajinagar, Bengaluru, providing advanced treatment for bone, joint, and trauma conditions.",
+  "keywords": [
+    "Orthopedic clinic in Rajajinagar",
+    "Orthopedic Surgeon in Rajajinagar"
+  ],
+  "founder": {
+    "@type": "Person",
+    "name": "Dr. Chetan Patil",
+    "medicalSpecialty": "Orthopedic Surgery"
+  },
+  "telephone": "+91 9611109866",
+  "email": "prabhuorthopaediccentre@gmail.com",
+  "priceRange": "₹₹",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PRABHU ORTHOPAEDIC CENTRE, SLLR Mansion, 46/8, 12th Main Rd, 1st Block, Rajajinagar",
+    "addressLocality": "Bengaluru",
+    "addressRegion": "Karnataka",
+    "postalCode": "560010",
+    "addressCountry": "IN"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "12.998694",
+    "longitude": "77.553375"
+  },
+  "hasMap": "https://www.google.com/maps?q=12.998694,77.553375",
+  "sameAs": [
+    "https://drchetanpatilortho.com/"
+  ],
+  "datePublished": "2025-10-17",
+  "dateModified": "2025-10-17"
+}
+</script>
+
+
+
+
+
+https://drchetanpatilortho.com/about-doctor.html
+
+Meta TItle : Orthopedic Doctor in Rajaji Nagar, Bangalore
+
+
+Meta Description : Consult Dr. Chetan Patil S, experienced orthopaedic surgeon in Rajajinagar for arthroscopy, joint replacement & trauma care with expert treatment.
+
+
+H2 : Orthopedic Doctor in Rajaji Nagar, Bangalore
+
+
+Focus Keyword : Orthopedic Doctor in Rajaji Nagar, Bangalore
+
+Schema:
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "MedicalClinic",
+  "@id": "https://drchetanpatilortho.com/about-doctor.html#clinic",
+  "name": "Prabhu Orthopaedic Centre",
+  "url": "https://drchetanpatilortho.com/about-doctor.html",
+  "image": "https://drchetanpatilortho.com/assets/logo/logo.png",
+  "logo": "https://drchetanpatilortho.com/assets/logo/logo.png",
+  "description": "Consult Dr. Chetan Patil S, experienced orthopaedic surgeon in Rajajinagar for arthroscopy, joint replacement & trauma care with expert treatment.",
+  "keywords": [
+    "Orthopedic Doctor in Rajaji Nagar, Bangalore",
+    "Orthopedic Doctor in Bangalore"
+  ],
+  "founder": {
+    "@type": "Person",
+    "name": "Dr. Chetan Patil S",
+    "medicalSpecialty": "Orthopedic Surgery",
+    "jobTitle": "Orthopedic Doctor",
+    "url": "https://drchetanpatilortho.com/about-doctor.html"
+  },
+  "telephone": "+91 9611109866",
+  "email": "prabhuorthopaediccentre@gmail.com",
+  "priceRange": "₹₹",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PRABHU ORTHOPAEDIC CENTRE, SLLR Mansion, 46/8, 12th Main Rd, 1st Block, Rajajinagar",
+    "addressLocality": "Bengaluru",
+    "addressRegion": "Karnataka",
+    "postalCode": "560010",
+    "addressCountry": "IN"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "12.998694",
+    "longitude": "77.553375"
+  },
+  "hasMap": "https://www.google.com/maps?q=12.998694,77.553375",
+  "sameAs": [
+    "https://drchetanpatilortho.com/"
+  ],
+  "datePublished": "2025-10-17",
+  "dateModified": "2025-10-17"
+}
+</script>
+
+
+
+
+
+
+________________
+
+
+https://drchetanpatilortho.com/orthopedic-surgery-treatment.html
+
+Meta TItle : Orthopedic Surgery in Rajajinagar
+
+
+Meta Description : Get advanced orthopedic surgery in Rajajinagar from Dr. Chetan Patil S. Specialized in joint replacement, arthroscopy & trauma care for faster recovery.
+
+
+H2 :Orthopedic Surgery in Rajajinagar
+
+
+Focus Keyword : Orthopedic Surgery in Rajajinagar
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "MedicalClinic",
+  "@id": "https://drchetanpatilortho.com/orthopedic-surgery-treatment.html#clinic",
+  "name": "Prabhu Orthopaedic Centre",
+  "url": "https://drchetanpatilortho.com/orthopedic-surgery-treatment.html",
+  "image": "https://drchetanpatilortho.com/assets/logo/logo.png",
+  "logo": "https://drchetanpatilortho.com/assets/logo/logo.png",
+  "description": "Get advanced orthopedic surgery in Rajajinagar from Dr. Chetan Patil S. Specialized in joint replacement, arthroscopy & trauma care for faster recovery.",
+  "keywords": [
+    "Orthopedic Surgery in Rajajinagar",
+    "Orthopedic Surgery in Bangalore"
+  ],
+  "founder": {
+    "@type": "Person",
+    "name": "Dr. Chetan Patil S",
+    "medicalSpecialty": "Orthopedic Surgery",
+    "jobTitle": "Orthopedic Surgeon",
+    "url": "https://drchetanpatilortho.com/orthopedic-surgery-treatment.html"
+  },
+  "telephone": "+91 9611109866",
+  "email": "prabhuorthopaediccentre@gmail.com",
+  "priceRange": "₹₹",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PRABHU ORTHOPAEDIC CENTRE, SLLR Mansion, 46/8, 12th Main Rd, 1st Block, Rajajinagar",
+    "addressLocality": "Bengaluru",
+    "addressRegion": "Karnataka",
+    "postalCode": "560010",
+    "addressCountry": "IN"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "12.998694",
+    "longitude": "77.553375"
+  },
+  "hasMap": "https://www.google.com/maps?q=12.998694,77.553375",
+  "sameAs": [
+    "https://drchetanpatilortho.com/"
+  ],
+  "datePublished": "2025-10-17",
+  "dateModified": "2025-10-17"
+}
+</script>
+
+
+
+
+https://drchetanpatilortho.com/orthopaedic-trauma.html
+
+Meta TItle : Orthopaedic Trauma Specialist in  Rajajinagar
+
+
+Meta Description : Consult Dr. Chetan Patil S, leading orthopaedic trauma specialist in Rajajinagar for advanced fracture management, injury care & personalized treatment.
+
+
+H2 : Orthopaedic Trauma Specialist in  Rajajinagar
+ 
+Focus Keyword : Orthopaedic Trauma Specialist 
+
+Schema: 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "MedicalClinic",
+  "@id": "https://drchetanpatilortho.com/orthopaedic-trauma.html#clinic",
+  "name": "Prabhu Orthopaedic Centre",
+  "url": "https://drchetanpatilortho.com/orthopaedic-trauma.html",
+  "image": "https://drchetanpatilortho.com/assets/logo/logo.png",
+  "logo": "https://drchetanpatilortho.com/assets/logo/logo.png",
+  "description": "Consult Dr. Chetan Patil S, leading orthopaedic trauma specialist in Rajajinagar for advanced fracture management, injury care & personalized treatment.",
+  "keywords": [
+    "Orthopaedic Trauma Specialist in Rajajinagar",
+    "Orthopaedic Trauma Specialist in Bangalore"
+  ],
+  "founder": {
+    "@type": "Person",
+    "name": "Dr. Chetan Patil S",
+    "medicalSpecialty": "Orthopaedic Trauma",
+    "jobTitle": "Orthopaedic Trauma Specialist",
+    "url": "https://drchetanpatilortho.com/orthopaedic-trauma.html"
+  },
+  "telephone": "+91 9611109866",
+  "email": "prabhuorthopaediccentre@gmail.com",
+  "priceRange": "₹₹",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PRABHU ORTHOPAEDIC CENTRE, SLLR Mansion, 46/8, 12th Main Rd, 1st Block, Rajajinagar",
+    "addressLocality": "Bengaluru",
+    "addressRegion": "Karnataka",
+    "postalCode": "560010",
+    "addressCountry": "IN"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "12.998694",
+    "longitude": "77.553375"
+  },
+  "hasMap": "https://www.google.com/maps?q=12.998694,77.553375",
+  "sameAs": [
+    "https://drchetanpatilortho.com/"
+  ],
+  "datePublished": "2025-10-17",
+  "dateModified": "2025-10-17"
+}
+</script>
+
+
+
+
+
+
+https://drchetanpatilortho.com/arthroplasty-joint-replacement.html
+
+Meta TItle :  Joint Replacement surgeon in  Rajajinagar
+ 
+Meta Description : Consult Dr. Chetan Patil S, experienced joint replacement surgeon in Rajajinagar offering advanced knee, hip & shoulder replacement with personalized care.
+
+
+H2 : Joint Replacement surgeon in Rajajinagar
+ 
+Focus Keyword : Joint Replacement surgeon in Rajajinagar
+
+Schema : <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "MedicalClinic",
+  "@id": "https://drchetanpatilortho.com/arthroplasty-joint-replacement.html#clinic",
+  "name": "Prabhu Orthopaedic Centre",
+  "url": "https://drchetanpatilortho.com/arthroplasty-joint-replacement.html",
+  "image": "https://drchetanpatilortho.com/assets/logo/logo.png",
+  "logo": "https://drchetanpatilortho.com/assets/logo/logo.png",
+  "description": "Consult Dr. Chetan Patil S, experienced joint replacement surgeon in Rajajinagar offering advanced knee, hip & shoulder replacement with personalized care.",
+  "keywords": [
+    "Joint Replacement surgeon in Rajajinagar",
+    "Joint Replacement surgeon in Bangalore"
+  ],
+  "founder": {
+    "@type": "Person",
+    "name": "Dr. Chetan Patil S",
+    "medicalSpecialty": "Joint Replacement Surgery",
+    "jobTitle": "Joint Replacement Surgeon",
+    "url": "https://drchetanpatilortho.com/arthroplasty-joint-replacement.html"
+  },
+  "telephone": "+91 9611109866",
+  "email": "prabhuorthopaediccentre@gmail.com",
+  "priceRange": "₹₹",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PRABHU ORTHOPAEDIC CENTRE, SLLR Mansion, 46/8, 12th Main Rd, 1st Block, Rajajinagar",
+    "addressLocality": "Bengaluru",
+    "addressRegion": "Karnataka",
+    "postalCode": "560010",
+    "addressCountry": "IN"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "12.998694",
+    "longitude": "77.553375"
+  },
+  "hasMap": "https://www.google.com/maps?q=12.998694,77.553375",
+  "sameAs": [
+    "https://drchetanpatilortho.com/"
+  ],
+  "datePublished": "2025-10-17",
+  "dateModified": "2025-10-17"
+}
+</script>
+
+
+
+
+ 
+https://drchetanpatilortho.com/arthroscopy.html
+
+Meta TItle : Best Arthroscopy Surgeon in Rajajinagar
+
+
+Meta Description : Meet Dr. Chetan Patil S, best arthroscopy surgeon in Rajajinagar, specializing in minimally invasive procedures for sports injuries & joint problems.
+
+
+H2 : Best Arthroscopy Surgeon in  Rajajinagar
+
+
+Focus Keyword : Best Arthroscopy Surgeon in Rajajinagar
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "MedicalClinic",
+  "@id": "https://drchetanpatilortho.com/arthroscopy.html#clinic",
+  "name": "Prabhu Orthopaedic Centre",
+  "url": "https://drchetanpatilortho.com/arthroscopy.html",
+  "image": "https://drchetanpatilortho.com/assets/logo/logo.png",
+  "logo": "https://drchetanpatilortho.com/assets/logo/logo.png",
+  "description": "Meet Dr. Chetan Patil S, best arthroscopy surgeon in Rajajinagar, specializing in minimally invasive procedures for sports injuries & joint problems.",
+  "keywords": [
+    "Best Arthroscopy Surgeon in Rajajinagar",
+    "Best Arthroscopy Surgeon in Bangalore"
+  ],
+  "founder": {
+    "@type": "Person",
+    "name": "Dr. Chetan Patil S",
+    "medicalSpecialty": "Arthroscopy Surgery",
+    "jobTitle": "Arthroscopy Surgeon",
+    "url": "https://drchetanpatilortho.com/arthroscopy.html"
+  },
+  "telephone": "+91 9611109866",
+  "email": "prabhuorthopaediccentre@gmail.com",
+  "priceRange": "₹₹",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PRABHU ORTHOPAEDIC CENTRE, SLLR Mansion, 46/8, 12th Main Rd, 1st Block, Rajajinagar",
+    "addressLocality": "Bengaluru",
+    "addressRegion": "Karnataka",
+    "postalCode": "560010",
+    "addressCountry": "IN"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "12.998694",
+    "longitude": "77.553375"
+  },
+  "hasMap": "https://www.google.com/maps?q=12.998694,77.553375",
+  "sameAs": [
+    "https://drchetanpatilortho.com/"
+  ],
+  "datePublished": "2025-10-17",
+  "dateModified": "2025-10-17"
+}
+</script>
+
+
+
+
+
+
+https://drchetanpatilortho.com/sports-injury-treatments.html
+
+Meta TItle : Sports injury treatment in Rajajinagar
+
+
+Meta Description : Get advanced sports injury treatment in Rajajinagar from Dr. Chetan Patil S. Specialized care for fractures, ligament tears & quick recovery.
+
+
+H2 : Sports injury treatment in Rajajinagar
+
+
+Focus Keyword : Sports injury treatment in Rajajinagar
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "MedicalClinic",
+  "@id": "https://drchetanpatilortho.com/sports-injury-treatments.html#clinic",
+  "name": "Prabhu Orthopaedic Centre",
+  "url": "https://drchetanpatilortho.com/sports-injury-treatments.html",
+  "image": "https://drchetanpatilortho.com/assets/logo/logo.png",
+  "logo": "https://drchetanpatilortho.com/assets/logo/logo.png",
+  "description": "Get advanced sports injury treatment in Rajajinagar from Dr. Chetan Patil S. Specialized care for fractures, ligament tears & quick recovery.",
+  "keywords": [
+    "Sports injury treatment in Rajajinagar",
+    "Sports injury treatment in Bangalore"
+  ],
+  "founder": {
+    "@type": "Person",
+    "name": "Dr. Chetan Patil S",
+    "medicalSpecialty": "Sports Injury Treatment",
+    "jobTitle": "Orthopaedic and Sports Injury Specialist",
+    "url": "https://drchetanpatilortho.com/sports-injury-treatments.html"
+  },
+  "telephone": "+91 9611109866",
+  "email": "prabhuorthopaediccentre@gmail.com",
+  "priceRange": "₹₹",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PRABHU ORTHOPAEDIC CENTRE, SLLR Mansion, 46/8, 12th Main Rd, 1st Block, Rajajinagar",
+    "addressLocality": "Bengaluru",
+    "addressRegion": "Karnataka",
+    "postalCode": "560010",
+    "addressCountry": "IN"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "12.998694",
+    "longitude": "77.553375"
+  },
+  "hasMap": "https://www.google.com/maps?q=12.998694,77.553375",
+  "sameAs": [
+    "https://drchetanpatilortho.com/"
+  ],
+  "datePublished": "2025-10-17",
+  "dateModified": "2025-10-17"
+}
+</script>
+
+
+
+
+https://drchetanpatilortho.com/spine-treatments.html
+
+Meta TItle : Spine Treatments in Rajajinagar
+
+
+Meta Description : Consult Dr. Chetan Patil S for advanced spine treatments in Rajajinagar. Expert care for back pain, spinal injuries & minimally invasive procedures.
+
+
+H2 : Spine Treatments in Rajajinagar
+
+
+Focus Keyword : Spine Treatments in Rajajinagar
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "MedicalClinic",
+  "@id": "https://drchetanpatilortho.com/spine-treatments.html#clinic",
+  "name": "Prabhu Orthopaedic Centre",
+  "url": "https://drchetanpatilortho.com/spine-treatments.html",
+  "image": "https://drchetanpatilortho.com/assets/logo/logo.png",
+  "logo": "https://drchetanpatilortho.com/assets/logo/logo.png",
+  "description": "Consult Dr. Chetan Patil S for advanced spine treatments in Rajajinagar. Expert care for back pain, spinal injuries & minimally invasive procedures.",
+  "keywords": [
+    "Spine Treatments in Rajajinagar",
+    "Spine Treatments in Bangalore"
+  ],
+  "founder": {
+    "@type": "Person",
+    "name": "Dr. Chetan Patil S",
+    "medicalSpecialty": "Spine Treatments",
+    "jobTitle": "Orthopaedic Spine Specialist",
+    "url": "https://drchetanpatilortho.com/spine-treatments.html"
+  },
+  "telephone": "+91 9611109866",
+  "email": "prabhuorthopaediccentre@gmail.com",
+  "priceRange": "₹₹",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PRABHU ORTHOPAEDIC CENTRE, SLLR Mansion, 46/8, 12th Main Rd, 1st Block, Rajajinagar",
+    "addressLocality": "Bengaluru",
+    "addressRegion": "Karnataka",
+    "postalCode": "560010",
+    "addressCountry": "IN"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "12.998694",
+    "longitude": "77.553375"
+  },
+  "hasMap": "https://www.google.com/maps?q=12.998694,77.553375",
+  "sameAs": [
+    "https://drchetanpatilortho.com/"
+  ],
+  "datePublished": "2025-10-17",
+  "dateModified": "2025-10-17"
+}
+</script>
+
+
+
+
+
+
+https://drchetanpatilortho.com/total-knee-replacement.html
+
+Meta TItle : Total knee replacement in Rajajinagar
+
+
+Meta Description : Get advanced total knee replacement in Rajajinagar from Dr. Chetan Patil S. Specialized care for pain relief, mobility restoration & faster recovery.
+
+
+H2 : Total knee replacement in Rajajinagar
+
+
+Focus Keyword : Total knee replacement 
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "MedicalClinic",
+  "@id": "https://drchetanpatilortho.com/total-knee-replacement.html#clinic",
+  "name": "Prabhu Orthopaedic Centre",
+  "url": "https://drchetanpatilortho.com/total-knee-replacement.html",
+  "image": "https://drchetanpatilortho.com/assets/logo/logo.png",
+  "logo": "https://drchetanpatilortho.com/assets/logo/logo.png",
+  "description": "Get advanced total knee replacement in Rajajinagar from Dr. Chetan Patil S. Specialized care for pain relief, mobility restoration & faster recovery.",
+  "keywords": [
+    "Total knee replacement in Rajajinagar",
+    "Total knee replacement in Bangalore"
+  ],
+  "founder": {
+    "@type": "Person",
+    "name": "Dr. Chetan Patil S",
+    "medicalSpecialty": "Knee Replacement Surgery",
+    "jobTitle": "Orthopaedic & Joint Replacement Surgeon",
+    "url": "https://drchetanpatilortho.com/total-knee-replacement.html"
+  },
+  "telephone": "+91 9611109866",
+  "email": "prabhuorthopaediccentre@gmail.com",
+  "priceRange": "₹₹",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PRABHU ORTHOPAEDIC CENTRE, SLLR Mansion, 46/8, 12th Main Rd, 1st Block, Rajajinagar",
+    "addressLocality": "Bengaluru",
+    "addressRegion": "Karnataka",
+    "postalCode": "560010",
+    "addressCountry": "IN"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "12.998694",
+    "longitude": "77.553375"
+  },
+  "hasMap": "https://www.google.com/maps?q=12.998694,77.553375",
+  "sameAs": [
+    "https://drchetanpatilortho.com/"
+  ],
+  "datePublished": "2025-10-17",
+  "dateModified": "2025-10-17"
+}
+</script>
+
+
+
+
+
+https://drchetanpatilortho.com/total-hip-replacement.html
+
+Meta TItle : Total hip replacement in Rajajinagar
+
+
+Meta Description : Consult Dr. Chetan Patil S for total hip replacement in Rajajinagar. Advanced techniques for pain relief, improved mobility & long-lasting results.
+
+
+H2 : Total hip replacement in Rajajinagar
+
+
+Focus Keyword : Total hip replacement  in Rajajinagar
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "MedicalClinic",
+  "@id": "https://drchetanpatilortho.com/total-hip-replacement.html#clinic",
+  "name": "Prabhu Orthopaedic Centre",
+  "url": "https://drchetanpatilortho.com/total-hip-replacement.html",
+  "image": "https://drchetanpatilortho.com/assets/logo/logo.png",
+  "logo": "https://drchetanpatilortho.com/assets/logo/logo.png",
+  "description": "Consult Dr. Chetan Patil S for total hip replacement in Rajajinagar. Advanced techniques for pain relief, improved mobility & long-lasting results.",
+  "keywords": [
+    "Total hip replacement in Rajajinagar",
+    "Total hip replacement in Bangalore"
+  ],
+  "founder": {
+    "@type": "Person",
+    "name": "Dr. Chetan Patil S",
+    "medicalSpecialty": "Hip Replacement Surgery",
+    "jobTitle": "Orthopaedic & Joint Replacement Surgeon",
+    "url": "https://drchetanpatilortho.com/total-hip-replacement.html"
+  },
+  "telephone": "+91 9611109866",
+  "email": "prabhuorthopaediccentre@gmail.com",
+  "priceRange": "₹₹",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PRABHU ORTHOPAEDIC CENTRE, SLLR Mansion, 46/8, 12th Main Rd, 1st Block, Rajajinagar",
+    "addressLocality": "Bengaluru",
+    "addressRegion": "Karnataka",
+    "postalCode": "560010",
+    "addressCountry": "IN"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "12.998694",
+    "longitude": "77.553375"
+  },
+  "hasMap": "https://www.google.com/maps?q=12.998694,77.553375",
+  "sameAs": [
+    "https://drchetanpatilortho.com/"
+  ],
+  "datePublished": "2025-10-17",
+  "dateModified": "2025-10-17"
+}
+</script>
+
+
+
+
+
+
+https://drchetanpatilortho.com/robotic-knee-replacement.html
+
+Meta TItle : Robotic knee replacement surgery in Rajajinagar
+
+
+
+
+Meta Description : Experience precision robotic knee replacement surgery in Rajajinagar with Dr. Chetan Patil S for faster recovery, accuracy & long-term joint health.
+
+
+H2 : Robotic knee replacement surgery in Rajajinagar
+
+
+Focus Keyword : Robotic knee replacement surgery   
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "MedicalClinic",
+  "@id": "https://drchetanpatilortho.com/robotic-knee-replacement.html#clinic",
+  "name": "Prabhu Orthopaedic Centre",
+  "url": "https://drchetanpatilortho.com/robotic-knee-replacement.html",
+  "image": "https://drchetanpatilortho.com/assets/logo/logo.png",
+  "logo": "https://drchetanpatilortho.com/assets/logo/logo.png",
+  "description": "Experience precision robotic knee replacement surgery in Rajajinagar with Dr. Chetan Patil S for faster recovery, accuracy & long-term joint health.",
+  "keywords": [
+    "Robotic knee replacement surgery in Rajajinagar",
+    "Robotic knee replacement surgery in Bangalore"
+  ],
+  "founder": {
+    "@type": "Person",
+    "name": "Dr. Chetan Patil S",
+    "medicalSpecialty": "Robotic Knee Replacement Surgery",
+    "jobTitle": "Orthopaedic & Robotic Joint Replacement Surgeon",
+    "url": "https://drchetanpatilortho.com/robotic-knee-replacement.html"
+  },
+  "telephone": "+91 9611109866",
+  "email": "prabhuorthopaediccentre@gmail.com",
+  "priceRange": "₹₹",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PRABHU ORTHOPAEDIC CENTRE, SLLR Mansion, 46/8, 12th Main Rd, 1st Block, Rajajinagar",
+    "addressLocality": "Bengaluru",
+    "addressRegion": "Karnataka",
+    "postalCode": "560010",
+    "addressCountry": "IN"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "12.998694",
+    "longitude": "77.553375"
+  },
+  "hasMap": "https://www.google.com/maps?q=12.998694,77.553375",
+  "sameAs": [
+    "https://drchetanpatilortho.com/"
+  ],
+  "datePublished": "2025-10-17",
+  "dateModified": "2025-10-17"
+}
+</script>
+
+
+
+
+
+
+https://drchetanpatilortho.com/hip-surgery.html
+
+Meta TItle : Hip surgery specialist in Rajajinagar |
+ Hip surgery  in Rajajinagar
+
+
+Meta Description : Consult Dr. Chetan Patil S, expert hip surgery specialist in Rajajinagar for advanced treatments, pain relief & improved mobility with personalized care.
+
+
+H2 : Hip surgery specialist in Rajajinagar 
+
+
+Focus Keyword : Hip surgery specialist in Rajajinagar 
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "MedicalClinic",
+  "@id": "https://drchetanpatilortho.com/hip-surgery.html#clinic",
+  "name": "Prabhu Orthopaedic Centre",
+  "url": "https://drchetanpatilortho.com/hip-surgery.html",
+  "image": "https://drchetanpatilortho.com/assets/logo/logo.png",
+  "logo": "https://drchetanpatilortho.com/assets/logo/logo.png",
+  "description": "Consult Dr. Chetan Patil S, expert hip surgery specialist in Rajajinagar for advanced treatments, pain relief & improved mobility with personalized care.",
+  "keywords": [
+    "Hip surgery specialist in Rajajinagar",
+    "Hip surgery specialist in Bangalore"
+  ],
+  "founder": {
+    "@type": "Person",
+    "name": "Dr. Chetan Patil S",
+    "medicalSpecialty": "Hip Surgery",
+    "jobTitle": "Orthopaedic & Hip Surgery Specialist",
+    "url": "https://drchetanpatilortho.com/hip-surgery.html"
+  },
+  "telephone": "+91 9611109866",
+  "email": "prabhuorthopaediccentre@gmail.com",
+  "priceRange": "₹₹",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PRABHU ORTHOPAEDIC CENTRE, SLLR Mansion, 46/8, 12th Main Rd, 1st Block, Rajajinagar",
+    "addressLocality": "Bengaluru",
+    "addressRegion": "Karnataka",
+    "postalCode": "560010",
+    "addressCountry": "IN"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "12.998694",
+    "longitude": "77.553375"
+  },
+  "hasMap": "https://www.google.com/maps?q=12.998694,77.553375",
+  "sameAs": [
+    "https://drchetanpatilortho.com/"
+  ],
+  "datePublished": "2025-10-17",
+  "dateModified": "2025-10-17"
+}
+</script>
+
+
+
+
+
+https://drchetanpatilortho.com/knee-surgery.html
+
+Meta TItle : Knee replacement surgery in Rajajinagar 
+
+
+Meta Description : Consult   for advanced knee replacement surgery in Rajajinagar. Expert care for pain relief, mobility restoration & faster recovery.
+
+
+H2 : Knee replacement surgery in Rajajinagar 
+
+
+Focus Keyword : Knee replacement surgery in Rajajinagar 
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "MedicalClinic",
+  "@id": "https://drchetanpatilortho.com/knee-surgery.html#clinic",
+  "name": "Prabhu Orthopaedic Centre",
+  "url": "https://drchetanpatilortho.com/knee-surgery.html",
+  "image": "https://drchetanpatilortho.com/assets/logo/logo.png",
+  "logo": "https://drchetanpatilortho.com/assets/logo/logo.png",
+  "description": "Consult Dr. Chetan Patil S for advanced knee replacement surgery in Rajajinagar. Expert care for pain relief, mobility restoration & faster recovery.",
+  "keywords": [
+    "Knee replacement surgery in Rajajinagar",
+    "Knee replacement surgery in Bangalore"
+  ],
+  "founder": {
+    "@type": "Person",
+    "name": "Dr. Chetan Patil S",
+    "medicalSpecialty": "Knee Replacement Surgery",
+    "jobTitle": "Orthopaedic & Knee Replacement Surgeon",
+    "url": "https://drchetanpatilortho.com/knee-surgery.html"
+  },
+  "telephone": "+91 9611109866",
+  "email": "prabhuorthopaediccentre@gmail.com",
+  "priceRange": "₹₹",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PRABHU ORTHOPAEDIC CENTRE, SLLR Mansion, 46/8, 12th Main Rd, 1st Block, Rajajinagar",
+    "addressLocality": "Bengaluru",
+    "addressRegion": "Karnataka",
+    "postalCode": "560010",
+    "addressCountry": "IN"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "12.998694",
+    "longitude": "77.553375"
+  },
+  "hasMap": "https://www.google.com/maps?q=12.998694,77.553375",
+  "sameAs": [
+    "https://drchetanpatilortho.com/"
+  ],
+  "datePublished": "2025-10-17",
+  "dateModified": "2025-10-17"
+}
+</script>
+
+
+
+
+
+
+https://drchetanpatilortho.com/shoulder-surgery.html
+
+Meta TItle : Shoulder surgery in Rajajinagar | Shoulder Surgeon in Rajajinagar
+
+
+Meta Description : Get expert shoulder surgery in Rajajinagar from Dr. Chetan Patil S. Specialized care for injuries, arthritis & complex shoulder conditions
+
+
+H2 : Shoulder surgery in Rajajinagar
+
+
+Focus Keyword : Shoulder surgery in Rajajinagar
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "MedicalClinic",
+  "@id": "https://drchetanpatilortho.com/shoulder-surgery.html#clinic",
+  "name": "Prabhu Orthopaedic Centre",
+  "url": "https://drchetanpatilortho.com/shoulder-surgery.html",
+  "image": "https://drchetanpatilortho.com/assets/logo/logo.png",
+  "logo": "https://drchetanpatilortho.com/assets/logo/logo.png",
+  "description": "Get expert shoulder surgery in Rajajinagar from Dr. Chetan Patil S. Specialized care for injuries, arthritis & complex shoulder conditions.",
+  "keywords": [
+    "Shoulder surgery in Rajajinagar",
+    "Shoulder surgery in Bangalore",
+    "Shoulder Surgeon in Rajajinagar",
+    "Shoulder Surgeon in Bangalore"
+  ],
+  "founder": {
+    "@type": "Person",
+    "name": "Dr. Chetan Patil S",
+    "medicalSpecialty": "Shoulder Surgery",
+    "jobTitle": "Orthopaedic & Shoulder Surgeon",
+    "url": "https://drchetanpatilortho.com/shoulder-surgery.html"
+  },
+  "telephone": "+91 9611109866",
+  "email": "prabhuorthopaediccentre@gmail.com",
+  "priceRange": "₹₹",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PRABHU ORTHOPAEDIC CENTRE, SLLR Mansion, 46/8, 12th Main Rd, 1st Block, Rajajinagar",
+    "addressLocality": "Bengaluru",
+    "addressRegion": "Karnataka",
+    "postalCode": "560010",
+    "addressCountry": "IN"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "12.998694",
+    "longitude": "77.553375"
+  },
+  "hasMap": "https://www.google.com/maps?q=12.998694,77.553375",
+  "sameAs": [
+    "https://drchetanpatilortho.com/"
+  ],
+  "datePublished": "2025-10-17",
+  "dateModified": "2025-10-17"
+}
+</script>
+
+
+
+
+https://drchetanpatilortho.com/ankle-surgery.html
+
+Meta TItle : Ankle surgery in Rajajinagar | Dr. Chetan Patil S
+
+
+Meta Description : Consult Dr. Chetan Patil S for advanced ankle surgery in Rajajinagar. Expert treatment for fractures, ligament injuries & ankle joint problems.
+
+
+H2 : Ankle surgery in Rajajinagar 
+
+
+Focus Keyword : Ankle surgery in Rajajinagar 
+
+Schema : 
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "MedicalClinic",
+  "@id": "https://drchetanpatilortho.com/ankle-surgery.html#clinic",
+  "name": "Prabhu Orthopaedic Centre",
+  "url": "https://drchetanpatilortho.com/ankle-surgery.html",
+  "image": "https://drchetanpatilortho.com/assets/logo/logo.png",
+  "logo": "https://drchetanpatilortho.com/assets/logo/logo.png",
+  "description": "Consult Dr. Chetan Patil S for advanced ankle surgery in Rajajinagar. Expert treatment for fractures, ligament injuries & ankle joint problems.",
+  "keywords": [
+    "Ankle surgery in Rajajinagar"
+  ],
+  "founder": {
+    "@type": "Person",
+    "name": "Dr. Chetan Patil S",
+    "medicalSpecialty": "Ankle Surgery",
+    "jobTitle": "Orthopaedic & Ankle Surgeon",
+    "url": "https://drchetanpatilortho.com/ankle-surgery.html"
+  },
+  "telephone": "+91 9611109866",
+  "email": "prabhuorthopaediccentre@gmail.com",
+  "priceRange": "₹₹",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PRABHU ORTHOPAEDIC CENTRE, SLLR Mansion, 46/8, 12th Main Rd, 1st Block, Rajajinagar",
+    "addressLocality": "Bengaluru",
+    "addressRegion": "Karnataka",
+    "postalCode": "560010",
+    "addressCountry": "IN"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "12.998694",
+    "longitude": "77.553375"
+  },
+  "hasMap": "https://www.google.com/maps?q=12.998694,77.553375",
+  "sameAs": [
+    "https://drchetanpatilortho.com/"
+  ],
+  "datePublished": "2025-10-17",
+  "dateModified": "2025-10-17"
+}
+</script>
+
+
+
+
+
+
+https://drchetanpatilortho.com/elbow-surgery.html
+
+Meta TItle : Elbow surgery in Rajajinagar | Orthopedic Surgeon in Rajajinagar
+
+
+Meta Description : Consult Dr. Chetan Patil S for advanced elbow surgery in Rajajinagar. Expert care for injuries, fractures & joint conditions with personalized treatment.
+
+
+H2 : Elbow surgery in Rajajinagar 
+
+
+Focus Keyword : Elbow surgery in Rajajinagar 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "MedicalClinic",
+  "@id": "https://drchetanpatilortho.com/elbow-surgery.html#clinic",
+  "name": "Prabhu Orthopaedic Centre",
+  "url": "https://drchetanpatilortho.com/elbow-surgery.html",
+  "image": "https://drchetanpatilortho.com/assets/logo/logo.png",
+  "logo": "https://drchetanpatilortho.com/assets/logo/logo.png",
+  "description": "Consult Dr. Chetan Patil S for advanced elbow surgery in Rajajinagar. Expert care for injuries, fractures & joint conditions with personalized treatment.",
+  "keywords": [
+    "Elbow surgery in Rajajinagar",
+    "Elbow surgery in Bangalore"
+  ],
+  "founder": {
+    "@type": "Person",
+    "name": "Dr. Chetan Patil S",
+    "medicalSpecialty": "Elbow Surgery",
+    "jobTitle": "Orthopaedic & Elbow Surgeon",
+    "url": "https://drchetanpatilortho.com/elbow-surgery.html"
+  },
+  "telephone": "+91 9611109866",
+  "email": "prabhuorthopaediccentre@gmail.com",
+  "priceRange": "₹₹",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PRABHU ORTHOPAEDIC CENTRE, SLLR Mansion, 46/8, 12th Main Rd, 1st Block, Rajajinagar",
+    "addressLocality": "Bengaluru",
+    "addressRegion": "Karnataka",
+    "postalCode": "560010",
+    "addressCountry": "IN"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "12.998694",
+    "longitude": "77.553375"
+  },
+  "hasMap": "https://www.google.com/maps?q=12.998694,77.553375",
+  "sameAs": [
+    "https://drchetanpatilortho.com/"
+  ],
+  "datePublished": "2025-10-17",
+  "dateModified": "2025-10-17"
+}
+</script>
+
+
+
+
+https://drchetanpatilortho.com/wrist-surgery.html
+
+Meta TItle : Wrist surgery in Rajajinagar | Orthopedic Surgeon in Rajajinagar
+
+
+
+
+Meta Description : Consult Dr. Chetan Patil S for advanced wrist surgery in Rajajinagar. Expert care for fractures, ligament injuries & wrist joint conditions.
+
+
+H2 : Wrist surgery in Rajajinagar 
+
+
+Focus Keyword : Wrist surgery in Rajajinagar 
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "MedicalClinic",
+  "@id": "https://drchetanpatilortho.com/wrist-surgery.html#clinic",
+  "name": "Prabhu Orthopaedic Centre",
+  "url": "https://drchetanpatilortho.com/wrist-surgery.html",
+  "image": "https://drchetanpatilortho.com/assets/logo/logo.png",
+  "logo": "https://drchetanpatilortho.com/assets/logo/logo.png",
+  "description": "Consult Dr. Chetan Patil S for advanced wrist surgery in Rajajinagar. Expert care for fractures, ligament injuries & wrist joint conditions.",
+  "keywords": [
+    "Wrist surgery in Rajajinagar",
+    "Orthopedic Surgeon in Bangalore"
+  ],
+  "founder": {
+    "@type": "Person",
+    "name": "Dr. Chetan Patil S",
+    "medicalSpecialty": "Wrist Surgery",
+    "jobTitle": "Orthopaedic & Wrist Surgeon",
+    "url": "https://drchetanpatilortho.com/wrist-surgery.html"
+  },
+  "telephone": "+91 9611109866",
+  "email": "prabhuorthopaediccentre@gmail.com",
+  "priceRange": "₹₹",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PRABHU ORTHOPAEDIC CENTRE, SLLR Mansion, 46/8, 12th Main Rd, 1st Block, Rajajinagar",
+    "addressLocality": "Bengaluru",
+    "addressRegion": "Karnataka",
+    "postalCode": "560010",
+    "addressCountry": "IN"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "12.998694",
+    "longitude": "77.553375"
+  },
+  "hasMap": "https://www.google.com/maps?q=12.998694,77.553375",
+  "sameAs": [
+    "https://drchetanpatilortho.com/"
+  ],
+  "datePublished": "2025-10-17",
+  "dateModified": "2025-10-17"
+}
+</script>
+
+
+
+
+
+https://drchetanpatilortho.com/foot-surgery.html
+
+Meta TItle : Foot surgery in Rajajinagar | Foot Surgeon in Rajajinagar
+
+Meta Description : Consult Dr. Chetan Patil S for advanced foot surgery in Rajajinagar. Expert treatment for fractures, deformities & foot pain with personalized care.
+
+
+H2 :  Foot surgery in Rajajinagar
+
+
+Focus Keyword :  Foot surgery in Rajajinagar
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "MedicalClinic",
+  "@id": "https://drchetanpatilortho.com/foot-surgery.html#clinic",
+  "name": "Prabhu Orthopaedic Centre",
+  "url": "https://drchetanpatilortho.com/foot-surgery.html",
+  "image": "https://drchetanpatilortho.com/assets/logo/logo.png",
+  "logo": "https://drchetanpatilortho.com/assets/logo/logo.png",
+  "description": "Consult Dr. Chetan Patil S for advanced foot surgery in Rajajinagar. Expert treatment for fractures, deformities & foot pain with personalized care.",
+  "keywords": [
+    "Foot surgery in Rajajinagar",
+    "Foot Surgeon in Bangalore"
+  ],
+  "founder": {
+    "@type": "Person",
+    "name": "Dr. Chetan Patil S",
+    "medicalSpecialty": "Foot Surgery",
+    "jobTitle": "Orthopaedic & Foot Surgeon",
+    "url": "https://drchetanpatilortho.com/foot-surgery.html"
+  },
+  "telephone": "+91 9611109866",
+  "email": "prabhuorthopaediccentre@gmail.com",
+  "priceRange": "₹₹",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PRABHU ORTHOPAEDIC CENTRE, SLLR Mansion, 46/8, 12th Main Rd, 1st Block, Rajajinagar",
+    "addressLocality": "Bengaluru",
+    "addressRegion": "Karnataka",
+    "postalCode": "560010",
+    "addressCountry": "IN"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "12.998694",
+    "longitude": "77.553375"
+  },
+  "hasMap": "https://www.google.com/maps?q=12.998694,77.553375",
+  "sameAs": [
+    "https://drchetanpatilortho.com/"
+  ],
+  "datePublished": "2025-10-17",
+  "dateModified": "2025-10-17"
+}
+</script>
+
+
+
+
+
+
+https://drchetanpatilortho.com/foot-ankle-arthroscopy.html
+
+Meta TItle : Foot and ankle arthroscopy in Rajajinagar | Dr. Chetan Patil S
+
+
+
+
+Meta Description : Get advanced foot and ankle arthroscopy in Rajajinagar from Dr. Chetan Patil S. Expert minimally invasive care for injuries & joint conditions.
+
+
+H2 : Foot and ankle arthroscopy in Rajajinagar
+
+
+Focus Keyword : Foot and ankle arthroscopy in Rajajinagar
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "MedicalClinic",
+  "@id": "https://drchetanpatilortho.com/foot-ankle-arthroscopy.html#clinic",
+  "name": "Prabhu Orthopaedic Centre",
+  "url": "https://drchetanpatilortho.com/foot-ankle-arthroscopy.html",
+  "image": "https://drchetanpatilortho.com/assets/logo/logo.png",
+  "logo": "https://drchetanpatilortho.com/assets/logo/logo.png",
+  "description": "Get advanced foot and ankle arthroscopy in Rajajinagar from Dr. Chetan Patil S. Expert minimally invasive care for injuries & joint conditions.",
+  "keywords": [
+    "Foot and ankle arthroscopy in Rajajinagar",
+    "Foot and ankle arthroscopy in Bangalore"
+  ],
+  "founder": {
+    "@type": "Person",
+    "name": "Dr. Chetan Patil S",
+    "medicalSpecialty": "Foot and Ankle Arthroscopy",
+    "jobTitle": "Orthopaedic & Arthroscopy Surgeon",
+    "url": "https://drchetanpatilortho.com/foot-ankle-arthroscopy.html"
+  },
+  "telephone": "+91 9611109866",
+  "email": "prabhuorthopaediccentre@gmail.com",
+  "priceRange": "₹₹",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PRABHU ORTHOPAEDIC CENTRE, SLLR Mansion, 46/8, 12th Main Rd, 1st Block, Rajajinagar",
+    "addressLocality": "Bengaluru",
+    "addressRegion": "Karnataka",
+    "postalCode": "560010",
+    "addressCountry": "IN"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "12.998694",
+    "longitude": "77.553375"
+  },
+  "hasMap": "https://www.google.com/maps?q=12.998694,77.553375",
+  "sameAs": [
+    "https://drchetanpatilortho.com/"
+  ],
+  "datePublished": "2025-10-17",
+  "dateModified": "2025-10-17"
+}
+</script>
+
+
+
+
+
+
+https://drchetanpatilortho.com/knee-arthroscopy.html
+
+Meta TItle : Knee arthroscopy in Rajajinagar | Dr. Chetan Patil S
+
+Meta Description : Consult Dr. Chetan Patil S for advanced knee arthroscopy in Rajajinagar. Expert minimally invasive care for ligament, meniscus & joint injuries.
+
+
+H2 : Knee arthroscopy  in Rajajinagar
+
+
+Focus Keyword : Knee arthroscopy  in Rajajinagar
+
+Schema : <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "MedicalClinic",
+  "@id": "https://drchetanpatilortho.com/knee-arthroscopy.html#clinic",
+  "name": "Prabhu Orthopaedic Centre",
+  "url": "https://drchetanpatilortho.com/knee-arthroscopy.html",
+  "image": "https://drchetanpatilortho.com/assets/logo/logo.png",
+  "logo": "https://drchetanpatilortho.com/assets/logo/logo.png",
+  "description": "Consult Dr. Chetan Patil S for advanced knee arthroscopy in Rajajinagar. Expert minimally invasive care for ligament, meniscus & joint injuries.",
+  "keywords": [
+    "Knee arthroscopy in Rajajinagar",
+    "Knee arthroscopy in Bangalore"
+  ],
+  "founder": {
+    "@type": "Person",
+    "name": "Dr. Chetan Patil S",
+    "medicalSpecialty": "Knee Arthroscopy",
+    "jobTitle": "Orthopaedic & Arthroscopy Surgeon",
+    "url": "https://drchetanpatilortho.com/knee-arthroscopy.html"
+  },
+  "telephone": "+91 9611109866",
+  "email": "prabhuorthopaediccentre@gmail.com",
+  "priceRange": "₹₹",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PRABHU ORTHOPAEDIC CENTRE, SLLR Mansion, 46/8, 12th Main Rd, 1st Block, Rajajinagar",
+    "addressLocality": "Bengaluru",
+    "addressRegion": "Karnataka",
+    "postalCode": "560010",
+    "addressCountry": "IN"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "12.998694",
+    "longitude": "77.553375"
+  },
+  "hasMap": "https://www.google.com/maps?q=12.998694,77.553375",
+  "sameAs": [
+    "https://drchetanpatilortho.com/"
+  ],
+  "datePublished": "2025-10-17",
+  "dateModified": "2025-10-17"
+}
+</script>
+
+
+
+
+
+
+https://drchetanpatilortho.com/shoulder-arthroscopy.html
+
+Meta TItle : Shoulder arthroscopy in Rajajinagar | Dr. Chetan Patil S
+
+
+Meta Description : Get advanced shoulder arthroscopy in Rajajinagar from Dr. Chetan Patil S. Expert minimally invasive treatment for rotator cuff & shoulder injuries.
+
+
+H2 : Shoulder arthroscopy in Rajajinagar
+
+
+Focus Keyword :  Shoulder arthroscopy in Rajajinagar
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "MedicalClinic",
+  "@id": "https://drchetanpatilortho.com/shoulder-arthroscopy.html#clinic",
+  "name": "Prabhu Orthopaedic Centre",
+  "url": "https://drchetanpatilortho.com/shoulder-arthroscopy.html",
+  "image": "https://drchetanpatilortho.com/assets/logo/logo.png",
+  "logo": "https://drchetanpatilortho.com/assets/logo/logo.png",
+  "description": "Get advanced shoulder arthroscopy in Rajajinagar from Dr. Chetan Patil S. Expert minimally invasive treatment for rotator cuff & shoulder injuries.",
+  "keywords": [
+    "Shoulder arthroscopy in Rajajinagar",
+    "Shoulder arthroscopy in Bangalore"
+  ],
+  "founder": {
+    "@type": "Person",
+    "name": "Dr. Chetan Patil S",
+    "medicalSpecialty": "Shoulder Arthroscopy",
+    "jobTitle": "Orthopaedic & Arthroscopy Surgeon",
+    "url": "https://drchetanpatilortho.com/shoulder-arthroscopy.html"
+  },
+  "telephone": "+91 9611109866",
+  "email": "prabhuorthopaediccentre@gmail.com",
+  "priceRange": "₹₹",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PRABHU ORTHOPAEDIC CENTRE, SLLR Mansion, 46/8, 12th Main Rd, 1st Block, Rajajinagar",
+    "addressLocality": "Bengaluru",
+    "addressRegion": "Karnataka",
+    "postalCode": "560010",
+    "addressCountry": "IN"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "12.998694",
+    "longitude": "77.553375"
+  },
+  "hasMap": "https://www.google.com/maps?q=12.998694,77.553375",
+  "sameAs": [
+    "https://drchetanpatilortho.com/"
+  ],
+  "datePublished": "2025-10-17",
+  "dateModified": "2025-10-17"
+}
+</script>
+
+
+
+
+https://drchetanpatilortho.com/our-facilities.html
+
+Meta TItle : Orthopedic consultation near me in Rajajinagar |  Dr. Chetan Patil S
+
+Meta Description : Book an orthopedic consultation near you in Rajajinagar with Dr. Chetan Patil S. Expert diagnosis & personalized treatment for bone & joint problems.
+
+
+H2 : Orthopedic consultation near me  in Rajajinagar
+
+
+Focus Keyword : Orthopedic consultation near me  in Rajajinagar
+
+Schema : 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "MedicalClinic",
+  "@id": "https://drchetanpatilortho.com/our-facilities.html#clinic",
+  "name": "Prabhu Orthopaedic Centre",
+  "url": "https://drchetanpatilortho.com/our-facilities.html",
+  "image": "https://drchetanpatilortho.com/assets/logo/logo.png",
+  "logo": "https://drchetanpatilortho.com/assets/logo/logo.png",
+  "description": "Book an orthopedic consultation near you in Rajajinagar with Dr. Chetan Patil S. Expert diagnosis & personalized treatment for bone & joint problems.",
+  "keywords": [
+    "Orthopedic consultation near me in Rajajinagar",
+    "Orthopedic consultation near me in Bangalore"
+  ],
+  "founder": {
+    "@type": "Person",
+    "name": "Dr. Chetan Patil S",
+    "medicalSpecialty": "Orthopedic Consultation",
+    "jobTitle": "Orthopaedic Surgeon",
+    "url": "https://drchetanpatilortho.com/our-facilities.html"
+  },
+  "telephone": "+91 9611109866",
+  "email": "prabhuorthopaediccentre@gmail.com",
+  "priceRange": "₹₹",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PRABHU ORTHOPAEDIC CENTRE, SLLR Mansion, 46/8, 12th Main Rd, 1st Block, Rajajinagar",
+    "addressLocality": "Bengaluru",
+    "addressRegion": "Karnataka",
+    "postalCode": "560010",
+    "addressCountry": "IN"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "12.998694",
+    "longitude": "77.553375"
+  },
+  "hasMap": "https://www.google.com/maps?q=12.998694,77.553375",
+  "sameAs": [
+    "https://drchetanpatilortho.com/"
+  ],
+  "datePublished": "2025-10-17",
+  "dateModified": "2025-10-17"
+}
+</script>
+
+
+
+
+https://drchetanpatilortho.com/expert-orthopaedic-consultation.html
+
+Meta TItle : Expert Orthopaedic Consultation in Rajajinagar | Dr. Chetan Patil S
+
+Meta Description : Consult Dr. Chetan Patil S for expert orthopaedic consultation in Rajajinagar. Comprehensive diagnosis & personalized treatment for bone and joint issues.
+
+
+H2 : Expert Orthopaedic Consultation  in Rajajinaga
+
+
+Focus Keyword : Expert Orthopaedic Consultation  in Rajajinaga
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "MedicalClinic",
+  "@id": "https://drchetanpatilortho.com/expert-orthopaedic-consultation.html#clinic",
+  "name": "Prabhu Orthopaedic Centre",
+  "url": "https://drchetanpatilortho.com/expert-orthopaedic-consultation.html",
+  "image": "https://drchetanpatilortho.com/assets/logo/logo.png",
+  "logo": "https://drchetanpatilortho.com/assets/logo/logo.png",
+  "description": "Consult Dr. Chetan Patil S for expert orthopaedic consultation in Rajajinagar. Comprehensive diagnosis & personalized treatment for bone and joint issues.",
+  "keywords": [
+    "Expert Orthopaedic Consultation in Rajajinagar",
+    "Expert Orthopaedic Consultation in Bangalore"
+  ],
+  "founder": {
+    "@type": "Person",
+    "name": "Dr. Chetan Patil S",
+    "medicalSpecialty": "Orthopaedic Surgery",
+    "jobTitle": "Orthopaedic Surgeon",
+    "url": "https://drchetanpatilortho.com/expert-orthopaedic-consultation.html"
+  },
+  "telephone": "+91 9611109866",
+  "email": "prabhuorthopaediccentre@gmail.com",
+  "priceRange": "₹₹",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PRABHU ORTHOPAEDIC CENTRE, SLLR Mansion, 46/8, 12th Main Rd, 1st Block, Rajajinagar",
+    "addressLocality": "Bengaluru",
+    "addressRegion": "Karnataka",
+    "postalCode": "560010",
+    "addressCountry": "IN"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "12.998694",
+    "longitude": "77.553375"
+  },
+  "hasMap": "https://www.google.com/maps?q=12.998694,77.553375",
+  "sameAs": [
+    "https://drchetanpatilortho.com/"
+  ],
+  "datePublished": "2025-10-17",
+  "dateModified": "2025-10-17"
+}
+</script>
+
+
+
+
+https://drchetanpatilortho.com/x-ray-facility.html
+
+Meta TItle : Diagnostics Centre Rajaji Nagar | Dr. Chetan Patil S
+
+Meta Description : Visit the trusted diagnostics centre in Rajaji Nagar with Dr. Chetan Patil S for accurate tests, advanced imaging & precise orthopaedic evaluations.
+
+
+H2 : Diagnostics Centre Rajaji Nagar
+
+
+Focus Keyword : Diagnostics Centre Rajaji Nagar
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "MedicalClinic",
+  "@id": "https://drchetanpatilortho.com/x-ray-facility.html#clinic",
+  "name": "Prabhu Orthopaedic Centre",
+  "url": "https://drchetanpatilortho.com/x-ray-facility.html",
+  "image": "https://drchetanpatilortho.com/assets/logo/logo.png",
+  "logo": "https://drchetanpatilortho.com/assets/logo/logo.png",
+  "description": "Visit the trusted diagnostics centre in Rajaji Nagar with Dr. Chetan Patil S for accurate tests, advanced imaging & precise orthopaedic evaluations.",
+  "keywords": [
+    "Diagnostics Centre in Rajaji Nagar",
+    "Diagnostics Centre in Bangalore"
+  ],
+  "founder": {
+    "@type": "Person",
+    "name": "Dr. Chetan Patil S",
+    "medicalSpecialty": "Orthopaedic Diagnostics and Imaging",
+    "jobTitle": "Orthopaedic Surgeon",
+    "url": "https://drchetanpatilortho.com/x-ray-facility.html"
+  },
+  "telephone": "+91 9611109866",
+  "email": "prabhuorthopaediccentre@gmail.com",
+  "priceRange": "₹₹",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PRABHU ORTHOPAEDIC CENTRE, SLLR Mansion, 46/8, 12th Main Rd, 1st Block, Rajajinagar",
+    "addressLocality": "Bengaluru",
+    "addressRegion": "Karnataka",
+    "postalCode": "560010",
+    "addressCountry": "IN"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "12.998694",
+    "longitude": "77.553375"
+  },
+  "hasMap": "https://www.google.com/maps?q=12.998694,77.553375",
+  "sameAs": [
+    "https://drchetanpatilortho.com/"
+  ],
+  "datePublished": "2025-10-17",
+  "dateModified": "2025-10-17"
+}
+</script>
+
+
+
+
+
+https://drchetanpatilortho.com/physiotherapy.html
+
+Meta TItle : Best Physiotherapists in Rajajinagar |  Dr. Chetan Patil S
+
+
+Meta Description : Consult the best physiotherapists in Rajajinagar with Dr. Chetan Patil S for expert rehabilitation, pain relief & faster recovery after injuries or surgery.
+
+
+H2 :  Best Physiotherapists in Rajajinagar 
+
+
+Focus Keyword : Best Physiotherapists in Rajajinagar 
+
+Schema : 
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "MedicalClinic",
+  "@id": "https://drchetanpatilortho.com/physiotherapy.html#clinic",
+  "name": "Prabhu Orthopaedic Centre",
+  "url": "https://drchetanpatilortho.com/physiotherapy.html",
+  "image": "https://drchetanpatilortho.com/assets/logo/logo.png",
+  "logo": "https://drchetanpatilortho.com/assets/logo/logo.png",
+  "description": "Consult the best physiotherapists in Rajajinagar with Dr. Chetan Patil S for expert rehabilitation, pain relief & faster recovery after injuries or surgery.",
+  "keywords": [
+    "Best Physiotherapists in Rajajinagar",
+    "Best Physiotherapists in Bangalore"
+  ],
+  "founder": {
+    "@type": "Person",
+    "name": "Dr. Chetan Patil S",
+    "medicalSpecialty": "Physiotherapy and Rehabilitation",
+    "jobTitle": "Orthopaedic & Rehabilitation Specialist",
+    "url": "https://drchetanpatilortho.com/physiotherapy.html"
+  },
+  "telephone": "+91 9611109866",
+  "email": "prabhuorthopaediccentre@gmail.com",
+  "priceRange": "₹₹",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PRABHU ORTHOPAEDIC CENTRE, SLLR Mansion, 46/8, 12th Main Rd, 1st Block, Rajajinagar",
+    "addressLocality": "Bengaluru",
+    "addressRegion": "Karnataka",
+    "postalCode": "560010",
+    "addressCountry": "IN"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "12.998694",
+    "longitude": "77.553375"
+  },
+  "hasMap": "https://www.google.com/maps?q=12.998694,77.553375",
+  "sameAs": [
+    "https://drchetanpatilortho.com/"
+  ],
+  "datePublished": "2025-10-17",
+  "dateModified": "2025-10-17"
+}
+</script>
+
+
+
+
+https://drchetanpatilortho.com/bmc-injection-osteonecrosis-avn.html
+
+Meta TItle : Bone marrow concentrate injection in Rajajinagar |  Dr. Chetan Patil S
+
+
+
+
+Meta Description : Get advanced bone marrow concentrate injection in Rajajinagar from Dr. Chetan Patil S for effective joint healing, pain relief & regenerative treatment.
+
+
+H2 : Bone marrow concentrate injection in Rajajinagar
+
+
+Focus Keyword : Bone marrow concentrate injection 
+
+Schema : 
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "MedicalClinic",
+  "@id": "https://drchetanpatilortho.com/bmc-injection-osteonecrosis-avn.html#clinic",
+  "name": "Prabhu Orthopaedic Centre",
+  "url": "https://drchetanpatilortho.com/bmc-injection-osteonecrosis-avn.html",
+  "image": "https://drchetanpatilortho.com/assets/logo/logo.png",
+  "logo": "https://drchetanpatilortho.com/assets/logo/logo.png",
+  "description": "Get advanced bone marrow concentrate injection in Rajajinagar from Dr. Chetan Patil S for effective joint healing, pain relief & regenerative treatment.",
+  "keywords": [
+    "Bone marrow concentrate injection in Rajajinagar"
+  ],
+  "founder": {
+    "@type": "Person",
+    "name": "Dr. Chetan Patil S",
+    "medicalSpecialty": "Regenerative Orthopaedic Treatments",
+    "jobTitle": "Orthopaedic & Regenerative Medicine Specialist",
+    "url": "https://drchetanpatilortho.com/bmc-injection-osteonecrosis-avn.html"
+  },
+  "telephone": "+91 9611109866",
+  "email": "prabhuorthopaediccentre@gmail.com",
+  "priceRange": "₹₹",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PRABHU ORTHOPAEDIC CENTRE, SLLR Mansion, 46/8, 12th Main Rd, 1st Block, Rajajinagar",
+    "addressLocality": "Bengaluru",
+    "addressRegion": "Karnataka",
+    "postalCode": "560010",
+    "addressCountry": "IN"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "12.998694",
+    "longitude": "77.553375"
+  },
+  "hasMap": "https://www.google.com/maps?q=12.998694,77.553375",
+  "sameAs": [
+    "https://drchetanpatilortho.com/"
+  ],
+  "datePublished": "2025-10-17",
+  "dateModified": "2025-10-17"
+}
+</script>
+
+
+
+
+https://drchetanpatilortho.com/bmc-injection-cartilage-defects.html
+
+Meta TItle : Bone marrow concentrate injection in Rajajinagar |  Dr. Chetan Patil S
+
+
+Meta Description : Get advanced bone marrow concentrate injection in Rajajinagar from Dr. Chetan Patil S for effective joint healing, pain relief & regenerative treatment.
+
+
+H2 : Bone marrow concentrate injection in Rajajinagar
+
+
+Focus Keyword :Bone marrow concentrate injection 
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "MedicalClinic",
+  "@id": "https://drchetanpatilortho.com/bmc-injection-cartilage-defects.html#clinic",
+  "name": "Prabhu Orthopaedic Centre",
+  "url": "https://drchetanpatilortho.com/bmc-injection-cartilage-defects.html",
+  "image": "https://drchetanpatilortho.com/assets/logo/logo.png",
+  "logo": "https://drchetanpatilortho.com/assets/logo/logo.png",
+  "description": "Get advanced bone marrow concentrate injection in Rajajinagar from Dr. Chetan Patil S for effective joint healing, pain relief & regenerative treatment.",
+  "keywords": [
+    "Bone marrow concentrate injection in Rajajinagar",
+    "Bone marrow concentrate injection in Bangalore"
+  ],
+  "founder": {
+    "@type": "Person",
+    "name": "Dr. Chetan Patil S",
+    "medicalSpecialty": "Regenerative Orthopaedics and Cartilage Repair",
+    "jobTitle": "Orthopaedic & Regenerative Medicine Specialist",
+    "url": "https://drchetanpatilortho.com/bmc-injection-cartilage-defects.html"
+  },
+  "telephone": "+91 9611109866",
+  "email": "prabhuorthopaediccentre@gmail.com",
+  "priceRange": "₹₹",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PRABHU ORTHOPAEDIC CENTRE, SLLR Mansion, 46/8, 12th Main Rd, 1st Block, Rajajinagar",
+    "addressLocality": "Bengaluru",
+    "addressRegion": "Karnataka",
+    "postalCode": "560010",
+    "addressCountry": "IN"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "12.998694",
+    "longitude": "77.553375"
+  },
+  "hasMap": "https://www.google.com/maps?q=12.998694,77.553375",
+  "sameAs": [
+    "https://drchetanpatilortho.com/"
+  ],
+  "datePublished": "2025-10-17",
+  "dateModified": "2025-10-17"
+}
+</script>
+
+
+
+
+https://drchetanpatilortho.com/prp-injections.html
+
+Meta TItle : Orthopaedic Prp Injections Treatment in Rajajinagar
+
+
+Meta Description : Consult Dr. Chetan Patil S for orthopaedic PRP injections treatment in Rajajinagar. Advanced regenerative therapy for pain relief & faster healing.
+
+
+H2 : Orthopaedic Prp Injections Treatment in Rajajinagar
+
+
+Focus Keyword : Orthopaedic Prp Injections Treatment 
+
+
+Schema : <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "MedicalClinic",
+  "@id": "https://drchetanpatilortho.com/prp-injections.html#clinic",
+  "name": "Prabhu Orthopaedic Centre",
+  "url": "https://drchetanpatilortho.com/prp-injections.html",
+  "image": "https://drchetanpatilortho.com/assets/logo/logo.png",
+  "logo": "https://drchetanpatilortho.com/assets/logo/logo.png",
+  "description": "Consult Dr. Chetan Patil S for orthopaedic PRP injections treatment in Rajajinagar. Advanced regenerative therapy for pain relief & faster healing.",
+  "keywords": [
+    "Orthopaedic PRP Injections Treatment in Rajajinagar"
+  ],
+  "founder": {
+    "@type": "Person",
+    "name": "Dr. Chetan Patil S",
+    "medicalSpecialty": "Regenerative Orthopaedic Medicine",
+    "jobTitle": "Orthopaedic & Regenerative Therapy Specialist",
+    "url": "https://drchetanpatilortho.com/prp-injections.html"
+  },
+  "telephone": "+91 9611109866",
+  "email": "prabhuorthopaediccentre@gmail.com",
+  "priceRange": "₹₹",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PRABHU ORTHOPAEDIC CENTRE, SLLR Mansion, 46/8, 12th Main Rd, 1st Block, Rajajinagar",
+    "addressLocality": "Bengaluru",
+    "addressRegion": "Karnataka",
+    "postalCode": "560010",
+    "addressCountry": "IN"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "12.998694",
+    "longitude": "77.553375"
+  },
+  "hasMap": "https://www.google.com/maps?q=12.998694,77.553375",
+  "sameAs": [
+    "https://drchetanpatilortho.com/"
+  ],
+  "datePublished": "2025-10-17",
+  "dateModified": "2025-10-17"
+}
+</script>
+
+
+
+
+https://drchetanpatilortho.com/non-operative-low-back-pain.html
+
+Meta TItle : Best Doctors For Lower Back Pain Treatment in Rajajinagar |  Dr. Chetan Patil S
+
+
+
+
+Meta Description : Consult Dr. Chetan Patil S, one of the best doctors for lower back pain treatment in Rajajinagar. Expert diagnosis, spine care & personalized solutions.
+
+
+H2 : Best Doctors For Lower Back Pain Treatment in Rajajinagar 
+
+
+Focus Keyword : Best Doctors For Lower Back Pain Treatment 
+
+Schema : 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "MedicalClinic",
+  "@id": "https://drchetanpatilortho.com/non-operative-low-back-pain.html#clinic",
+  "name": "Prabhu Orthopaedic Centre",
+  "url": "https://drchetanpatilortho.com/non-operative-low-back-pain.html",
+  "image": "https://drchetanpatilortho.com/assets/logo/logo.png",
+  "logo": "https://drchetanpatilortho.com/assets/logo/logo.png",
+  "description": "Consult Dr. Chetan Patil S, one of the best doctors for lower back pain treatment in Rajajinagar. Expert diagnosis, spine care & personalized solutions.",
+  "keywords": [
+    "Best Doctors For Lower Back Pain Treatment in Rajajinagar",
+    "Best Doctors For Lower Back Pain Treatment in Bangalore"
+  ],
+  "founder": {
+    "@type": "Person",
+    "name": "Dr. Chetan Patil S",
+    "medicalSpecialty": "Spine and Pain Management",
+    "jobTitle": "Orthopaedic & Spine Specialist",
+    "url": "https://drchetanpatilortho.com/non-operative-low-back-pain.html"
+  },
+  "telephone": "+91 9611109866",
+  "email": "prabhuorthopaediccentre@gmail.com",
+  "priceRange": "₹₹",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PRABHU ORTHOPAEDIC CENTRE, SLLR Mansion, 46/8, 12th Main Rd, 1st Block, Rajajinagar",
+    "addressLocality": "Bengaluru",
+    "addressRegion": "Karnataka",
+    "postalCode": "560010",
+    "addressCountry": "IN"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "12.998694",
+    "longitude": "77.553375"
+  },
+  "hasMap": "https://www.google.com/maps?q=12.998694,77.553375",
+  "sameAs": [
+    "https://drchetanpatilortho.com/"
+  ],
+  "datePublished": "2025-10-17",
+  "dateModified": "2025-10-17"
+}
+</script>
+
+
+
+
+
+https://drchetanpatilortho.com/gallery.html
+
+Meta TItle : Orthopedic center in Rajajinagar |  Orthopedic clinic in Rajajinagar 
+
+Meta Description : Visit Dr. Chetan Patil S’s orthopedic center in Rajajinagar for advanced bone & joint care. Expert treatments, diagnostics & personalized consultation.
+
+
+H2 : Orthopedic center in Rajajinagar
+
+
+Focus Keyword : Orthopedic center in Rajajinagar
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "MedicalClinic",
+  "@id": "https://drchetanpatilortho.com/gallery.html#clinic",
+  "name": "Prabhu Orthopaedic Centre",
+  "url": "https://drchetanpatilortho.com/gallery.html",
+  "image": "https://drchetanpatilortho.com/assets/logo/logo.png",
+  "logo": "https://drchetanpatilortho.com/assets/logo/logo.png",
+  "description": "Visit Dr. Chetan Patil S’s orthopedic center in Rajajinagar for advanced bone & joint care. Expert treatments, diagnostics & personalized consultation.",
+  "keywords": [
+    "Orthopedic center in Rajajinagar",
+    "Orthopedic center in Bangalore"
+  ],
+  "founder": {
+    "@type": "Person",
+    "name": "Dr. Chetan Patil S",
+    "medicalSpecialty": "Orthopaedic Surgery and Joint Care",
+    "jobTitle": "Orthopaedic Surgeon",
+    "url": "https://drchetanpatilortho.com/gallery.html"
+  },
+  "telephone": "+91 9611109866",
+  "email": "prabhuorthopaediccentre@gmail.com",
+  "priceRange": "₹₹",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PRABHU ORTHOPAEDIC CENTRE, SLLR Mansion, 46/8, 12th Main Rd, 1st Block, Rajajinagar",
+    "addressLocality": "Bengaluru",
+    "addressRegion": "Karnataka",
+    "postalCode": "560010",
+    "addressCountry": "IN"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "12.998694",
+    "longitude": "77.553375"
+  },
+  "hasMap": "https://www.google.com/maps?q=12.998694,77.553375",
+  "sameAs": [
+    "https://drchetanpatilortho.com/"
+  ],
+  "datePublished": "2025-10-17",
+  "dateModified": "2025-10-17"
+}
+</script>
+
+
+
+
+
+
+https://drchetanpatilortho.com/testimonials.html
+
+Meta TItle : Best orthopedic doctor  in Rajajinagar |  Dr. Chetan Patil S
+
+
+
+
+Meta Description : Consult Dr. Chetan Patil S, the best orthopedic doctor in Rajajinagar for expert care in joint replacement, arthroscopy, trauma & sports injury treatments.
+
+
+H2 : Best orthopedic doctor  in Rajajinagar
+
+
+Focus Keyword : Best orthopedic doctor  in Rajajinagar
+
+Schema : <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "MedicalClinic",
+  "@id": "https://drchetanpatilortho.com/testimonials.html#clinic",
+  "name": "Prabhu Orthopaedic Centre",
+  "url": "https://drchetanpatilortho.com/testimonials.html",
+  "image": "https://drchetanpatilortho.com/assets/logo/logo.png",
+  "logo": "https://drchetanpatilortho.com/assets/logo/logo.png",
+  "description": "Consult Dr. Chetan Patil S, the best orthopedic doctor in Rajajinagar for expert care in joint replacement, arthroscopy, trauma & sports injury treatments.",
+  "keywords": [
+    "Best orthopedic doctor in Rajajinagar",
+    "Best orthopedic doctor in Bangalore"
+  ],
+  "founder": {
+    "@type": "Person",
+    "name": "Dr. Chetan Patil S",
+    "medicalSpecialty": "Orthopaedic Surgery and Sports Medicine",
+    "jobTitle": "Orthopaedic Surgeon",
+    "url": "https://drchetanpatilortho.com/testimonials.html"
+  },
+  "telephone": "+91 9611109866",
+  "email": "prabhuorthopaediccentre@gmail.com",
+  "priceRange": "₹₹",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PRABHU ORTHOPAEDIC CENTRE, SLLR Mansion, 46/8, 12th Main Rd, 1st Block, Rajajinagar",
+    "addressLocality": "Bengaluru",
+    "addressRegion": "Karnataka",
+    "postalCode": "560010",
+    "addressCountry": "IN"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "12.998694",
+    "longitude": "77.553375"
+  },
+  "hasMap": "https://www.google.com/maps?q=12.998694,77.553375",
+  "sameAs": [
+    "https://drchetanpatilortho.com/"
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.9",
+    "reviewCount": "250",
+    "bestRating": "5",
+    "worstRating": "1"
+  },
+  "datePublished": "2025-10-17",
+  "dateModified": "2025-10-17"
+}
+</script>
+
+
+
+
+
+
+https://drchetanpatilortho.com/contact.html
+
+Meta TItle : Orthopedic consultation near me  in Rajajinagar |  Dr. Chetan Patil S
+
+
+Meta Description : Book an orthopedic consultation near you in Rajajinagar with Dr. Chetan Patil S. Expert diagnosis & personalized treatment for bone and joint conditions.
+
+
+H2 :  Orthopedic consultation near me  in Rajajinagar
+
+
+Focus Keyword :  Orthopedic consultation near me 
+
+Schema : 
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "MedicalClinic",
+  "@id": "https://drchetanpatilortho.com/contact.html#clinic",
+  "name": "Prabhu Orthopaedic Centre",
+  "url": "https://drchetanpatilortho.com/contact.html",
+  "image": "https://drchetanpatilortho.com/assets/logo/logo.png",
+  "logo": "https://drchetanpatilortho.com/assets/logo/logo.png",
+  "description": "Book an orthopedic consultation near you in Rajajinagar with Dr. Chetan Patil S. Expert diagnosis & personalized treatment for bone and joint conditions.",
+  "keywords": [
+    "Orthopedic consultation near me in Rajajinagar",
+    "Orthopedic consultation near me in Bangalore"
+  ],
+  "areaServed": [
+    "Rajajinagar",
+    "Bangalore"
+  ],
+  "founder": {
+    "@type": "Person",
+    "name": "Dr. Chetan Patil S",
+    "medicalSpecialty": "Orthopaedic Surgery",
+    "jobTitle": "Orthopaedic Surgeon",
+    "url": "https://drchetanpatilortho.com/contact.html"
+  },
+  "telephone": "+91 9611109866",
+  "email": "prabhuorthopaediccentre@gmail.com",
+  "priceRange": "₹₹",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PRABHU ORTHOPAEDIC CENTRE, SLLR Mansion, 46/8, 12th Main Rd, 1st Block, Rajajinagar",
+    "addressLocality": "Bengaluru",
+    "addressRegion": "Karnataka",
+    "postalCode": "560010",
+    "addressCountry": "IN"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "12.998694",
+    "longitude": "77.553375"
+  },
+  "hasMap": "https://www.google.com/maps?q=12.998694,77.553375",
+  "sameAs": [
+    "https://drchetanpatilortho.com/"
+  ],
+  "datePublished": "2025-10-17",
+  "dateModified": "2025-10-17"
+}
+</script>

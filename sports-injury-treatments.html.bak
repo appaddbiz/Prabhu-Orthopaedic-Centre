@@ -1,0 +1,1315 @@
+<!DOCTYPE html>
+<html class="no-js" lang="zxx">
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="x-ua-compatible" content="ie=edge" />
+    <title>Dr. Chetan Patil S – Orthopaedic Specialist</title>
+    <meta name="author" content="Mediax" />
+    <meta
+      name="description"
+      content="Dr. Chetan Patil S – Orthopaedic Specialist"
+    />
+    <meta
+      name="keywords"
+      content="Dr. Chetan Patil S – Orthopaedic Specialist"
+    />
+    <meta name="robots" content="INDEX,FOLLOW" />
+
+    <!-- Mobile Specific Metas -->
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, shrink-to-fit=no"
+    />
+
+    <!-- Favicons - Place favicon.ico in the root directory -->
+    <link rel="apple-touch-icon" sizes="57x57" href="assets/logo/logo.png" />
+    <link rel="apple-touch-icon" sizes="60x60" href="assets/logo/logo.png" />
+    <link rel="apple-touch-icon" sizes="72x72" href="assets/logo/logo.png" />
+    <link rel="apple-touch-icon" sizes="76x76" href="assets/logo/logo.png" />
+    <link rel="apple-touch-icon" sizes="114x114" href="assets/logo/logo.png" />
+    <link rel="apple-touch-icon" sizes="120x120" href="assets/logo/logo.png" />
+    <link rel="apple-touch-icon" sizes="144x144" href="assets/logo/logo.png" />
+    <link rel="apple-touch-icon" sizes="152x152" href="assets/logo/logo.png" />
+    <link rel="apple-touch-icon" sizes="180x180" href="assets/logo/logo.png" />
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="192x192"
+      href="assets/logo/logo.png"
+    />
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="32x32"
+      href="assets/logo/logo.png"
+    />
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="96x96"
+      href="assets/logo/logo.png"
+    />
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="16x16"
+      href="assets/logo/favicon.png"
+    />
+    <link rel="manifest" href="assets/img/favicons/manifest.json" />
+    <meta name="msapplication-TileColor" content="#ffffff" />
+    <meta
+      name="msapplication-TileImage"
+      content="assets/img/favicons/ms-icon-144x144.png"
+    />
+    <meta name="theme-color" content="#ffffff" />
+
+    <!--==============================
+	  Google Fonts
+	============================== -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=DM+Sans:opsz,wght@9..40,100;9..40,200;9..40,300;9..40,400;9..40,500;9..40,600;9..40,700;9..40,800&family=Outfit:wght@300;400;500;600;700;800;900&display=swap"
+      rel="stylesheet"
+    />
+
+    <!--==============================
+	    All CSS File
+	============================== -->
+    <!-- Bootstrap -->
+    <link rel="stylesheet" href="assets/css/bootstrap.min.css" />
+    <!-- Fontawesome Icon -->
+    <link rel="stylesheet" href="assets/css/fontawesome.min.css" />
+    <!-- Magnific Popup -->
+    <link rel="stylesheet" href="assets/css/magnific-popup.min.css" />
+    <!-- Swiper Js -->
+    <link rel="stylesheet" href="assets/css/swiper-bundle.min.css" />
+    <!-- datetimepicker -->
+    <link rel="stylesheet" href="assets/css/jquery.datetimepicker.min.css" />
+    <!-- Theme Custom CSS -->
+    <link rel="stylesheet" href="assets/css/style.css" />
+
+    <style>
+      @media (min-width: 769px) {
+        .mobile-banner {
+          display: none;
+        }
+        .footer-logo {
+          height: 190px !important;
+          width: 70%;
+        }
+      }
+      @media (max-width: 768px) {
+        .desk-banner {
+          display: none;
+        }
+        .footer-logo {
+          height: 200px !important;
+          width: 70%;
+        }
+      }
+    </style>
+  </head>
+
+  <body>
+    <!--[if lte IE 9]>
+      <p class="browserupgrade">
+        You are using an <strong>outdated</strong> browser. Please
+        <a href="https://browsehappy.com/">upgrade your browser</a> to improve
+        your experience and security.
+      </p>
+    <![endif]-->
+
+    <div class="th-menu-wrapper">
+      <div class="th-menu-area text-center">
+        <button class="th-menu-toggle"><i class="fal fa-times"></i></button>
+        <div class="mobile-logo">
+          <a href="/"
+            ><img src="assets/logo/logo.png" style="height: 150px" alt="logo"
+          /></a>
+        </div>
+        <div class="th-mobile-menu">
+          <ul>
+            <li>
+              <a href="/">Home</a>
+            </li>
+            <li><a href="about-doctor.html">About Doctor</a></li>
+            <li class="menu-item-has-children">
+              <a href="orthopedic-surgery-treatment.html"
+                >Orthopaedic Treatment <br />
+                & Surgery
+              </a>
+              <ul class="sub-menu">
+                <li>
+                  <a href="orthopaedic-trauma.html">Orthopaedic Trauma</a>
+                </li>
+                <li class="menu-item-has-children">
+                  <a href="arthroplasty-joint-replacement.html"
+                    >Arthroplasty/Joint Replacement</a
+                  >
+                  <ul class="sub-menu">
+                    <li><a href="hip-surgery.html">Hip Surgery</a></li>
+                    <li><a href="knee-surgery.html">Knee Surgery</a></li>
+                    <li>
+                      <a href="shoulder-surgery.html">Shoulder Surgery</a>
+                    </li>
+                    <li><a href="ankle-surgery.html">Ankle Surgery</a></li>
+                    <li><a href="elbow-surgery.html">Elbow Surgery</a></li>
+                    <li><a href="wrist-surgery.html">Wrist Surgery</a></li>
+                    <!-- <li><a href="finger-surgery.html">Finger Surgery</a></li>
+                    <li><a href="toe-surgery.html">Toe Surgery</a></li> -->
+                    <li><a href="foot-surgery.html">Foot Surgery</a></li>
+                  </ul>
+                </li>
+                <li class="menu-item-has-children">
+                  <a href="arthroscopy.html">Arthroscopy</a>
+                  <ul class="sub-menu">
+                    <!-- <li>
+                      <a href="elbow-arthroscopy.html">Elbow Arthroscopy</a>
+                    </li> -->
+                    <li>
+                      <a href="foot-ankle-arthroscopy.html"
+                        >Foot and Ankle Arthroscopy</a
+                      >
+                    </li>
+                    <!-- <li>
+                      <a href="hand-wrist-arthroscopy.html"
+                        >Hand and Wrist Arthroscopy</a
+                      >
+                    </li> -->
+                    <!-- <li><a href="hip-arthroscopy.html">Hip Arthroscopy</a></li> -->
+                    <li>
+                      <a href="knee-arthroscopy.html">Knee Arthroscopy</a>
+                    </li>
+                    <li>
+                      <a href="shoulder-arthroscopy.html"
+                        >Shoulder Arthroscopy</a
+                      >
+                    </li>
+                  </ul>
+                </li>
+                <li>
+                  <a href="sports-injury-treatments.html"
+                    >Sports Injury Treatments</a
+                  >
+                </li>
+                <li>
+                  <a href="spine-treatments.html">Spine Treatments</a>
+                </li>
+                <li>
+                  <a href="total-knee-replacement.html"
+                    >Total Knee Replacement</a
+                  >
+                </li>
+                <li>
+                  <a href="total-hip-replacement.html">Total Hip Replacement</a>
+                </li>
+                <li>
+                  <a href="robotic-knee-replacement.html"
+                    >Robotic Knee Replacement</a
+                  >
+                </li>
+              </ul>
+            </li>
+            <li class="menu-item-has-children">
+              <a href="our-facilities.html">Facility</a>
+              <ul class="sub-menu">
+                <li>
+                  <a href="expert-orthopaedic-consultation.html"
+                    >Expert Orthopaedic Consultation</a
+                  >
+                </li>
+                <li><a href="x-ray-facility.html">X-Ray Facility</a></li>
+                <li><a href="physiotherapy.html">Physiotherapy</a></li>
+                <li>
+                  <a href="bmc-injection-osteonecrosis-avn.html"
+                    >Bone Marrow Concentrate Injection for Osteonecrosis/AVN</a
+                  >
+                </li>
+                <li>
+                  <a href="bmc-injection-cartilage-defects.html"
+                    >Bone Marrow Concentrate Injection for Cartilage Defects</a
+                  >
+                </li>
+                <li>
+                  <a href="prp-injections.html"
+                    >PRP Injections(Platelet Rich Plasma)</a
+                  >
+                </li>
+                <li>
+                  <a href="non-operative-low-back-pain.html"
+                    >Comprehensive Non Operative Treatment for Low Back Pain</a
+                  >
+                </li>
+              </ul>
+            </li>
+            <li>
+              <a href="gallery.html">Gallery </a>
+            </li>
+            <li>
+              <a href="testimonials.html">Testimonials</a>
+            </li>
+            <li>
+              <a href="contact.html">Contact Us</a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+    <!--==============================
+	Header Area
+==============================-->
+    <header class="th-header header-layout1">
+      <div class="header-top" style="background-color: #0b5045">
+        <div class="container">
+          <div
+            class="row justify-content-center justify-content-lg-between align-items-center gy-2"
+          >
+            <div class="col-auto d-none d-lg-block">
+              <div class="header-links">
+                <ul>
+                  <li class="d-none d-sm-inline-block">
+                    <i class="fas fa-phone icon-btn"></i><b>Phone:</b>
+                    <a href="tel:+919482382130" class="text-white"
+                      >+91 9482382130</a
+                    >
+                  </li>
+                  <li class="d-none d-sm-inline-block">
+                    <i class="fas fa-envelope icon-btn"></i><b>Email:</b>
+                    <a
+                      href="mailto:prabhuorthopaediccentre@gmail.com"
+                      class="text-white"
+                      >prabhuorthopaediccentre@gmail.com</a
+                    >
+                  </li>
+                  <li class="d-none d-xxl-inline-block">
+                    <i class="fas fa-location-dot icon-btn"></i>
+                    <a
+                      href="https://maps.app.goo.gl/uVqTMngPreM6zcmK7"
+                      class="text-white"
+                      >12th Main Rd, 1st Block, Rajajinagar, Bengaluru,
+                      Karnataka 560010
+                    </a>
+                  </li>
+                </ul>
+              </div>
+            </div>
+            <div class="col-auto">
+              <div class="header-links">
+                <ul>
+                  <li>
+                    <div class="social-links">
+                      <span class="social-title">Follow Us On: </span>
+                      <a href="https://www.facebook.com/"
+                        ><i class="fab fa-facebook-f"></i
+                      ></a>
+                      <a href="https://www.twitter.com/"
+                        ><i class="fab fa-twitter"></i
+                      ></a>
+                      <a href="https://www.linkedin.com/"
+                        ><i class="fab fa-linkedin-in"></i
+                      ></a>
+                      <a href="https://www.instagram.com/"
+                        ><i class="fab fa-instagram"></i
+                      ></a>
+                      <a href="https://www.youtube.com/"
+                        ><i class="fab fa-youtube"></i
+                      ></a>
+                    </div>
+                  </li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="sticky-wrapper">
+        <!-- Main Menu Area -->
+        <div class="menu-area">
+          <div class="container-fluid">
+            <div class="row align-items-center justify-content-between">
+              <a href="/" class="col-auto">
+                <div
+                  class="header-logo"
+                  style="
+                    background-image: url(assets/logo/logo.png);
+                    background-position: center;
+                    background-repeat: no-repeat;
+                    background-size: cover;
+                    aspect-ratio: 3/3;
+                  "
+                >
+                  <!-- <div class="logo-bg" data-bg-src="assets/img/bg/logo_bg_1.png"></div> -->
+                  <!-- <a href="home-medical-clinic.html"><img src="assets/logo/logo.png" style="height: 90px;" alt="Mediax"></a> -->
+                </div>
+              </a>
+              <div class="col-auto d-none d-lg-inline-block">
+                <nav class="main-menu d-none d-lg-inline-block">
+                  <ul>
+                    <li>
+                      <a href="/">Home</a>
+                    </li>
+                    <li><a href="about-doctor.html">About Doctor</a></li>
+                    <li class="menu-item-has-children">
+                      <a href="orthopedic-surgery-treatment.html"
+                        >Orthopaedic Treatment & Surgery
+                      </a>
+                      <ul class="sub-menu">
+                        <li>
+                          <a href="orthopaedic-trauma.html"
+                            >Orthopaedic Trauma</a
+                          >
+                        </li>
+                        <li class="menu-item-has-children">
+                          <a href="arthroplasty-joint-replacement.html"
+                            >Arthroplasty/Joint Replacement</a
+                          >
+                          <ul class="sub-menu">
+                            <li><a href="hip-surgery.html">Hip Surgery</a></li>
+                            <li>
+                              <a href="knee-surgery.html">Knee Surgery</a>
+                            </li>
+                            <li>
+                              <a href="shoulder-surgery.html"
+                                >Shoulder Surgery</a
+                              >
+                            </li>
+                            <li>
+                              <a href="ankle-surgery.html">Ankle Surgery</a>
+                            </li>
+                            <li>
+                              <a href="elbow-surgery.html">Elbow Surgery</a>
+                            </li>
+                            <li>
+                              <a href="wrist-surgery.html">Wrist Surgery</a>
+                            </li>
+                            <!-- <li>
+                              <a href="finger-surgery.html">Finger Surgery</a>
+                            </li>
+                            <li><a href="toe-surgery.html">Toe Surgery</a></li> -->
+                            <li>
+                              <a href="foot-surgery.html">Foot Surgery</a>
+                            </li>
+                          </ul>
+                        </li>
+                        <li class="menu-item-has-children">
+                          <a href="arthroscopy.html">Arthroscopy</a>
+                          <ul class="sub-menu">
+                            <!-- <li>
+                              <a href="elbow-arthroscopy.html"
+                                >Elbow Arthroscopy</a
+                              >
+                            </li> -->
+                            <li>
+                              <a href="foot-ankle-arthroscopy.html"
+                                >Foot and Ankle Arthroscopy</a
+                              >
+                            </li>
+                            <!-- <li>
+                              <a href="hand-wrist-arthroscopy.html"
+                                >Hand and Wrist Arthroscopy</a
+                              >
+                            </li> -->
+                            <!-- <li>
+                              <a href="hip-arthroscopy.html">Hip Arthroscopy</a>
+                            </li> -->
+                            <li>
+                              <a href="knee-arthroscopy.html"
+                                >Knee Arthroscopy</a
+                              >
+                            </li>
+                            <li>
+                              <a href="shoulder-arthroscopy.html"
+                                >Shoulder Arthroscopy</a
+                              >
+                            </li>
+                          </ul>
+                        </li>
+                        <li>
+                          <a href="sports-injury-treatments.html"
+                            >Sports Injury Treatments</a
+                          >
+                        </li>
+                        <li>
+                          <a href="spine-treatments.html">Spine Treatments</a>
+                        </li>
+                        <li>
+                          <a href="total-knee-replacement.html"
+                            >Total Knee Replacement</a
+                          >
+                        </li>
+                        <li>
+                          <a href="total-hip-replacement.html"
+                            >Total Hip Replacement</a
+                          >
+                        </li>
+                        <li>
+                          <a href="robotic-knee-replacement.html"
+                            >Robotic Knee Replacement</a
+                          >
+                        </li>
+                      </ul>
+                    </li>
+                    <li class="menu-item-has-children">
+                      <a href="our-facilities.html">Facility</a>
+                      <ul class="sub-menu">
+                        <li>
+                          <a href="expert-orthopaedic-consultation.html"
+                            >Expert Orthopaedic Consultation</a
+                          >
+                        </li>
+                        <li>
+                          <a href="x-ray-facility.html">X-Ray Facility</a>
+                        </li>
+                        <li><a href="physiotherapy.html">Physiotherapy</a></li>
+                        <li>
+                          <a href="bmc-injection-osteonecrosis-avn.html"
+                            >Bone Marrow Concentrate Injection for
+                            Osteonecrosis/AVN</a
+                          >
+                        </li>
+                        <li>
+                          <a href="bmc-injection-cartilage-defects.html"
+                            >Bone Marrow Concentrate Injection for Cartilage
+                            Defects</a
+                          >
+                        </li>
+                        <li>
+                          <a href="prp-injections.html"
+                            >PRP Injections(Platelet Rich Plasma)</a
+                          >
+                        </li>
+                        <li>
+                          <a href="non-operative-low-back-pain.html"
+                            >Comprehensive Non Operative Treatment for Low Back
+                            Pain</a
+                          >
+                        </li>
+                      </ul>
+                    </li>
+                    <li>
+                      <a href="gallery.html">Gallery </a>
+                    </li>
+                    <li>
+                      <a href="testimonials.html">Testimonials</a>
+                    </li>
+                    <li>
+                      <a href="contact.html">Contact Us</a>
+                    </li>
+                  </ul>
+                </nav>
+                <!-- <a href="appointment.html" class="th-btn">Appointment Now</a> -->
+                <!-- <button
+                  type="button"
+                  class="icon-btn sideMenuInfo d-none d-xl-inline-block"
+                >
+                  <i class="far fa-bars"></i>
+                </button>
+                <button type="button" class="th-menu-toggle d-block d-lg-none">
+                  <i class="far fa-bars"></i>
+                </button> -->
+              </div>
+              <div class="col-auto">
+                <div class="header-button">
+                  <!-- <button
+                    type="button"
+                    class="icon-btn searchBoxToggler d-none d-xl-inline-block"
+                  >
+                    <i class="far fa-search"></i>
+                  </button> -->
+                  <!-- <button type="button" class="icon-btn sideMenuCart">
+                    <span class="badge">5</span>
+                    <i class="far fa-cart-shopping"></i>
+                  </button> -->
+                  <a href="book-an-appointment.html" class="th-btn text-white"
+                    >Appointment Now</a
+                  >
+                  <button
+                    type="button"
+                    class="icon-btn sideMenuInfo d-none d-xl-inline-block"
+                  >
+                    <i class="far fa-bars"></i>
+                  </button>
+                  <button
+                    type="button"
+                    class="th-menu-toggle d-block d-lg-none"
+                  >
+                    <i class="far fa-bars"></i>
+                  </button>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </header>
+    <!--==============================
+    Breadcumb
+============================== -->
+    <div class="breadcumb-wrapper">
+      <div class="container">
+        <div class="breadcumb-content">
+          <h1 class="breadcumb-title">Sports Injury Treatments</h1>
+          <ul class="breadcumb-menu">
+            <li><a href="/">Home</a></li>
+            <li>
+              <a href="orthopedic-surgery-treatment.html"
+                >Orthopaedic Treatment & Surgery
+              </a>
+            </li>
+            <li>Sports Injury Treatments</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+    <!--==============================
+    Service Area
+==============================-->
+    <section class="space-top space-extra-bottom">
+      <div class="container">
+        <div class="row flex-row-reverse">
+          <div class="col-xxl-8 col-lg-8">
+            <div class="page-single single-right mb-30">
+              <div class="page-img">
+                <img
+                  src="assets/service-images/Sports-Injury-Treatments.jpeg"
+                  alt="Service Image"
+                />
+              </div>
+              <div class="page-content">
+                <h4 class="fw-semibold">
+                  Expert Care for Athletes and Active Individuals
+                </h4>
+                <p style="text-align: justify">
+                  Sports injuries can be frustrating and disruptive, affecting
+                  not just athletic performance but also day-to-day life.
+                  Whether you're a professional athlete, a weekend warrior, or
+                  someone who enjoys an active lifestyle, prompt and effective
+                  treatment of sports injuries is crucial for a full and safe
+                  recovery.
+                </p>
+                <p style="text-align: justify">
+                  If you're looking for the
+                  <strong>best sports injury treatments in Bangalore</strong>,
+                  consulting with experts like
+                  <strong>Dr. Chetan Patil S</strong> ensures comprehensive
+                  care, from diagnosis to rehabilitation, with a focus on
+                  minimally invasive techniques and long-term recovery.
+                </p>
+
+                <h6 class="fw-semibold">What Are Sports Injuries?</h6>
+                <p style="text-align: justify">
+                  Sports injuries are physical injuries that occur during
+                  physical activity, exercise, or sports. They may result from
+                  accidents, poor training practices, improper gear, lack of
+                  conditioning, or insufficient warm-up and stretching.
+                </p>
+
+                <h6 class="fw-semibold">Common Sports Injuries Include:</h6>
+                <ul>
+                  <li>
+                    <strong>Sprains and Strains</strong>: Ligament and
+                    muscle/tendon injuries
+                  </li>
+                  <li>
+                    <strong>Fractures</strong>: Broken bones from trauma or
+                    stress
+                  </li>
+                  <li>
+                    <strong>Dislocations</strong>: Bones pushed out of their
+                    normal alignment
+                  </li>
+                  <li>
+                    <strong>Tendonitis and Bursitis</strong>: Inflammation of
+                    tendons or bursae due to overuse
+                  </li>
+                  <li>
+                    <strong>ACL/PCL Tears</strong>: Cruciate ligament injuries
+                    in the knee
+                  </li>
+                  <li>
+                    <strong>Meniscus Tears</strong>: Cartilage injury in the
+                    knee joint
+                  </li>
+                  <li>
+                    <strong>Rotator Cuff Injuries</strong>: Shoulder tendon
+                    tears or inflammation
+                  </li>
+                  <li>
+                    <strong>Tennis/Golfer’s Elbow</strong>: Tendon inflammation
+                    in the elbow
+                  </li>
+                  <li>
+                    <strong>Shin Splints</strong>: Pain along the shin bone
+                  </li>
+                  <li>
+                    <strong>Achilles Tendon Rupture</strong>: Tear of the tendon
+                    at the back of the ankle
+                  </li>
+                </ul>
+                <p style="text-align: justify">
+                  Prompt diagnosis and personalized treatment are essential to
+                  prevent complications and restore function.
+                </p>
+
+                <h6 class="fw-semibold">
+                  Consultation with Dr. Chetan Patil S – Best Sports Injury
+                  Treatments in Bangalore
+                </h6>
+                <p style="text-align: justify">
+                  Dr. Chetan Patil S, a leading orthopedic and sports injury
+                  specialist, is renowned for offering the
+                  <strong>best Sports Injury Treatments in Bangalore</strong>.
+                  Whether it's a torn ligament or repetitive strain injury, Dr.
+                  Patil brings vast experience and evidence-based approaches to
+                  ensure a complete recovery.
+                </p>
+                <p style="text-align: justify">
+                  During your consultation, Dr. Patil will:
+                </p>
+                <ul>
+                  <li>Conduct a thorough physical examination</li>
+                  <li>Evaluate your injury history and activity level</li>
+                  <li>
+                    Order imaging tests like X-rays, MRI, or ultrasound if
+                    needed
+                  </li>
+                  <li>Provide a precise diagnosis</li>
+                  <li>Create a customized treatment and rehabilitation plan</li>
+                </ul>
+                <p style="text-align: justify">
+                  His goal is to help you return to your sport or activity as
+                  quickly and safely as possible.
+                </p>
+
+                <h6 class="fw-semibold">
+                  Treatment Options for Sports Injuries
+                </h6>
+
+                <h6>1. Non-Surgical Treatments</h6>
+                <p style="text-align: justify">
+                  Most sports injuries can be managed conservatively with:
+                </p>
+                <ul>
+                  <li>
+                    <strong>R.I.C.E. Protocol</strong> (Rest, Ice, Compression,
+                    Elevation): Immediate first aid for acute injuries
+                  </li>
+                  <li>
+                    <strong>Medications</strong>: Anti-inflammatories or pain
+                    relievers
+                  </li>
+                  <li>
+                    <strong>Immobilization</strong>: Braces, splints, or slings
+                    to protect the injured area
+                  </li>
+                  <li>
+                    <strong>Physical Therapy</strong>: Guided rehabilitation to
+                    restore mobility and strength
+                  </li>
+                  <li>
+                    <strong>Platelet-Rich Plasma (PRP) Therapy</strong>:
+                    Regenerative treatment using your own blood platelets to
+                    accelerate healing
+                  </li>
+                  <li>
+                    <strong>Shockwave Therapy</strong>: For chronic conditions
+                    like plantar fasciitis or tendonitis
+                  </li>
+                </ul>
+
+                <h6>2. Minimally Invasive Surgery</h6>
+                <p style="text-align: justify">
+                  For more severe injuries, especially ligament tears or joint
+                  damage, surgery may be necessary. Dr. Chetan Patil S
+                  specializes in arthroscopic procedures—minimally invasive
+                  techniques that result in:
+                </p>
+                <ul>
+                  <li>Less pain and scarring</li>
+                  <li>Faster healing</li>
+                  <li>Lower risk of complications</li>
+                </ul>
+                <p style="text-align: justify">
+                  Common arthroscopic surgeries include:
+                </p>
+                <ul>
+                  <li>ACL/PCL Reconstruction</li>
+                  <li>Meniscus Repair or Removal</li>
+                  <li>Shoulder Arthroscopy for Labral or Rotator Cuff Tears</li>
+                  <li>Ankle Ligament Reconstruction</li>
+                  <li>Hip Labral Repair</li>
+                </ul>
+
+                <h6>3. Rehabilitation and Physical Therapy</h6>
+                <p style="text-align: justify">
+                  Recovery isn’t just about treating the injury—it’s about
+                  restoring function and preventing recurrence. Post-treatment
+                  rehab focuses on:
+                </p>
+                <ul>
+                  <li>Regaining range of motion</li>
+                  <li>Strengthening surrounding muscles</li>
+                  <li>Improving balance and coordination</li>
+                  <li>Sport-specific training and return-to-play protocols</li>
+                </ul>
+
+                <h6 class="fw-semibold">
+                  What to Expect After Sports Injury Treatment?
+                </h6>
+
+                <h6>1. Immediate Relief and Protection</h6>
+                <p style="text-align: justify">
+                  Once treatment begins—whether it's bracing, physiotherapy, or
+                  surgery—pain and inflammation typically decrease. You may need
+                  assistive devices like crutches or slings temporarily.
+                </p>
+
+                <h6>2. Rehabilitation Phase</h6>
+                <p style="text-align: justify">
+                  A structured rehab program is essential. This phase may last a
+                  few weeks to several months, depending on the injury and
+                  treatment. Physical therapists guide you through progressive
+                  exercises to:
+                </p>
+                <ul>
+                  <li>Minimize stiffness</li>
+                  <li>Rebuild muscle strength</li>
+                  <li>Regain athletic ability</li>
+                </ul>
+
+                <h6>3. Return to Sport</h6>
+                <p style="text-align: justify">
+                  With a tailored recovery plan and expert monitoring from
+                  <strong>Dr. Chetan Patil S</strong>, most patients can return
+                  to their sport safely. Clearance for sports depends on:
+                </p>
+                <ul>
+                  <li>Full pain-free movement</li>
+                  <li>Joint stability and strength</li>
+                  <li>Confidence in the injured area</li>
+                </ul>
+
+                <h6 class="fw-semibold">
+                  When Should You See a Sports Injury Specialist?
+                </h6>
+                <p style="text-align: justify">
+                  You should consult an expert like
+                  <strong>Dr. Chetan Patil S</strong> if:
+                </p>
+                <ul>
+                  <li>
+                    Pain persists for more than a few days after an injury
+                  </li>
+                  <li>There is swelling, bruising, or restricted movement</li>
+                  <li>You experience instability or weakness</li>
+                  <li>
+                    The injury affects your ability to train, work, or sleep
+                  </li>
+                  <li>Previous treatments haven't resolved the issue</li>
+                </ul>
+                <p style="text-align: justify">
+                  Early intervention leads to faster healing and fewer
+                  complications.
+                </p>
+
+                <h6 class="fw-semibold">
+                  Why Choose Dr. Chetan Patil S for Sports Injury Care?
+                </h6>
+                <ul>
+                  <li>✅ Expert in Sports Medicine and Orthopedic Surgery</li>
+                  <li>
+                    ✅ Advanced training in minimally invasive arthroscopy
+                  </li>
+                  <li>
+                    ✅ Tailored treatment plans for athletes and active
+                    individuals
+                  </li>
+                  <li>✅ Proven success in managing complex injuries</li>
+                  <li>✅ Focus on functional recovery and performance</li>
+                </ul>
+                <p style="text-align: justify">
+                  Whether you’re a professional athlete or a fitness enthusiast,
+                  <strong>Dr. Chetan Patil S</strong> delivers the
+                  <strong>best sports injury treatments in Bangalore</strong>,
+                  helping you get back in the game stronger than before.
+                </p>
+
+                <h6 class="fw-semibold">Preventing Sports Injuries</h6>
+                <p style="text-align: justify">
+                  While not all injuries are avoidable, many can be prevented
+                  with:
+                </p>
+                <ul>
+                  <li>Proper warm-up and cool-down routines</li>
+                  <li>Using correct techniques and sports equipment</li>
+                  <li>Maintaining muscle strength and flexibility</li>
+                  <li>Avoiding overtraining and allowing rest days</li>
+                  <li>
+                    Listening to your body and addressing early signs of pain
+                  </li>
+                </ul>
+                <p style="text-align: justify">
+                  Regular checkups and sports assessments with an orthopedic
+                  specialist can also identify risk factors before they lead to
+                  injuries.
+                </p>
+
+                <h6 class="fw-semibold">
+                  Cost of Sports Injury Treatment in Bangalore
+                </h6>
+                <p style="text-align: justify">
+                  The cost varies depending on the:
+                </p>
+                <ul>
+                  <li>Type and severity of the injury</li>
+                  <li>Need for surgery or advanced therapies</li>
+                  <li>Duration of rehabilitation</li>
+                  <li>Diagnostic tests required</li>
+                </ul>
+                <p style="text-align: justify">
+                  Clinics offering the
+                  <strong>best Sports Injury Treatments in Bangalore</strong>
+                  like those led by <strong>Dr. Chetan Patil S</strong> provide
+                  transparent and affordable pricing options, ensuring quality
+                  care without compromise.
+                </p>
+
+                <h6 class="fw-semibold">Final Thoughts</h6>
+                <p style="text-align: justify">
+                  Sports injuries don’t have to sideline your life. With the
+                  right care, support, and rehabilitation, full recovery is
+                  absolutely achievable. Whether it’s a minor sprain or a
+                  complex ligament tear, seeking expert help early is key.
+                </p>
+                <p style="text-align: justify">
+                  Choose <strong>Dr. Chetan Patil S</strong> for the
+                  <strong>best sports injury treatments in Bangalore</strong
+                  >—from diagnosis and treatment to rehabilitation and
+                  return-to-sport strategies, you’re in experienced and caring
+                  hands.
+                </p>
+                <p style="text-align: justify">
+                  <strong
+                    >Book your consultation today and take the first step toward
+                    a pain-free, active lifestyle.</strong
+                  >
+                </p>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-xxl-4 col-lg-4">
+            <aside class="sidebar-area">
+              <div class="widget widget_categories">
+                <h6
+                  class="fw-semibold"
+                  class="widget_title"
+                  style="font-size: 20px"
+                >
+                  Orthopaedic Treatment & Surgery
+                </h6>
+                <ul>
+                  <li>
+                    <a href="orthopaedic-trauma.html">Orthopaedic Trauma</a>
+                  </li>
+                  <li>
+                    <a href="arthroplasty-joint-replacement.html"
+                      >Arthroplasty/Joint Replacement</a
+                    >
+                  </li>
+                  <li>
+                    <a href="arthroscopy.html">Arthroscopy</a>
+                  </li>
+                  <li>
+                    <a href="sports-injury-treatments.html"
+                      >Sports Injury Treatments</a
+                    >
+                  </li>
+                  <li>
+                    <a href="spine-treatments.html">Spine Treatments</a>
+                  </li>
+                  <li>
+                    <a href="total-knee-replacement.html"
+                      >Total Knee Replacement</a
+                    >
+                  </li>
+                  <li>
+                    <a href="total-hip-replacement.html"
+                      >Total Hip Replacement</a
+                    >
+                  </li>
+                  <li>
+                    <a href="robotic-knee-replacement.html"
+                      >Robotic Knee Replacement</a
+                    >
+                  </li>
+                </ul>
+              </div>
+              <div class="th-team team-grid">
+                <div class="box-img">
+                  <img src="assets/doctor-images/dr-chetan.webp" alt="Team" />
+                  <div class="team-social">
+                    <div class="th-social">
+                      <a target="_blank" href="https://facebook.com/"
+                        ><i class="fab fa-facebook-f"></i
+                      ></a>
+                      <a target="_blank" href="https://whatsapp.com/"
+                        ><i class="fab fa-whatsapp"></i
+                      ></a>
+                      <a target="_blank" href="https://linkedin.com/"
+                        ><i class="fab fa-linkedin-in"></i
+                      ></a>
+                    </div>
+                    <button class="icon-btn">
+                      <i class="fa-solid fa-link"></i>
+                    </button>
+                  </div>
+                </div>
+                <div class="box-content">
+                  <h3 class="box-title">
+                    <a href="about-doctor.html">Dr. Chetan Patil S </a>
+                  </h3>
+                  <p class="box-text">Orthopaedic Specialist</p>
+                </div>
+              </div>
+              <div class="tab-schedule mt-5">
+                <h3 class="widget_title">Clinical Timings</h3>
+                <p class="box-text">
+                  Monday - Saturday: <span>10:30 AM - 6:00 PM</span>
+                </p>
+                <h3 class="widget_title">Doctor Consultation Timings</h3>
+                <p class="box-text">
+                  Morning : <span>10:30 AM - 2:30 PM </span>
+                </p>
+                <p class="box-text">Evening : <span>4:30 PM - 6:00 PM</span></p>
+              </div>
+            </aside>
+          </div>
+        </div>
+      </div>
+    </section>
+    <!--==============================
+	Footer Area
+==============================-->
+    <footer class="footer-wrapper footer-layout1">
+      <div class="widget-area">
+        <div class="container">
+          <div class="row justify-content-between">
+            <div class="col-md-6 col-xl-auto">
+              <div class="widget footer-widget">
+                <div class="th-widget-about text-center">
+                  <div
+                    class="about-logo"
+                    style="background-color: white; width: max-content"
+                  >
+                    <a href="/"
+                      ><img
+                        src="assets/logo/logo.png"
+                        style="width: 200px; height: 200px"
+                        alt=""
+                    /></a>
+                  </div>
+
+                  <p class="footer-info">
+                    <i class="fal fa-envelope"></i>
+                    <a
+                      href="mailto:prabhuorthopaediccentre@gmail.com"
+                      class="info-box_link"
+                      >prabhuorthopaediccentre@gmail.com</a
+                    >
+                  </p>
+                  <p class="footer-info">
+                    <i class="fal fa-phone"></i>&ensp;
+                    <a href="tel:+919482382130" class="info-box_link"
+                      >+91 9482382130
+                    </a>
+                  </p>
+                  <p class="footer-info" style="color: white">
+                    <i class="fal fa-phone"></i>&ensp; Emergency :
+                    <a href="tel:+919611109866" class="info-box_link">
+                      +91 9611109866
+                    </a>
+                  </p>
+                  <p class="footer-info text-white" style="text-align: justify">
+                    <i class="fal fa-location-dot"></i>
+                    <a
+                      href="https://maps.app.goo.gl/uVqTMngPreM6zcmK7"
+                      class="text-white"
+                    >
+                      PRABHU ORTHOPAEDIC CENTRE, SLLR Mansion, 46/8, 12th Main
+                      Rd, 1st Block, Rajajinagar, Bengaluru, Karnataka 560010
+                    </a>
+                  </p>
+                </div>
+              </div>
+            </div>
+            <div class="col-md-6 col-xl-auto">
+              <div class="widget widget_nav_menu footer-widget">
+                <h3 class="widget_title">Quick Links</h3>
+                <div class="menu-all-pages-container">
+                  <ul class="menu">
+                    <li><a href="/">Home</a></li>
+                    <li><a href="about-doctor.html">About Doctor</a></li>
+                    <li>
+                      <a href="orthopedic-surgery-treatment.html"
+                        >Orthopaedic Treatment <br />
+                        & Surgery</a
+                      >
+                    </li>
+                    <li><a href="our-facilities.html">Facility</a></li>
+                    <li><a href="gallery.html">Gallery</a></li>
+                    <li><a href="testimonials.html">Testimonials</a></li>
+                    <li><a href="contact.html">Contact Us</a></li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+            <div class="col-md-6 col-xl-auto">
+              <div class="widget widget_nav_menu footer-widget">
+                <h3 class="widget_title">Our Facilities</h3>
+                <div class="menu-all-pages-container">
+                  <ul class="menu">
+                    <li>
+                      <a href="expert-orthopaedic-consultation.html"
+                        >Expert Orthopaedic Consultation</a
+                      >
+                    </li>
+                    <li><a href="x-ray-facility.html">X-Ray Facility</a></li>
+                    <li><a href="#">Physiotherapy</a></li>
+                    <li>
+                      <a href="bmc-injection-osteonecrosis-avn.html"
+                        >Bone Marrow Concentrate <br />
+                        Injection for Osteonecrosis/AVN</a
+                      >
+                    </li>
+                    <li>
+                      <a href="bmc-injection-cartilage-defects.html"
+                        >Bone Marrow Concentrate <br />
+                        Injection for Cartilage Defects</a
+                      >
+                    </li>
+                    <li>
+                      <a href="prp-injections.html"
+                        >PRP Injections(Platelet Rich Plasma)</a
+                      >
+                    </li>
+                    <li>
+                      <a href="non-operative-low-back-pain.html"
+                        >Comprehensive Non Operative <br />
+                        Treatment for Low Back Pain</a
+                      >
+                    </li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+            <div class="col-md-6 col-xl-auto">
+              <div class="widget footer-widget">
+                <h3 class="widget_title">Locate Us</h3>
+                <div class="recent-post-wrap">
+                  <iframe
+                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3928.05559287081!2d77.552202!3d12.9999592!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae3d853e19f07f%3A0x830b81949c2bcdbe!2sPrabhu%20Orthopaedic%20Centre!5e1!3m2!1sen!2sin!4v1748003131097!5m2!1sen!2sin"
+                    style="border: 0; width: 100%; height: 250px"
+                    allowfullscreen=""
+                    loading="lazy"
+                    referrerpolicy="no-referrer-when-downgrade"
+                  ></iframe>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="copyright-wrap">
+        <div class="container">
+          <div class="row gy-2 align-items-center">
+            <div class="col-md-12">
+              <p class="copyright-text text-center">
+                Copyright <i class="fal fa-copyright"></i> 2025
+                <a href="#" class="text-white"><b>Dr. Chetan Patil S</b></a
+                >. All Rights Reserved. Designed by
+                <a href="https://www.appaddindia.net/" style="color: white"
+                  >Appadd India Pvt Ltd...</a
+                >
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </footer>
+
+    <!--********************************
+			Code End  Here 
+	******************************** -->
+
+    <!-- Scroll To Top -->
+    <div class="scroll-top" style="bottom: 70px">
+      <svg
+        class="progress-circle svg-content"
+        width="100%"
+        height="100%"
+        viewBox="-1 -1 102 102"
+      >
+        <path
+          d="M50,1 a49,49 0 0,1 0,98 a49,49 0 0,1 0,-98"
+          style="
+            transition: stroke-dashoffset 10ms linear 0s;
+            stroke-dasharray: 307.919, 307.919;
+            stroke-dashoffset: 307.919;
+          "
+        ></path>
+      </svg>
+    </div>
+
+    <section
+      style="position: fixed; bottom: 0px; z-index: 999"
+      class="desk-view container-full"
+    >
+      <div
+        style="
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          width: 100vw;
+          height: 60px;
+        "
+      >
+        <div style="width: 25%">
+          <a
+            href="https://maps.app.goo.gl/eM2h65Z5cKiAtLca7"
+            style="
+              display: flex;
+              align-items: center;
+              justify-content: center;
+              flex-direction: column;
+              padding-top: 10px;
+              gap: 10px;
+              text-decoration: none;
+              background-color: #c0c2ff;
+            "
+          >
+            <img
+              src="assets/flat-icons/google-maps.png"
+              alt=""
+              height="25px"
+              width="25px"
+            />
+            <p style="font-size: 12px; color: #1b2251; font-weight: 600">
+              LOCATE US
+            </p>
+          </a>
+        </div>
+
+        <div style="width: 25%">
+          <a
+            href="https://wa.link/y7s9x0"
+            style="
+              display: flex;
+              align-items: center;
+              justify-content: center;
+              flex-direction: column;
+              text-decoration: none;
+              padding-top: 10px;
+              gap: 10px;
+              background-color: #6ebea3;
+            "
+          >
+            <img
+              src="assets/flat-icons/whatsapp.png"
+              alt=""
+              height="25px"
+              width="25px"
+            />
+            <p style="font-size: 12px; color: #1b2251; font-weight: 600">
+              WHATSAPP
+            </p>
+          </a>
+        </div>
+        <div style="width: 25%">
+          <a
+            href="tel:+919482382130"
+            style="
+              display: flex;
+              align-items: center;
+              justify-content: center;
+              flex-direction: column;
+              padding-top: 10px;
+              gap: 10px;
+              text-decoration: none;
+              background-color: #c0c2ff;
+            "
+          >
+            <img
+              src="assets/flat-icons/smartphone.png"
+              alt=""
+              height="25px"
+              width="25px"
+            />
+            <p style="font-size: 12px; color: #1b2251; font-weight: 600">
+              CALL
+            </p>
+          </a>
+        </div>
+        <div style="width: 25%">
+          <a
+            href="book-an-appointment.html"
+            style="
+              display: flex;
+              align-items: center;
+              justify-content: center;
+              flex-direction: column;
+              padding-top: 10px;
+              gap: 10px;
+              text-decoration: none;
+              background-color: #6ebea3;
+            "
+          >
+            <img
+              src="assets/flat-icons/medical-appointment.png"
+              alt=""
+              height="25px"
+              width="25px"
+            />
+            <p
+              style="
+                overflow-wrap: break-word;
+                font-size: 12px;
+                color: #1b2251;
+                font-weight: 600;
+              "
+            >
+              APPOINTMENT
+            </p>
+          </a>
+        </div>
+      </div>
+    </section>
+
+    <!--==============================
+    All Js File
+============================== -->
+    <!-- Jquery -->
+
+   
+    <script src="assets/js/vendor/jquery-3.7.1.min.js"></script>
+    <!-- Swiper Js -->
+    <script src="assets/js/swiper-bundle.min.js"></script>
+    <!-- Bootstrap -->
+    <script src="assets/js/bootstrap.min.js"></script>
+    <!-- Magnific Popup -->
+    <script src="assets/js/jquery.magnific-popup.min.js"></script>
+    <!-- Counter Up -->
+    <script src="assets/js/jquery.counterup.min.js"></script>
+    <!-- datetimepicker -->
+    <script src="assets/js/jquery.datetimepicker.min.js"></script>
+    <!-- Range Slider -->
+    <script src="assets/js/jquery-ui.min.js"></script>
+    <!-- Isotope Filter -->
+    <script src="assets/js/imagesloaded.pkgd.min.js"></script>
+    <script src="assets/js/isotope.pkgd.min.js"></script>
+
+    <!-- Main Js File -->
+    <script src="assets/js/main.js"></script>
+  </body>
+</html>

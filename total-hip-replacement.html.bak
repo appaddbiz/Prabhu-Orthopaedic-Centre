@@ -1,0 +1,1381 @@
+<!DOCTYPE html>
+<html class="no-js" lang="zxx">
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="x-ua-compatible" content="ie=edge" />
+    <title>Dr. Chetan Patil S – Orthopaedic Specialist</title>
+    <meta name="author" content="Mediax" />
+    <meta
+      name="description"
+      content="Dr. Chetan Patil S – Orthopaedic Specialist"
+    />
+    <meta
+      name="keywords"
+      content="Dr. Chetan Patil S – Orthopaedic Specialist"
+    />
+    <meta name="robots" content="INDEX,FOLLOW" />
+
+    <!-- Mobile Specific Metas -->
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, shrink-to-fit=no"
+    />
+
+    <!-- Favicons - Place favicon.ico in the root directory -->
+    <link rel="apple-touch-icon" sizes="57x57" href="assets/logo/logo.png" />
+    <link rel="apple-touch-icon" sizes="60x60" href="assets/logo/logo.png" />
+    <link rel="apple-touch-icon" sizes="72x72" href="assets/logo/logo.png" />
+    <link rel="apple-touch-icon" sizes="76x76" href="assets/logo/logo.png" />
+    <link rel="apple-touch-icon" sizes="114x114" href="assets/logo/logo.png" />
+    <link rel="apple-touch-icon" sizes="120x120" href="assets/logo/logo.png" />
+    <link rel="apple-touch-icon" sizes="144x144" href="assets/logo/logo.png" />
+    <link rel="apple-touch-icon" sizes="152x152" href="assets/logo/logo.png" />
+    <link rel="apple-touch-icon" sizes="180x180" href="assets/logo/logo.png" />
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="192x192"
+      href="assets/logo/logo.png"
+    />
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="32x32"
+      href="assets/logo/logo.png"
+    />
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="96x96"
+      href="assets/logo/logo.png"
+    />
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="16x16"
+      href="assets/logo/favicon.png"
+    />
+    <link rel="manifest" href="assets/img/favicons/manifest.json" />
+    <meta name="msapplication-TileColor" content="#ffffff" />
+    <meta
+      name="msapplication-TileImage"
+      content="assets/img/favicons/ms-icon-144x144.png"
+    />
+    <meta name="theme-color" content="#ffffff" />
+
+    <!--==============================
+	  Google Fonts
+	============================== -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=DM+Sans:opsz,wght@9..40,100;9..40,200;9..40,300;9..40,400;9..40,500;9..40,600;9..40,700;9..40,800&family=Outfit:wght@300;400;500;600;700;800;900&display=swap"
+      rel="stylesheet"
+    />
+
+    <!--==============================
+	    All CSS File
+	============================== -->
+    <!-- Bootstrap -->
+    <link rel="stylesheet" href="assets/css/bootstrap.min.css" />
+    <!-- Fontawesome Icon -->
+    <link rel="stylesheet" href="assets/css/fontawesome.min.css" />
+    <!-- Magnific Popup -->
+    <link rel="stylesheet" href="assets/css/magnific-popup.min.css" />
+    <!-- Swiper Js -->
+    <link rel="stylesheet" href="assets/css/swiper-bundle.min.css" />
+    <!-- datetimepicker -->
+    <link rel="stylesheet" href="assets/css/jquery.datetimepicker.min.css" />
+    <!-- Theme Custom CSS -->
+    <link rel="stylesheet" href="assets/css/style.css" />
+
+    <style>
+      @media (min-width: 769px) {
+        .mobile-banner {
+          display: none;
+        }
+        .footer-logo {
+          height: 190px !important;
+          width: 70%;
+        }
+      }
+      @media (max-width: 768px) {
+        .desk-banner {
+          display: none;
+        }
+        .footer-logo {
+          height: 200px !important;
+          width: 70%;
+        }
+      }
+    </style>
+  </head>
+
+  <body>
+    <!--[if lte IE 9]>
+      <p class="browserupgrade">
+        You are using an <strong>outdated</strong> browser. Please
+        <a href="https://browsehappy.com/">upgrade your browser</a> to improve
+        your experience and security.
+      </p>
+    <![endif]-->
+
+    <div class="th-menu-wrapper">
+      <div class="th-menu-area text-center">
+        <button class="th-menu-toggle"><i class="fal fa-times"></i></button>
+        <div class="mobile-logo">
+          <a href="/"
+            ><img src="assets/logo/logo.png" style="height: 150px" alt="logo"
+          /></a>
+        </div>
+        <div class="th-mobile-menu">
+          <ul>
+            <li>
+              <a href="/">Home</a>
+            </li>
+            <li><a href="about-doctor.html">About Doctor</a></li>
+            <li class="menu-item-has-children">
+              <a href="orthopedic-surgery-treatment.html"
+                >Orthopaedic Treatment <br />
+                & Surgery
+              </a>
+              <ul class="sub-menu">
+                <li>
+                  <a href="orthopaedic-trauma.html">Orthopaedic Trauma</a>
+                </li>
+                <li class="menu-item-has-children">
+                  <a href="arthroplasty-joint-replacement.html"
+                    >Arthroplasty/Joint Replacement</a
+                  >
+                  <ul class="sub-menu">
+                    <li><a href="hip-surgery.html">Hip Surgery</a></li>
+                    <li><a href="knee-surgery.html">Knee Surgery</a></li>
+                    <li>
+                      <a href="shoulder-surgery.html">Shoulder Surgery</a>
+                    </li>
+                    <li><a href="ankle-surgery.html">Ankle Surgery</a></li>
+                    <li><a href="elbow-surgery.html">Elbow Surgery</a></li>
+                    <li><a href="wrist-surgery.html">Wrist Surgery</a></li>
+                    <!-- <li><a href="finger-surgery.html">Finger Surgery</a></li>
+                    <li><a href="toe-surgery.html">Toe Surgery</a></li> -->
+                    <li><a href="foot-surgery.html">Foot Surgery</a></li>
+                  </ul>
+                </li>
+                <li class="menu-item-has-children">
+                  <a href="arthroscopy.html">Arthroscopy</a>
+                  <ul class="sub-menu">
+                    <!-- <li>
+                      <a href="elbow-arthroscopy.html">Elbow Arthroscopy</a>
+                    </li> -->
+                    <li>
+                      <a href="foot-ankle-arthroscopy.html"
+                        >Foot and Ankle Arthroscopy</a
+                      >
+                    </li>
+                    <!-- <li>
+                      <a href="hand-wrist-arthroscopy.html"
+                        >Hand and Wrist Arthroscopy</a
+                      >
+                    </li> -->
+                    <!-- <li><a href="hip-arthroscopy.html">Hip Arthroscopy</a></li> -->
+                    <li>
+                      <a href="knee-arthroscopy.html">Knee Arthroscopy</a>
+                    </li>
+                    <li>
+                      <a href="shoulder-arthroscopy.html"
+                        >Shoulder Arthroscopy</a
+                      >
+                    </li>
+                  </ul>
+                </li>
+                <li>
+                  <a href="sports-injury-treatments.html"
+                    >Sports Injury Treatments</a
+                  >
+                </li>
+                <li>
+                  <a href="spine-treatments.html">Spine Treatments</a>
+                </li>
+                <li>
+                  <a href="total-knee-replacement.html"
+                    >Total Knee Replacement</a
+                  >
+                </li>
+                <li>
+                  <a href="total-hip-replacement.html">Total Hip Replacement</a>
+                </li>
+                <li>
+                  <a href="robotic-knee-replacement.html"
+                    >Robotic Knee Replacement</a
+                  >
+                </li>
+              </ul>
+            </li>
+            <li class="menu-item-has-children">
+              <a href="our-facilities.html">Facility</a>
+              <ul class="sub-menu">
+                <li>
+                  <a href="expert-orthopaedic-consultation.html"
+                    >Expert Orthopaedic Consultation</a
+                  >
+                </li>
+                <li><a href="x-ray-facility.html">X-Ray Facility</a></li>
+                <li><a href="physiotherapy.html">Physiotherapy</a></li>
+                <li>
+                  <a href="bmc-injection-osteonecrosis-avn.html"
+                    >Bone Marrow Concentrate Injection for Osteonecrosis/AVN</a
+                  >
+                </li>
+                <li>
+                  <a href="bmc-injection-cartilage-defects.html"
+                    >Bone Marrow Concentrate Injection for Cartilage Defects</a
+                  >
+                </li>
+                <li>
+                  <a href="prp-injections.html"
+                    >PRP Injections(Platelet Rich Plasma)</a
+                  >
+                </li>
+                <li>
+                  <a href="non-operative-low-back-pain.html"
+                    >Comprehensive Non Operative Treatment for Low Back Pain</a
+                  >
+                </li>
+              </ul>
+            </li>
+            <li>
+              <a href="gallery.html">Gallery </a>
+            </li>
+            <li>
+              <a href="testimonials.html">Testimonials</a>
+            </li>
+            <li>
+              <a href="contact.html">Contact Us</a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+    <!--==============================
+	Header Area
+==============================-->
+    <header class="th-header header-layout1">
+      <div class="header-top" style="background-color: #0b5045">
+        <div class="container">
+          <div
+            class="row justify-content-center justify-content-lg-between align-items-center gy-2"
+          >
+            <div class="col-auto d-none d-lg-block">
+              <div class="header-links">
+                <ul>
+                  <li class="d-none d-sm-inline-block">
+                    <i class="fas fa-phone icon-btn"></i><b>Phone:</b>
+                    <a href="tel:+919482382130" class="text-white"
+                      >+91 9482382130</a
+                    >
+                  </li>
+                  <li class="d-none d-sm-inline-block">
+                    <i class="fas fa-envelope icon-btn"></i><b>Email:</b>
+                    <a
+                      href="mailto:prabhuorthopaediccentre@gmail.com"
+                      class="text-white"
+                      >prabhuorthopaediccentre@gmail.com</a
+                    >
+                  </li>
+                  <li class="d-none d-xxl-inline-block">
+                    <i class="fas fa-location-dot icon-btn"></i>
+                    <a
+                      href="https://maps.app.goo.gl/uVqTMngPreM6zcmK7"
+                      class="text-white"
+                      >12th Main Rd, 1st Block, Rajajinagar, Bengaluru,
+                      Karnataka 560010
+                    </a>
+                  </li>
+                </ul>
+              </div>
+            </div>
+            <div class="col-auto">
+              <div class="header-links">
+                <ul>
+                  <li>
+                    <div class="social-links">
+                      <span class="social-title">Follow Us On: </span>
+                      <a href="https://www.facebook.com/"
+                        ><i class="fab fa-facebook-f"></i
+                      ></a>
+                      <a href="https://www.twitter.com/"
+                        ><i class="fab fa-twitter"></i
+                      ></a>
+                      <a href="https://www.linkedin.com/"
+                        ><i class="fab fa-linkedin-in"></i
+                      ></a>
+                      <a href="https://www.instagram.com/"
+                        ><i class="fab fa-instagram"></i
+                      ></a>
+                      <a href="https://www.youtube.com/"
+                        ><i class="fab fa-youtube"></i
+                      ></a>
+                    </div>
+                  </li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="sticky-wrapper">
+        <!-- Main Menu Area -->
+        <div class="menu-area">
+          <div class="container-fluid">
+            <div class="row align-items-center justify-content-between">
+              <a href="/" class="col-auto">
+                <div
+                  class="header-logo"
+                  style="
+                    background-image: url(assets/logo/logo.png);
+                    background-position: center;
+                    background-repeat: no-repeat;
+                    background-size: cover;
+                    aspect-ratio: 3/3;
+                  "
+                >
+                  <!-- <div class="logo-bg" data-bg-src="assets/img/bg/logo_bg_1.png"></div> -->
+                  <!-- <a href="home-medical-clinic.html"><img src="assets/logo/logo.png" style="height: 90px;" alt="Mediax"></a> -->
+                </div>
+              </a>
+              <div class="col-auto d-none d-lg-inline-block">
+                <nav class="main-menu d-none d-lg-inline-block">
+                  <ul>
+                    <li>
+                      <a href="/">Home</a>
+                    </li>
+                    <li><a href="about-doctor.html">About Doctor</a></li>
+                    <li class="menu-item-has-children">
+                      <a href="orthopedic-surgery-treatment.html"
+                        >Orthopaedic Treatment & Surgery
+                      </a>
+                      <ul class="sub-menu">
+                        <li>
+                          <a href="orthopaedic-trauma.html"
+                            >Orthopaedic Trauma</a
+                          >
+                        </li>
+                        <li class="menu-item-has-children">
+                          <a href="arthroplasty-joint-replacement.html"
+                            >Arthroplasty/Joint Replacement</a
+                          >
+                          <ul class="sub-menu">
+                            <li><a href="hip-surgery.html">Hip Surgery</a></li>
+                            <li>
+                              <a href="knee-surgery.html">Knee Surgery</a>
+                            </li>
+                            <li>
+                              <a href="shoulder-surgery.html"
+                                >Shoulder Surgery</a
+                              >
+                            </li>
+                            <li>
+                              <a href="ankle-surgery.html">Ankle Surgery</a>
+                            </li>
+                            <li>
+                              <a href="elbow-surgery.html">Elbow Surgery</a>
+                            </li>
+                            <li>
+                              <a href="wrist-surgery.html">Wrist Surgery</a>
+                            </li>
+                            <!-- <li>
+                              <a href="finger-surgery.html">Finger Surgery</a>
+                            </li>
+                            <li><a href="toe-surgery.html">Toe Surgery</a></li> -->
+                            <li>
+                              <a href="foot-surgery.html">Foot Surgery</a>
+                            </li>
+                          </ul>
+                        </li>
+                        <li class="menu-item-has-children">
+                          <a href="arthroscopy.html">Arthroscopy</a>
+                          <ul class="sub-menu">
+                            <!-- <li>
+                              <a href="elbow-arthroscopy.html"
+                                >Elbow Arthroscopy</a
+                              >
+                            </li> -->
+                            <li>
+                              <a href="foot-ankle-arthroscopy.html"
+                                >Foot and Ankle Arthroscopy</a
+                              >
+                            </li>
+                            <!-- <li>
+                              <a href="hand-wrist-arthroscopy.html"
+                                >Hand and Wrist Arthroscopy</a
+                              >
+                            </li> -->
+                            <!-- <li>
+                              <a href="hip-arthroscopy.html">Hip Arthroscopy</a>
+                            </li> -->
+                            <li>
+                              <a href="knee-arthroscopy.html"
+                                >Knee Arthroscopy</a
+                              >
+                            </li>
+                            <li>
+                              <a href="shoulder-arthroscopy.html"
+                                >Shoulder Arthroscopy</a
+                              >
+                            </li>
+                          </ul>
+                        </li>
+                        <li>
+                          <a href="sports-injury-treatments.html"
+                            >Sports Injury Treatments</a
+                          >
+                        </li>
+                        <li>
+                          <a href="spine-treatments.html">Spine Treatments</a>
+                        </li>
+                        <li>
+                          <a href="total-knee-replacement.html"
+                            >Total Knee Replacement</a
+                          >
+                        </li>
+                        <li>
+                          <a href="total-hip-replacement.html"
+                            >Total Hip Replacement</a
+                          >
+                        </li>
+                        <li>
+                          <a href="robotic-knee-replacement.html"
+                            >Robotic Knee Replacement</a
+                          >
+                        </li>
+                      </ul>
+                    </li>
+                    <li class="menu-item-has-children">
+                      <a href="our-facilities.html">Facility</a>
+                      <ul class="sub-menu">
+                        <li>
+                          <a href="expert-orthopaedic-consultation.html"
+                            >Expert Orthopaedic Consultation</a
+                          >
+                        </li>
+                        <li>
+                          <a href="x-ray-facility.html">X-Ray Facility</a>
+                        </li>
+                        <li><a href="physiotherapy.html">Physiotherapy</a></li>
+                        <li>
+                          <a href="bmc-injection-osteonecrosis-avn.html"
+                            >Bone Marrow Concentrate Injection for
+                            Osteonecrosis/AVN</a
+                          >
+                        </li>
+                        <li>
+                          <a href="bmc-injection-cartilage-defects.html"
+                            >Bone Marrow Concentrate Injection for Cartilage
+                            Defects</a
+                          >
+                        </li>
+                        <li>
+                          <a href="prp-injections.html"
+                            >PRP Injections(Platelet Rich Plasma)</a
+                          >
+                        </li>
+                        <li>
+                          <a href="non-operative-low-back-pain.html"
+                            >Comprehensive Non Operative Treatment for Low Back
+                            Pain</a
+                          >
+                        </li>
+                      </ul>
+                    </li>
+                    <li>
+                      <a href="gallery.html">Gallery </a>
+                    </li>
+                    <li>
+                      <a href="testimonials.html">Testimonials</a>
+                    </li>
+                    <li>
+                      <a href="contact.html">Contact Us</a>
+                    </li>
+                  </ul>
+                </nav>
+                <!-- <a href="appointment.html" class="th-btn">Appointment Now</a> -->
+                <!-- <button
+                  type="button"
+                  class="icon-btn sideMenuInfo d-none d-xl-inline-block"
+                >
+                  <i class="far fa-bars"></i>
+                </button>
+                <button type="button" class="th-menu-toggle d-block d-lg-none">
+                  <i class="far fa-bars"></i>
+                </button> -->
+              </div>
+              <div class="col-auto">
+                <div class="header-button">
+                  <!-- <button
+                    type="button"
+                    class="icon-btn searchBoxToggler d-none d-xl-inline-block"
+                  >
+                    <i class="far fa-search"></i>
+                  </button> -->
+                  <!-- <button type="button" class="icon-btn sideMenuCart">
+                    <span class="badge">5</span>
+                    <i class="far fa-cart-shopping"></i>
+                  </button> -->
+                  <a href="book-an-appointment.html" class="th-btn text-white"
+                    >Appointment Now</a
+                  >
+                  <button
+                    type="button"
+                    class="icon-btn sideMenuInfo d-none d-xl-inline-block"
+                  >
+                    <i class="far fa-bars"></i>
+                  </button>
+                  <button
+                    type="button"
+                    class="th-menu-toggle d-block d-lg-none"
+                  >
+                    <i class="far fa-bars"></i>
+                  </button>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </header>
+    <!--==============================
+    Breadcumb
+============================== -->
+    <div class="breadcumb-wrapper">
+      <div class="container">
+        <div class="breadcumb-content">
+          <h1 class="breadcumb-title">Total Hip Replacement</h1>
+          <ul class="breadcumb-menu">
+            <li><a href="/">Home</a></li>
+            <li>
+              <a href="orthopedic-surgery-treatment.html"
+                >Orthopaedic Treatment & Surgery
+              </a>
+            </li>
+            <li>Total Hip Replacement</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+    <!--==============================
+    Service Area
+==============================-->
+    <section class="space-top space-extra-bottom">
+      <div class="container">
+        <div class="row flex-row-reverse">
+          <div class="col-xxl-8 col-lg-8">
+            <div class="page-single single-right mb-30">
+              <div class="page-img">
+                <img
+                  src="assets/service-images/Total-Hip-Replacement.jpg"
+                  alt="Service Image"
+                />
+              </div>
+              <div class="page-content">
+                <h4 class="fw-semibold">
+                  Regain Mobility and Relieve Chronic Pain
+                </h4>
+                <p style="text-align: justify">
+                  If you’re struggling with persistent hip pain that interferes
+                  with daily life,
+                  <strong>Total Hip Replacement</strong> may be the
+                  life-changing solution you need. Whether due to arthritis,
+                  injury, or degeneration, when hip pain limits your mobility,
+                  affects your sleep, or hinders your quality of life, it's time
+                  to consider advanced orthopedic care. This guide explains
+                  everything you need to know—from what Total Hip Replacement is
+                  to recovery, rehabilitation, and consultation with renowned
+                  orthopedic surgeon <strong>Dr. Chetan Patil S</strong>, who
+                  offers the
+                  <strong>best Total Hip Replacement in Bangalore</strong>.
+                </p>
+
+                <h6 class="fw-semibold">What is Total Hip Replacement?</h6>
+                <p style="text-align: justify">
+                  <strong>Total Hip Replacement (THR)</strong>, also known as
+                  total hip arthroplasty, is a surgical procedure where a
+                  damaged hip joint is replaced with a prosthetic implant. The
+                  goal is to relieve pain, restore mobility, and improve
+                  function in individuals suffering from hip joint damage.
+                </p>
+                <p style="text-align: justify">
+                  The hip joint is a ball-and-socket joint, where the ball
+                  (femoral head) at the top of your thigh bone fits into a
+                  socket (acetabulum) in your pelvis. In THR, both the ball and
+                  socket are replaced with artificial components—usually made of
+                  metal, ceramic, or high-grade plastic—that replicate the
+                  movement of a healthy joint.
+                </p>
+                <p style="text-align: justify">
+                  This surgery is commonly recommended for conditions such as:
+                </p>
+                <ul>
+                  <li><strong>Osteoarthritis</strong></li>
+                  <li><strong>Rheumatoid arthritis</strong></li>
+                  <li><strong>Post-traumatic arthritis</strong></li>
+                  <li><strong>Avascular necrosis</strong></li>
+                  <li><strong>Hip fractures</strong></li>
+                </ul>
+
+                <h6 class="fw-semibold">Treatment Process</h6>
+
+                <h6>1. Diagnosis & Pre-operative Assessment</h6>
+                <ul>
+                  <li>
+                    The severity of joint damage through X-rays, MRI, or CT
+                    scans
+                  </li>
+                  <li>
+                    Your pain levels, mobility, and impact on daily activities
+                  </li>
+                  <li>Overall health and medical history</li>
+                </ul>
+                <p style="text-align: justify">
+                  Once Total Hip Replacement is deemed appropriate, you'll
+                  undergo pre-operative tests to ensure you're fit for surgery,
+                  including blood tests, ECG, and anesthetic evaluation.
+                </p>
+
+                <h6>2. The Surgical Procedure</h6>
+                <p>
+                  During <strong>Total Hip Replacement</strong>, the procedure
+                  typically involves:
+                </p>
+                <ul>
+                  <li>Administering spinal or general anesthesia</li>
+                  <li>Removing the damaged femoral head</li>
+                  <li>
+                    Preparing the socket (acetabulum) and inserting the
+                    prosthetic cup
+                  </li>
+                  <li>
+                    Inserting a metal stem into the femur and attaching a new
+                    ball
+                  </li>
+                  <li>
+                    Ensuring a proper fit and movement before closing the
+                    incision
+                  </li>
+                </ul>
+                <p style="text-align: justify">
+                  The entire surgery usually takes 1.5 to 2 hours. Minimally
+                  invasive techniques may be used depending on the patient’s
+                  condition and surgeon’s expertise.
+                </p>
+
+                <h6 class="fw-semibold">
+                  Consultation with Dr. Chetan Patil S
+                </h6>
+                <p style="text-align: justify">
+                  For those seeking the
+                  <strong>best Total Hip Replacement in Bangalore</strong>,
+                  <strong>Dr. Chetan Patil S</strong> is a trusted name in
+                  orthopedic surgery. With years of experience in joint
+                  replacement and advanced arthroplasty techniques, Dr. Patil is
+                  known for his patient-centric approach and high surgical
+                  success rate.
+                </p>
+                <p style="text-align: justify">
+                  At your consultation, you can expect:
+                </p>
+                <ul>
+                  <li>Thorough diagnosis and imaging evaluation</li>
+                  <li>
+                    Clear explanation of surgical and non-surgical options
+                  </li>
+                  <li>A tailored treatment plan focusing on rapid recovery</li>
+                  <li>
+                    Transparent discussion about risks, costs, and post-surgery
+                    outcomes
+                  </li>
+                </ul>
+
+                <h6 class="fw-semibold">Recovery and Rehabilitation</h6>
+
+                <h6>Immediate Post-Surgery (0–3 days)</h6>
+                <ul>
+                  <li>
+                    You’ll begin gentle physiotherapy within 24 hours to prevent
+                    stiffness and promote circulation.
+                  </li>
+                  <li>
+                    Most patients start walking with support on the second or
+                    third day.
+                  </li>
+                  <li>Pain will be managed with medications.</li>
+                </ul>
+
+                <h6>Short-Term Recovery (3–6 weeks)</h6>
+                <ul>
+                  <li>
+                    You will use a walker or crutches initially and gradually
+                    transition to a cane or independent walking.
+                  </li>
+                  <li>
+                    Light daily activities can be resumed, including personal
+                    care and short walks.
+                  </li>
+                  <li>
+                    Avoid bending beyond 90 degrees or twisting the operated
+                    leg.
+                  </li>
+                </ul>
+
+                <h6>Long-Term Rehabilitation (6 weeks – 6 months)</h6>
+                <ul>
+                  <li>
+                    Physiotherapy will include muscle strengthening, balance
+                    training, and range-of-motion exercises.
+                  </li>
+                  <li>
+                    By the third month, most people resume low-impact activities
+                    like cycling or swimming.
+                  </li>
+                  <li>Full recovery typically occurs within 6 months.</li>
+                  <li>
+                    Dr. Chetan Patil S and his rehabilitation team ensure a
+                    closely monitored recovery program with milestone-based
+                    progression.
+                  </li>
+                </ul>
+
+                <h6 class="fw-semibold">What to Expect After Treatment</h6>
+                <p>
+                  After successful <strong>Total Hip Replacement</strong>, most
+                  patients experience:
+                </p>
+                <ul>
+                  <li>
+                    <strong>Significant pain relief:</strong> Chronic joint pain
+                    is often eliminated within weeks of surgery.
+                  </li>
+                  <li>
+                    <strong>Improved mobility:</strong> Walking, sitting, and
+                    climbing stairs becomes easier.
+                  </li>
+                  <li>
+                    <strong>Better sleep and quality of life:</strong> Reduced
+                    discomfort improves overall well-being.
+                  </li>
+                </ul>
+                <p style="text-align: justify">
+                  However, it's essential to manage expectations and understand
+                  that:
+                </p>
+                <ul>
+                  <li>
+                    The artificial joint may not have the full flexibility of a
+                    natural hip.
+                  </li>
+                  <li>
+                    High-impact sports and activities that strain the joint
+                    should be avoided.
+                  </li>
+                  <li>
+                    With proper care, hip implants can last 15–20 years or more.
+                  </li>
+                </ul>
+
+                <h6 class="fw-semibold">
+                  Benefits of Choosing the Best Total Hip Replacement in
+                  Bangalore
+                </h6>
+                <ul>
+                  <li>
+                    Access to experienced surgeons like
+                    <strong>Dr. Chetan Patil S</strong>
+                  </li>
+                  <li>
+                    Availability of advanced imaging and surgical technology
+                  </li>
+                  <li>
+                    Comprehensive rehabilitation and physiotherapy services
+                  </li>
+                  <li>High standards of hygiene and post-operative care</li>
+                </ul>
+                <p style="text-align: justify">
+                  Bangalore has become a hub for medical tourism, especially for
+                  orthopedic surgeries, due to its state-of-the-art
+                  infrastructure and affordable treatment packages.
+                </p>
+
+                <h6 class="fw-semibold">
+                  Is Total Hip Replacement Right for You?
+                </h6>
+                <p style="text-align: justify">
+                  You might be a good candidate for THR if:
+                </p>
+                <ul>
+                  <li>
+                    You suffer from chronic hip pain that interferes with
+                    everyday activities.
+                  </li>
+                  <li>
+                    Pain persists even after medication, injections, or
+                    physiotherapy.
+                  </li>
+                  <li>
+                    You experience stiffness, limping, or need support while
+                    walking.
+                  </li>
+                  <li>Imaging shows joint deterioration or deformity.</li>
+                </ul>
+                <p style="text-align: justify">
+                  It’s important to discuss your symptoms and expectations with
+                  a qualified orthopedic surgeon like
+                  <strong>Dr. Chetan Patil S</strong> to determine the best
+                  course of action.
+                </p>
+
+                <h6 class="fw-semibold">Book Your Consultation Today</h6>
+                <p style="text-align: justify">
+                  If you are considering
+                  <strong>Total Hip Replacement</strong> for yourself or a loved
+                  one, consult <strong>Dr. Chetan Patil S</strong>, one of the
+                  most trusted names for the
+                  <strong>best Total Hip Replacement in Bangalore</strong>. His
+                  commitment to excellence, personalized care, and focus on
+                  rapid recovery ensures you’re in safe hands.
+                </p>
+                <p style="text-align: justify">
+                  Say goodbye to joint pain and reclaim your active life—<strong
+                    >schedule your consultation with Dr. Chetan Patil S
+                    today</strong
+                  >.
+                </p>
+
+                <h4>FAQs about Total Knee Replacement</h4>
+                <div class="accordion-card">
+                  <div class="accordion-header" id="collapse-item-2">
+                    <button
+                      class="accordion-button collapsed"
+                      type="button"
+                      data-bs-toggle="collapse"
+                      data-bs-target="#collapse-2"
+                      aria-expanded="false"
+                      aria-controls="collapse-2"
+                    >
+                      01.Is How long will the artificial hip joint last?
+                    </button>
+                  </div>
+                  <div
+                    id="collapse-2"
+                    class="accordion-collapse collapse"
+                    aria-labelledby="collapse-item-2"
+                    data-bs-parent="#faqAccordion"
+                  >
+                    <div class="accordion-body">
+                      <p class="faq-text">
+                        Most modern implants last 15–20 years, and many even
+                        longer with proper care.
+                      </p>
+                    </div>
+                  </div>
+                </div>
+                <div class="accordion-card">
+                  <div class="accordion-header" id="collapse-item-3">
+                    <button
+                      class="accordion-button collapsed"
+                      type="button"
+                      data-bs-toggle="collapse"
+                      data-bs-target="#collapse-3"
+                      aria-expanded="false"
+                      aria-controls="collapse-3"
+                    >
+                      02. Can I return to work after surgery?
+                    </button>
+                  </div>
+                  <div
+                    id="collapse-3"
+                    class="accordion-collapse collapse"
+                    aria-labelledby="collapse-item-3"
+                    data-bs-parent="#faqAccordion"
+                  >
+                    <div class="accordion-body">
+                      <p class="faq-text">
+                        Yes, depending on your job type. Desk jobs can often be
+                        resumed in 4–6 weeks, while physically demanding work
+                        may take longer.
+                      </p>
+                    </div>
+                  </div>
+                </div>
+                <div class="accordion-card">
+                  <div class="accordion-header" id="collapse-item-4">
+                    <button
+                      class="accordion-button collapsed"
+                      type="button"
+                      data-bs-toggle="collapse"
+                      data-bs-target="#collapse-4"
+                      aria-expanded="false"
+                      aria-controls="collapse-4"
+                    >
+                      03. Are there risks involved in THR?
+                    </button>
+                  </div>
+                  <div
+                    id="collapse-4"
+                    class="accordion-collapse collapse"
+                    aria-labelledby="collapse-item-4"
+                    data-bs-parent="#faqAccordion"
+                  >
+                    <div class="accordion-body">
+                      <p class="faq-text">
+                        As with any surgery, risks include infection, blood
+                        clots, or implant loosening. However, complications are
+                        rare with skilled surgeons.
+                      </p>
+                    </div>
+                  </div>
+                </div>
+                <div class="accordion-card">
+                  <div class="accordion-header" id="collapse-item-5">
+                    <button
+                      class="accordion-button collapsed"
+                      type="button"
+                      data-bs-toggle="collapse"
+                      data-bs-target="#collapse-5"
+                      aria-expanded="false"
+                      aria-controls="collapse-5"
+                    >
+                      04. Will I need a second replacement in the future?
+                    </button>
+                  </div>
+                  <div
+                    id="collapse-5"
+                    class="accordion-collapse collapse"
+                    aria-labelledby="collapse-item-5"
+                    data-bs-parent="#faqAccordion"
+                  >
+                    <div class="accordion-body">
+                      <p class="faq-text">
+                        Some younger patients may eventually need revision
+                        surgery, but advances in prosthetics have significantly
+                        increased implant longevity.
+                      </p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-xxl-4 col-lg-4">
+            <aside class="sidebar-area">
+              <div class="widget widget_categories">
+                <h6
+                  class="fw-semibold"
+                  class="widget_title"
+                  style="font-size: 20px"
+                >
+                  Orthopaedic Treatment & Surgery
+                </h6>
+                <ul>
+                  <li>
+                    <a href="orthopaedic-trauma.html">Orthopaedic Trauma</a>
+                  </li>
+                  <li>
+                    <a href="arthroplasty-joint-replacement.html"
+                      >Arthroplasty/Joint Replacement</a
+                    >
+                  </li>
+                  <li>
+                    <a href="arthroscopy.html">Arthroscopy</a>
+                  </li>
+                  <li>
+                    <a href="sports-injury-treatments.html"
+                      >Sports Injury Treatments</a
+                    >
+                  </li>
+                  <li>
+                    <a href="spine-treatments.html">Spine Treatments</a>
+                  </li>
+                  <li>
+                    <a href="total-knee-replacement.html"
+                      >Total Knee Replacement</a
+                    >
+                  </li>
+                  <li>
+                    <a href="total-hip-replacement.html"
+                      >Total Hip Replacement</a
+                    >
+                  </li>
+                  <li>
+                    <a href="robotic-knee-replacement.html"
+                      >Robotic Knee Replacement</a
+                    >
+                  </li>
+                </ul>
+              </div>
+              <div class="th-team team-grid">
+                <div class="box-img">
+                  <img src="assets/doctor-images/dr-chetan.webp" alt="Team" />
+                  <div class="team-social">
+                    <div class="th-social">
+                      <a target="_blank" href="https://facebook.com/"
+                        ><i class="fab fa-facebook-f"></i
+                      ></a>
+                      <a target="_blank" href="https://whatsapp.com/"
+                        ><i class="fab fa-whatsapp"></i
+                      ></a>
+                      <a target="_blank" href="https://linkedin.com/"
+                        ><i class="fab fa-linkedin-in"></i
+                      ></a>
+                    </div>
+                    <button class="icon-btn">
+                      <i class="fa-solid fa-link"></i>
+                    </button>
+                  </div>
+                </div>
+                <div class="box-content">
+                  <h3 class="box-title">
+                    <a href="about-doctor.html">Dr. Chetan Patil S </a>
+                  </h3>
+                  <p class="box-text">Orthopaedic Specialist</p>
+                </div>
+              </div>
+              <div class="tab-schedule mt-5">
+                <h3 class="widget_title">Clinical Timings</h3>
+                <p class="box-text">
+                  Monday - Saturday: <span>10:30 AM - 6:00 PM</span>
+                </p>
+                <h3 class="widget_title">Doctor Consultation Timings</h3>
+                <p class="box-text">
+                  Morning : <span>10:30 AM - 2:30 PM </span>
+                </p>
+                <p class="box-text">Evening : <span>4:30 PM - 6:00 PM</span></p>
+              </div>
+            </aside>
+          </div>
+        </div>
+      </div>
+    </section>
+    <!--==============================
+	Footer Area
+==============================-->
+    <footer class="footer-wrapper footer-layout1">
+      <div class="widget-area">
+        <div class="container">
+          <div class="row justify-content-between">
+            <div class="col-md-6 col-xl-auto">
+              <div class="widget footer-widget">
+                <div class="th-widget-about text-center">
+                  <div
+                    class="about-logo"
+                    style="background-color: white; width: max-content"
+                  >
+                    <a href="/"
+                      ><img
+                        src="assets/logo/logo.png"
+                        style="width: 200px; height: 200px"
+                        alt=""
+                    /></a>
+                  </div>
+
+                  <p class="footer-info">
+                    <i class="fal fa-envelope"></i>
+                    <a
+                      href="mailto:prabhuorthopaediccentre@gmail.com"
+                      class="info-box_link"
+                      >prabhuorthopaediccentre@gmail.com</a
+                    >
+                  </p>
+                  <p class="footer-info">
+                    <i class="fal fa-phone"></i>&ensp;
+                    <a href="tel:+919482382130" class="info-box_link"
+                      >+91 9482382130
+                    </a>
+                  </p>
+                  <p class="footer-info" style="color: white">
+                    <i class="fal fa-phone"></i>&ensp; Emergency :
+                    <a href="tel:+919611109866" class="info-box_link">
+                      +91 9611109866
+                    </a>
+                  </p>
+                  <p class="footer-info text-white" style="text-align: justify">
+                    <i class="fal fa-location-dot"></i>
+                    <a
+                      href="https://maps.app.goo.gl/uVqTMngPreM6zcmK7"
+                      class="text-white"
+                    >
+                      PRABHU ORTHOPAEDIC CENTRE, SLLR Mansion, 46/8, 12th Main
+                      Rd, 1st Block, Rajajinagar, Bengaluru, Karnataka 560010
+                    </a>
+                  </p>
+                </div>
+              </div>
+            </div>
+            <div class="col-md-6 col-xl-auto">
+              <div class="widget widget_nav_menu footer-widget">
+                <h3 class="widget_title">Quick Links</h3>
+                <div class="menu-all-pages-container">
+                  <ul class="menu">
+                    <li><a href="/">Home</a></li>
+                    <li><a href="about-doctor.html">About Doctor</a></li>
+                    <li>
+                      <a href="orthopedic-surgery-treatment.html"
+                        >Orthopaedic Treatment <br />
+                        & Surgery</a
+                      >
+                    </li>
+                    <li><a href="our-facilities.html">Facility</a></li>
+                    <li><a href="gallery.html">Gallery</a></li>
+                    <li><a href="testimonials.html">Testimonials</a></li>
+                    <li><a href="contact.html">Contact Us</a></li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+            <div class="col-md-6 col-xl-auto">
+              <div class="widget widget_nav_menu footer-widget">
+                <h3 class="widget_title">Our Facilities</h3>
+                <div class="menu-all-pages-container">
+                  <ul class="menu">
+                    <li>
+                      <a href="expert-orthopaedic-consultation.html"
+                        >Expert Orthopaedic Consultation</a
+                      >
+                    </li>
+                    <li><a href="x-ray-facility.html">X-Ray Facility</a></li>
+                    <li><a href="#">Physiotherapy</a></li>
+                    <li>
+                      <a href="bmc-injection-osteonecrosis-avn.html"
+                        >Bone Marrow Concentrate <br />
+                        Injection for Osteonecrosis/AVN</a
+                      >
+                    </li>
+                    <li>
+                      <a href="bmc-injection-cartilage-defects.html"
+                        >Bone Marrow Concentrate <br />
+                        Injection for Cartilage Defects</a
+                      >
+                    </li>
+                    <li>
+                      <a href="prp-injections.html"
+                        >PRP Injections(Platelet Rich Plasma)</a
+                      >
+                    </li>
+                    <li>
+                      <a href="non-operative-low-back-pain.html"
+                        >Comprehensive Non Operative <br />
+                        Treatment for Low Back Pain</a
+                      >
+                    </li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+            <div class="col-md-6 col-xl-auto">
+              <div class="widget footer-widget">
+                <h3 class="widget_title">Locate Us</h3>
+                <div class="recent-post-wrap">
+                  <iframe
+                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3928.05559287081!2d77.552202!3d12.9999592!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae3d853e19f07f%3A0x830b81949c2bcdbe!2sPrabhu%20Orthopaedic%20Centre!5e1!3m2!1sen!2sin!4v1748003131097!5m2!1sen!2sin"
+                    style="border: 0; width: 100%; height: 250px"
+                    allowfullscreen=""
+                    loading="lazy"
+                    referrerpolicy="no-referrer-when-downgrade"
+                  ></iframe>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="copyright-wrap">
+        <div class="container">
+          <div class="row gy-2 align-items-center">
+            <div class="col-md-12">
+              <p class="copyright-text text-center">
+                Copyright <i class="fal fa-copyright"></i> 2025
+                <a href="#" class="text-white"><b>Dr. Chetan Patil S</b></a
+                >. All Rights Reserved. Designed by
+                <a href="https://www.appaddindia.net/" style="color: white"
+                  >Appadd India Pvt Ltd...</a
+                >
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </footer>
+
+    <!--********************************
+			Code End  Here 
+	******************************** -->
+
+    <!-- Scroll To Top -->
+    <div class="scroll-top" style="bottom: 70px">
+      <svg
+        class="progress-circle svg-content"
+        width="100%"
+        height="100%"
+        viewBox="-1 -1 102 102"
+      >
+        <path
+          d="M50,1 a49,49 0 0,1 0,98 a49,49 0 0,1 0,-98"
+          style="
+            transition: stroke-dashoffset 10ms linear 0s;
+            stroke-dasharray: 307.919, 307.919;
+            stroke-dashoffset: 307.919;
+          "
+        ></path>
+      </svg>
+    </div>
+
+    <section
+      style="position: fixed; bottom: 0px; z-index: 999"
+      class="desk-view container-full"
+    >
+      <div
+        style="
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          width: 100vw;
+          height: 60px;
+        "
+      >
+        <div style="width: 25%">
+          <a
+            href="https://maps.app.goo.gl/eM2h65Z5cKiAtLca7"
+            style="
+              display: flex;
+              align-items: center;
+              justify-content: center;
+              flex-direction: column;
+              padding-top: 10px;
+              gap: 10px;
+              text-decoration: none;
+              background-color: #c0c2ff;
+            "
+          >
+            <img
+              src="assets/flat-icons/google-maps.png"
+              alt=""
+              height="25px"
+              width="25px"
+            />
+            <p style="font-size: 12px; color: #1b2251; font-weight: 600">
+              LOCATE US
+            </p>
+          </a>
+        </div>
+
+        <div style="width: 25%">
+          <a
+            href="https://wa.link/y7s9x0"
+            style="
+              display: flex;
+              align-items: center;
+              justify-content: center;
+              flex-direction: column;
+              text-decoration: none;
+              padding-top: 10px;
+              gap: 10px;
+              background-color: #6ebea3;
+            "
+          >
+            <img
+              src="assets/flat-icons/whatsapp.png"
+              alt=""
+              height="25px"
+              width="25px"
+            />
+            <p style="font-size: 12px; color: #1b2251; font-weight: 600">
+              WHATSAPP
+            </p>
+          </a>
+        </div>
+        <div style="width: 25%">
+          <a
+            href="tel:+919482382130"
+            style="
+              display: flex;
+              align-items: center;
+              justify-content: center;
+              flex-direction: column;
+              padding-top: 10px;
+              gap: 10px;
+              text-decoration: none;
+              background-color: #c0c2ff;
+            "
+          >
+            <img
+              src="assets/flat-icons/smartphone.png"
+              alt=""
+              height="25px"
+              width="25px"
+            />
+            <p style="font-size: 12px; color: #1b2251; font-weight: 600">
+              CALL
+            </p>
+          </a>
+        </div>
+        <div style="width: 25%">
+          <a
+            href="book-an-appointment.html"
+            style="
+              display: flex;
+              align-items: center;
+              justify-content: center;
+              flex-direction: column;
+              padding-top: 10px;
+              gap: 10px;
+              text-decoration: none;
+              background-color: #6ebea3;
+            "
+          >
+            <img
+              src="assets/flat-icons/medical-appointment.png"
+              alt=""
+              height="25px"
+              width="25px"
+            />
+            <p
+              style="
+                overflow-wrap: break-word;
+                font-size: 12px;
+                color: #1b2251;
+                font-weight: 600;
+              "
+            >
+              APPOINTMENT
+            </p>
+          </a>
+        </div>
+      </div>
+    </section>
+
+    <!--==============================
+    All Js File
+============================== -->
+    <!-- Jquery -->
+
+   
+    <script src="assets/js/vendor/jquery-3.7.1.min.js"></script>
+    <!-- Swiper Js -->
+    <script src="assets/js/swiper-bundle.min.js"></script>
+    <!-- Bootstrap -->
+    <script src="assets/js/bootstrap.min.js"></script>
+    <!-- Magnific Popup -->
+    <script src="assets/js/jquery.magnific-popup.min.js"></script>
+    <!-- Counter Up -->
+    <script src="assets/js/jquery.counterup.min.js"></script>
+    <!-- datetimepicker -->
+    <script src="assets/js/jquery.datetimepicker.min.js"></script>
+    <!-- Range Slider -->
+    <script src="assets/js/jquery-ui.min.js"></script>
+    <!-- Isotope Filter -->
+    <script src="assets/js/imagesloaded.pkgd.min.js"></script>
+    <script src="assets/js/isotope.pkgd.min.js"></script>
+
+    <!-- Main Js File -->
+    <script src="assets/js/main.js"></script>
+  </body>
+</html>
