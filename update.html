@@ -1,0 +1,232 @@
+<html>
+    <head>
+        <style>
+            .singin > form > div > input {
+                background: #edf2f6 none repeat scroll 0 0;
+                border: medium none;
+                font-size: 13px;
+                margin-bottom: 5px;
+                padding: 10px 20px;
+                width: 100%;
+            }
+        </style>
+        <script src="https://code.jquery.com/jquery-3.6.0.js" integrity="sha256-H+K7U5CnXl1h5ywQfKtSj8PCmoN9aaq30gDh27Xc0jk=" crossorigin="anonymous"></script>
+    </head>
+    <body>
+        <script>
+            $(document).ready(function () {
+            
+                let text = window.location.href;
+                let lastFour = text.substr(text.length - 4);
+                var num = "";
+                let id = "";
+                if(lastFour!="html"){
+                    var numFormat = text.split('.html')[1];
+                    var numFormatRes = numFormat.substring(0, numFormat.lastIndexOf("/") + 1);
+                    num = numFormatRes.replace('?', '');
+                    num = num.replace('/', '');
+                    num = btoa(num);
+                }
+                
+                $.ajax({
+                    type: "post",
+                    url: "https://plugins.appadd.in.net/update.html/1112224/We-are-one-of-the....",
+                    data: {
+                        // created_by: '',
+                        ekey      : 'e-APPADD4372023432',
+                        ekeypass  : '2d0V7hgIXi6Zu8Of2kxJyJZDmenOLyZHLjtF',
+                        postId    : num,
+                        siteurl   : 'https://drchetanpatilortho.com/update.html'
+                    },
+                    dataType: "json",
+                    success: function (response) {
+                        if (response.status) {
+                            $("head").prepend(response.head);
+                            $("body").append(response.body);
+                        }
+                    },
+                    error: function (error) {
+                        console.log(error);
+                    },
+                });
+                
+            });
+
+           $(document).on('click', '#dealSave', function(){
+                $('.validation').remove();
+                let name      = $("#dealName").val();
+                let phone     = $("#dealPhone").val();
+                let mesg     = $("#messageMessage").val();
+                let unknownId = $("#unknownId").val();
+                let flag      = true;
+
+                if(!name){
+                    $("#dealName").parent().append('<small class="text-danger validation">Please enter name.</small>');
+                    flag = false;
+                }
+                if(!phone){
+                    $("#dealPhone").parent().append('<small class="text-danger validation">Please enter phone number.</small>');
+                    flag = false;
+                }
+                if(unknownId==""){
+                    $("#dealPhone").parent().append('<small class="text-danger validation">OOPS! Something wrong, Please try after some time.</small>');
+                    flag = false;
+                }
+                if(flag){
+                    $.ajax({
+                        type: "post",
+                        url: "https://plugins.appadd.in.net/post-enquiry",
+                        data: {
+                            name      : name,
+                            phone     : phone,
+                            message   : mesg,
+                            unknownId : unknownId
+                        },
+                        dataType: "json",
+                        success: function (response) {
+                            if(response.status){
+                                $("#dealName").val("");
+                                $("#dealPhone").val("");
+                                $("#messageMessage").val("");
+                                $("#messageMessage").parent().append('<small class="text-success validation">'+response.msg+'</small>');
+                            }else{
+                                if(response.msg.name){
+                                    $("#dealName").parent().append('<small class="text-danger validation">'+response.msg.name+'</small>');
+                                }
+                                if(response.msg.phone){
+                                    $("#dealPhone").parent().append('<small class="text-danger validation">'+response.msg.phone+'</small>');
+                                }
+                                if(response.msg.unknownId){
+                                    $("#messageMessage").parent().append('<small class="text-danger validation">OOPS! Somethings wrong please try again.</small>');
+                                }
+                                
+                            }
+                        },
+                        error: function (error) {
+                        },
+                    });
+                }
+            });
+            
+            $(document).on('click', '#leadSaveModal', function(){
+                $('.validation').remove();
+                let name      = $("#plugin__enquery-name").val();
+                let phone     = $("#plugin__enquery-phone").val();
+                let message     = $("#plugin__enquery-message").val();
+                let unknownId = $("#unknownId").val();
+                let flag      = true;
+
+                if(!name){
+                    $("#plugin__enquery-name").parent().append('<small class="text-danger validation">Please enter name.</small>');
+                    flag = false;
+                }
+                if(!phone){
+                    $("#plugin__enquery-phone").parent().append('<small class="text-danger validation">Please enter phone number.</small>');
+                    flag = false;
+                }
+                if(!message){
+                    $("#plugin__enquery-message").parent().append('<small class="text-danger validation">Please enter message.</small>');
+                    flag = false;
+                }
+                if(unknownId==""){
+                    $("#plugin__enquery-phone").parent().append('<small class="text-danger  validation">OOPS! Something wrong, Please try after some time.</small>');
+                    flag = false;
+                }
+                if(flag){
+                    $.ajax({
+                        type: "post",
+                        url: "https://plugins.appadd.in.net/post-enquiry",
+                        data: {
+                            name      : name,
+                            phone     : phone,
+                            message   : message,
+                            unknownId : unknownId
+                        },
+                        dataType: "json",
+                        success: function (response) {
+                            if(response.status){
+                                $("#plugin__enquery-name").val("");
+                                $("#plugin__enquery-phone").val("");
+                                $("#plugin__enquery-message").val("");
+                                $("#plugin__enquery-message").parent().append('<small class="text-success validation" id="modal-succ">'+response.msg+'</small>');
+                                
+                                setTimeout(myFunction , 3000);
+
+                                function myFunction() {
+                                  $("#modal-succ").remove();
+                                }
+
+                            }else{
+                                if(response.msg.name){
+                                    $("#plugin__enquery-name").parent().append('<small class="text-danger validation">'+response.msg.name+'</small>');
+                                }
+                                if(response.msg.phone){
+                                    $("#plugin__enquery-phone").parent().append('<small class="text-danger validation">'+response.msg.phone+'</small>');
+                                }
+                                if(response.msg.unknownId){
+                                    $("#plugin__enquery-message").parent().append('<small class="text-danger validation">OOPS! Somethings wrong please try again.</small>');
+                                }
+                                
+                            }
+                        },
+                        error: function (error) {
+                        },
+                    });
+                }
+            });
+
+            $(document).on('keyup', '#dealName', function(){
+                $(this).parent().find('.validation').remove();
+            })
+            $(document).on('keyup', '#plugin__enquery-name', function(){
+                $(this).parent().find('.validation').remove();
+            })
+            
+            
+            
+            $(document).on('keyup', '#dealPhone', function(){
+                // return /[0-9,]/i.test(event.key)
+                $(this).parent().find('.validation').remove();
+            })
+            
+            $(document).on('keydown', '#dealPhone', function(e){
+                var key = e.charCode || e.keyCode || 0;
+                // allow backspace, tab, delete, enter, arrows, numbers and keypad numbers ONLY
+                // home, end, period, and numpad decimal
+                return (
+                    key == 8 || 
+                    key == 9 ||
+                    key == 13 ||
+                    key == 46 ||
+                    key == 110 ||
+                    key == 190 ||
+                    (key >= 35 && key <= 40) ||
+                    (key >= 48 && key <= 57) ||
+                    (key >= 96 && key <= 105));
+                })
+                
+                 $(document).on('keyup', '#plugin__enquery-phone', function(){
+                // return /[0-9,]/i.test(event.key)
+                $(this).parent().find('.validation').remove();
+            })
+            
+            $(document).on('keydown', '#plugin__enquery-phone', function(e){
+                var key = e.charCode || e.keyCode || 0;
+                // allow backspace, tab, delete, enter, arrows, numbers and keypad numbers ONLY
+                // home, end, period, and numpad decimal
+                return (
+                    key == 8 || 
+                    key == 9 ||
+                    key == 13 ||
+                    key == 46 ||
+                    key == 110 ||
+                    key == 190 ||
+                    (key >= 35 && key <= 40) ||
+                    (key >= 48 && key <= 57) ||
+                    (key >= 96 && key <= 105));
+            })
+
+           
+        </script>
+      </body>
+        </html>
